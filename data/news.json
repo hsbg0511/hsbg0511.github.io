@@ -1,0 +1,74 @@
+{
+  "news": [
+    {
+      "title": "하나은행, 소상공인 포용금융 1.3조 확대",
+      "url": "https://n.news.naver.com/mnews/article/016/0002662881"
+    },
+    {
+      "title": "외국인 3조 매도세에 코스피 8200선 공방전…코스닥은 6% 상승세",
+      "url": "https://n.news.naver.com/mnews/article/366/0001175180"
+    },
+    {
+      "title": "“현대차 띠부씰 모아볼까”…현대차, GS25 아이스크림 출시",
+      "url": "https://n.news.naver.com/mnews/article/119/0003105595"
+    },
+    {
+      "title": "살림 '전담' 남편들 27만명…남성 전업주부 역대 최다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303706"
+    },
+    {
+      "title": "DL이앤씨, 1.3조원 ‘목동6단지’ 재건축 시공사 선정",
+      "url": "https://n.news.naver.com/mnews/article/016/0002662671"
+    },
+    {
+      "title": "\"1000만원 성과급 달라\" 카카오 노조, 결국 29일 '로그아웃'…카톡은 정상운영",
+      "url": "https://n.news.naver.com/mnews/article/014/0005540790"
+    },
+    {
+      "title": "올리브영, 북성수에 ‘뷰티 맨션’ 연다… “K뷰티 심화 체험”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003730072"
+    },
+    {
+      "title": "카카오뱅크, 주담대 중도상환수수료 면제 연장…누적 혜택 1.3조",
+      "url": "https://n.news.naver.com/mnews/article/029/0003034125"
+    },
+    {
+      "title": "홈플 영업중단 반사이익… 인근 경쟁점포 매출 두자릿수 껑충[홈플發 마트 지도 격변 上]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005540661"
+    },
+    {
+      "title": "하나카드, 2금융권 최초로 '연 12%' 최고금리 상한제 도입한다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006317655"
+    }
+  ],
+  "stocks": {
+    "kospi": {
+      "value": 8288.97,
+      "change": -122.24,
+      "change_pct": -1.45
+    },
+    "kosdaq": {
+      "value": 911.36,
+      "change": 59.99,
+      "change_pct": 7.05
+    },
+    "nasdaq": {
+      "value": 25297.62,
+      "change": -60.98,
+      "change_pct": -0.24
+    },
+    "usdkrw": {
+      "value": 1543.59,
+      "change": -2.89,
+      "change_pct": -0.19
+    }
+  },
+  "gold": {
+    "price_usd": 4082.5,
+    "price_krw": 6301706,
+    "change": 3.8,
+    "change_pct": 0.09
+  },
+  "updated": "2026-06-29 12:07",
+  "error": null
+}
