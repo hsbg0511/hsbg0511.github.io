@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "하나은행, 소상공인 포용금융 1.3조 확대",
-      "url": "https://n.news.naver.com/mnews/article/016/0002662881"
+      "title": "오세훈 \"청년주거 최우선\"… 2030년까지 7만4000가구 공급",
+      "url": "https://n.news.naver.com/mnews/article/469/0000939549"
     },
     {
-      "title": "외국인 3조 매도세에 코스피 8200선 공방전…코스닥은 6% 상승세",
-      "url": "https://n.news.naver.com/mnews/article/366/0001175180"
+      "title": "SK하이닉스 곽노정 \"호남권을 생산거점으로…1GW AI 데이터센터 구축\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005783547"
     },
     {
-      "title": "“현대차 띠부씰 모아볼까”…현대차, GS25 아이스크림 출시",
-      "url": "https://n.news.naver.com/mnews/article/119/0003105595"
+      "title": "노동차관, 삼성 SSAFY 14기 수료 축하…10명 중 3명 조기취업",
+      "url": "https://n.news.naver.com/mnews/article/001/0016167544"
     },
     {
-      "title": "살림 '전담' 남편들 27만명…남성 전업주부 역대 최다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005303706"
+      "title": "‘집값 급등’ 동탄·기흥·구리, 7월부터 삼중규제 묶인다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003534217"
     },
     {
-      "title": "DL이앤씨, 1.3조원 ‘목동6단지’ 재건축 시공사 선정",
-      "url": "https://n.news.naver.com/mnews/article/016/0002662671"
+      "title": "‘고령자·영세사업자’ 폐업 고통 커…60대 부채 1억 육박",
+      "url": "https://n.news.naver.com/mnews/article/029/0003034469"
     },
     {
-      "title": "\"1000만원 성과급 달라\" 카카오 노조, 결국 29일 '로그아웃'…카톡은 정상운영",
-      "url": "https://n.news.naver.com/mnews/article/014/0005540790"
+      "title": "LG전자, CEO 직속 로보틱스사업센터 출범",
+      "url": "https://n.news.naver.com/mnews/article/032/0003455183"
     },
     {
-      "title": "올리브영, 북성수에 ‘뷰티 맨션’ 연다… “K뷰티 심화 체험”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003730072"
+      "title": "범여권 \"홈플러스 청산 땐 10만 가정 벼랑에…정부, 중재 나서야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009032006"
     },
     {
-      "title": "카카오뱅크, 주담대 중도상환수수료 면제 연장…누적 혜택 1.3조",
-      "url": "https://n.news.naver.com/mnews/article/029/0003034125"
+      "title": "삼성전자 '한 지붕 두 살림' 비상…반도체 '과반 노조' 나오나",
+      "url": "https://n.news.naver.com/mnews/article/015/0005304602"
     },
     {
-      "title": "홈플 영업중단 반사이익… 인근 경쟁점포 매출 두자릿수 껑충[홈플發 마트 지도 격변 上]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005540661"
+      "title": "코스피 호황에 지난달 증권거래세 4배↑…국세수입 18% 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000939429"
     },
     {
-      "title": "하나카드, 2금융권 최초로 '연 12%' 최고금리 상한제 도입한다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006317655"
+      "title": "삼전닉스 “800조 서남권 반도체 투자”…정부 “전남·광주 5년치 총생산, 적극 지원”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003534366"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8288.97,
-      "change": -122.24,
-      "change_pct": -1.45
+      "value": 8476.48,
+      "change": 81.83,
+      "change_pct": 0.97
     },
     "kosdaq": {
-      "value": 911.36,
-      "change": 59.99,
-      "change_pct": 7.05
+      "value": 916.18,
+      "change": -4.39,
+      "change_pct": -0.48
     },
     "nasdaq": {
-      "value": 25297.62,
-      "change": -60.98,
-      "change_pct": -0.24
+      "value": 25820.14,
+      "change": 522.52,
+      "change_pct": 2.07
     },
     "usdkrw": {
-      "value": 1543.59,
-      "change": -2.89,
-      "change_pct": -0.19
+      "value": 1552.4,
+      "change": 17.16,
+      "change_pct": 1.12
     }
   },
   "gold": {
-    "price_usd": 4082.5,
-    "price_krw": 6301706,
-    "change": 3.8,
-    "change_pct": 0.09
+    "price_usd": 4034.7,
+    "price_krw": 6263468,
+    "change": 12.4,
+    "change_pct": 0.31
   },
-  "updated": "2026-06-29 12:07",
+  "updated": "2026-06-30 17:46",
   "error": null
 }
