@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "부산시, 2조원 규모 벤처펀드 조성…벤처생태계 활성화 속도",
-      "url": "https://n.news.naver.com/mnews/article/081/0003658082"
+      "title": "6월 수입차 신규 등록 2대 중 1대 '전기차'",
+      "url": "https://n.news.naver.com/mnews/article/031/0001039541"
     },
     {
-      "title": "테슬라, 6월 수입차 1위…‘모델Y’, 그랜저 위협",
-      "url": "https://n.news.naver.com/mnews/article/025/0003535216"
+      "title": "하루 걸러 하루 사이드카…지독한 레버리지의 저주",
+      "url": "https://n.news.naver.com/mnews/article/025/0003535280"
     },
     {
-      "title": "국민연금, 운용역 성과급 78.6%…수탁자 책임활동 실효성 강화",
-      "url": "https://n.news.naver.com/mnews/article/003/0014044062"
+      "title": "\"420만닉스 간다\"…반도체주 급락에도 증권가 '깜짝' 전망 [종목+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305839"
     },
     {
-      "title": "정부, 부동산 PF 금융규제 완화 조치 일부 연말까지 연장",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048608"
+      "title": "소액주주 반발에…동양생명 주식매수청구권 10% 상향",
+      "url": "https://n.news.naver.com/mnews/article/009/0005702560"
     },
     {
-      "title": "삼성 \"영남, 제조 AI 선도 지역 육성…60조 투자\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001369506"
+      "title": "상반기 FDI 9.1% 증가...\"반도체·디스플레이 신규 투자 유입\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257482"
     },
     {
-      "title": "홈플러스 결국 청산 수순…1만2000명 대량 실직 위기 전면화",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305963"
+      "title": "홈플러스 임금체불 피해자에 최대 2천100만원 지급…저금리 융자",
+      "url": "https://n.news.naver.com/mnews/article/001/0016174834"
     },
     {
-      "title": "남재헌 해수차관 \"해양수도권으로 지역발전 견인…호르무즈 선원 보호 최우선\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009039087"
+      "title": "도수치료 급여화 시작…병원은 '고용·운영' 더 걱정",
+      "url": "https://n.news.naver.com/mnews/article/421/0009038503"
     },
     {
-      "title": "한국토지주택공사 사장에 이성훈 전 청와대 국토교통비서관",
-      "url": "https://n.news.naver.com/mnews/article/028/0002812525"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000519815"
     },
     {
-      "title": "셀트리온, 2분기 매출 1조3000억원…역대 2분기 최대 실적",
-      "url": "https://n.news.naver.com/mnews/article/023/0003985513"
+      "title": "李대통령 “우주항공도 ‘대체불가 대한민국’…잠재력 충분”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006321886"
     },
     {
-      "title": "압구정 재건축 첫 관문 열렸다…2구역 통합심의 통과",
-      "url": "https://n.news.naver.com/mnews/article/011/0004637794"
+      "title": "KB금융 차기 회장 후보 6명 압축",
+      "url": "https://n.news.naver.com/mnews/article/015/0005306141"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.8
     },
     "usdkrw": {
-      "value": 1529.38,
-      "change": -22.43,
-      "change_pct": -1.45
+      "value": 1530.15,
+      "change": -21.66,
+      "change_pct": -1.4
     }
   },
   "gold": {
-    "price_usd": 4194.8,
-    "price_krw": 6415442,
-    "change": 82.1,
-    "change_pct": 2.0
+    "price_usd": 4187.3,
+    "price_krw": 6407196,
+    "change": 74.6,
+    "change_pct": 1.81
   },
-  "updated": "2026-07-03 17:38",
+  "updated": "2026-07-04 16:31",
   "error": null
 }
