@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "우리금융, 혁신기업 7조 투자...펀딩부터 IPO까지 맞춤형",
-      "url": "https://n.news.naver.com/mnews/article/016/0002666825"
+      "title": "아파트 20억에 팔고 양도세 0원...다른 집 지인에 넘긴 척 세금 탈루",
+      "url": "https://n.news.naver.com/mnews/article/366/0001177264"
     },
     {
-      "title": "전쟁으로 어려운데 '6조원대' 담합…'7000억' 최고 과징금 부과 이유",
-      "url": "https://n.news.naver.com/mnews/article/008/0005382620"
+      "title": "\"성과급 빼면 영업익 100조 넘었다\"…삼성전자 '대기록'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005306969"
     },
     {
-      "title": "12월부터 소비자물가 항목에 고사리 빠지고 소프트웨어 구독료, 스마트워치 들어간다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003986205"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001510128"
     },
     {
-      "title": "HD현대重 \"캐나다 잠수함 아쉽지만 경험은 K-방산 도약 디딤돌\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005544547"
+      "title": "캐나다, 잠수함 사업 독일 TKMS로‥한화오션 수주 불발",
+      "url": "https://n.news.naver.com/mnews/article/214/0001509969"
     },
     {
-      "title": "수도권 광역버스 준공영제 확대…이천·용인 등 5개 노선 순차 운행",
-      "url": "https://n.news.naver.com/mnews/article/374/0000520348"
+      "title": "현대차그룹, 협력사와 AI·로봇·SDV 전환 생태계 구축…협력 강화",
+      "url": "https://n.news.naver.com/mnews/article/015/0005307177"
     },
     {
-      "title": "이억원 \"서남권, 국가산업 이끌 핵심 거점 될 것\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016180862"
+      "title": "이재용 회장, 세계 1위 찍고 美선밸리 출국…글로벌 빅테크 주목",
+      "url": "https://n.news.naver.com/mnews/article/421/0009045650"
     },
     {
-      "title": "HMM 이어 흥아해운도 부산으로…4번째 해운사 이전",
-      "url": "https://n.news.naver.com/mnews/article/001/0016180253"
+      "title": "'2배 수익' 꿈이 '원금 손실'로…단일종목 레버리지의 배신 [테마+]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005545117"
     },
     {
-      "title": "자금 취약한 2·3차 협력사 품는 LG… ‘상생결제’ 확대",
-      "url": "https://n.news.naver.com/mnews/article/005/0001859315"
+      "title": "LG전자, 2개 분기 연속 영업익 1조대…전장·HVAC로 빛났다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004639085"
     },
     {
-      "title": "삼성전자, 2분기 영업익 89조4000억 ‘역대 최고’···엔비디아도 제쳐",
-      "url": "https://n.news.naver.com/mnews/article/032/0003456500"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001370591"
     },
     {
-      "title": "GS25, '싱글몰트 위스키' 와인25플러스서 단일 카테고리 주류 매출 1위",
-      "url": "https://n.news.naver.com/mnews/article/030/0003445063"
+      "title": "장금상선 자회사도 부산으로…국내 해운사 네번째",
+      "url": "https://n.news.naver.com/mnews/article/009/0005704034"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7656.31,
-      "change": -395.02,
-      "change_pct": -4.91
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 831.23,
-      "change": -15.84,
-      "change_pct": -1.87
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26121.16,
-      "change": 288.49,
-      "change_pct": 1.12
+      "value": 25818.69,
+      "change": -302.47,
+      "change_pct": -1.16
     },
     "usdkrw": {
-      "value": 1521.43,
-      "change": -9.57,
-      "change_pct": -0.63
+      "value": 1518.48,
+      "change": -10.28,
+      "change_pct": -0.67
     }
   },
   "gold": {
-    "price_usd": 4139.9,
-    "price_krw": 6298567,
-    "change": -15.2,
-    "change_pct": -0.37
+    "price_usd": 4112.3,
+    "price_krw": 6244445,
+    "change": -42.8,
+    "change_pct": -1.03
   },
-  "updated": "2026-07-07 17:57",
+  "updated": "2026-07-08 09:16",
   "error": null
 }
