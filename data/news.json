@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "AI 반도체 패권 경쟁 '활활'…삼전닉스 필두 반도체 증설 각축전",
-      "url": "https://n.news.naver.com/mnews/article/421/0009053373"
+      "title": "‘긴축시계’ 3년 반만 다시 째깍… 한은, 금리 얼마나 올릴까[기획]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003036568"
     },
     {
-      "title": "삼성전자·SK하이닉스, 올해 年영업익 600조 돌파하나 [반도체 슈퍼 투톱①]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014060233"
+      "title": "한미중 ‘AI 쩐쟁’… 최태원 “美 등에 공장 검토”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003660501"
     },
     {
-      "title": "국내 기름값 8주째 하락...휘발유, 18주 만에 1800원대",
-      "url": "https://n.news.naver.com/mnews/article/310/0000138273"
+      "title": "삼성 용인 반도체공장 2029년 첫 가동",
+      "url": "https://n.news.naver.com/mnews/article/009/0005706255"
     },
     {
-      "title": "340m 석가산부터 H컬처클럽까지…'디에이치 방배' 첫 공개",
-      "url": "https://n.news.naver.com/mnews/article/014/0005546744"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002378203"
     },
     {
-      "title": "'세계 4위' 中 CXMT, 6조원대 IPO 추진…삼성·SK 맹추격",
-      "url": "https://n.news.naver.com/mnews/article/422/0000883971"
+      "title": "임광현 “세수는 변동성 큰 포트폴리오…미래대응기금 꼭 필요한 정책”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005706157"
     },
     {
-      "title": "“화려한 미국 데뷔” 외신들, SK하이닉스 뉴욕 상장 소식 호평…월가 “반도체 랠리 가능성”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012216230"
+      "title": "[단독] ‘음의 복리’ 레버리지, 코스피 뒤흔들다… 거래 90%는 손실[레버리지 위험 경보]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003660446"
     },
     {
-      "title": "'2배 ETF' 후폭풍…1000억 반대매매 6번 중 5번이 상장 이후 [증시는 왜]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005546794"
+      "title": "양종희 KB금융 회장 \"머니무브는 기회, AI 기반 전면적 재설계\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004167474"
     },
     {
-      "title": "분명 묶었는데…동탄·영통 1% '쑥', 구리·기흥도 '꿈틀'",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048811"
+      "title": "SK하이닉스 미국 상장 흥행···월요일 코스피, 훈풍 부나",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457523"
     },
     {
-      "title": "\"국민 볼펜 지켜\"…상폐 위기 모나미, 기사회생에 대표 감사문 공개",
-      "url": "https://n.news.naver.com/mnews/article/003/0014060792"
+      "title": "종부세 33%는 강남3구 … 더 센 보유세 예고",
+      "url": "https://n.news.naver.com/mnews/article/009/0005706220"
     },
     {
-      "title": "대통령 경고에 화들짝…이케아 “엄중히 받아들여”, 육휴 불이익 의혹 제기돼",
-      "url": "https://n.news.naver.com/mnews/article/021/0002804014"
+      "title": "롯데마트, 초복 맞이 'CA저장 수박' 2000통 하루 한정 판매",
+      "url": "https://n.news.naver.com/mnews/article/003/0014061968"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1498.87,
-      "change": -4.48,
-      "change_pct": -0.3
+      "value": 1499.12,
+      "change": -6.79,
+      "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4104.1,
-    "price_krw": 6151512,
-    "change": -26.5,
-    "change_pct": -0.64
+    "price_usd": 4082.0,
+    "price_krw": 6119407,
+    "change": -22.1,
+    "change_pct": -0.54
   },
-  "updated": "2026-07-12 08:39",
+  "updated": "2026-07-13 08:38",
   "error": null
 }
