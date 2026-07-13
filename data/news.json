@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘긴축시계’ 3년 반만 다시 째깍… 한은, 금리 얼마나 올릴까[기획]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003036568"
+      "title": "정부, 내년 예산 첫 800조원대로 편성···2009년 이후 최고 수준",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457815"
     },
     {
-      "title": "한미중 ‘AI 쩐쟁’… 최태원 “美 등에 공장 검토”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660501"
+      "title": "7월 수출 298억弗 ‘역대 최대’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002669494"
     },
     {
-      "title": "삼성 용인 반도체공장 2029년 첫 가동",
-      "url": "https://n.news.naver.com/mnews/article/009/0005706255"
+      "title": "뉴욕 하이닉스의 배신…7000마저 무너진 ‘블랙 먼데이’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537282"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002378203"
+      "url": "https://n.news.naver.com/mnews/article/422/0000884511"
     },
     {
-      "title": "임광현 “세수는 변동성 큰 포트폴리오…미래대응기금 꼭 필요한 정책”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005706157"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000884618"
     },
     {
-      "title": "[단독] ‘음의 복리’ 레버리지, 코스피 뒤흔들다… 거래 90%는 손실[레버리지 위험 경보]",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660446"
+      "title": "대한항공, 2분기 매출 5조 돌파 '역대 최대' …고유가 탓 영업익은 34% 감소",
+      "url": "https://n.news.naver.com/mnews/article/448/0000626452"
     },
     {
-      "title": "양종희 KB금융 회장 \"머니무브는 기회, AI 기반 전면적 재설계\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004167474"
+      "title": "국토부·우본, 물류기술 현장실증 기회 연다…전국 우편집중국 민간 개방",
+      "url": "https://n.news.naver.com/mnews/article/018/0006329515"
     },
     {
-      "title": "SK하이닉스 미국 상장 흥행···월요일 코스피, 훈풍 부나",
-      "url": "https://n.news.naver.com/mnews/article/032/0003457523"
+      "title": "오뚜기, 2천억 투자해 라면 공장 신설",
+      "url": "https://n.news.naver.com/mnews/article/009/0005706856"
     },
     {
-      "title": "종부세 33%는 강남3구 … 더 센 보유세 예고",
-      "url": "https://n.news.naver.com/mnews/article/009/0005706220"
+      "title": "삼성전자 노조 “조합원 84%가 호남 반도체 프로젝트 반대…노사 교섭 대상”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457749"
     },
     {
-      "title": "롯데마트, 초복 맞이 'CA저장 수박' 2000통 하루 한정 판매",
-      "url": "https://n.news.naver.com/mnews/article/003/0014061968"
+      "title": "하이닉스, 나스닥 상장에도 15% 폭락한 까닭은?",
+      "url": "https://n.news.naver.com/mnews/article/023/0003987394"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7475.94,
-      "change": 184.03,
-      "change_pct": 2.52
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 837.43,
-      "change": 43.43,
-      "change_pct": 5.47
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26281.61,
-      "change": 74.72,
-      "change_pct": 0.29
+      "value": 25873.18,
+      "change": -408.43,
+      "change_pct": -1.55
     },
     "usdkrw": {
-      "value": 1499.12,
-      "change": -6.79,
-      "change_pct": -0.45
+      "value": 1497.05,
+      "change": -1.43,
+      "change_pct": -0.1
     }
   },
   "gold": {
-    "price_usd": 4082.0,
-    "price_krw": 6119407,
-    "change": -22.1,
-    "change_pct": -0.54
+    "price_usd": 4004.8,
+    "price_krw": 5995385,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-13 08:38",
+  "updated": "2026-07-14 08:39",
   "error": null
 }
