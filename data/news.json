@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "바다에 해상풍력 세웠더니 육지가 '들썩'…섬마을에 무슨 일이[르포]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005387453"
+      "title": "“대통령님, 대출 좀 풀어주세요”…대토론회 앞두고 시민제안 쏟아졌다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709071"
     },
     {
-      "title": "한화 필리조선소, 미 국방 사업서 대형 수주…3조원 규모 미사일 계측함 건조 계약",
-      "url": "https://n.news.naver.com/mnews/article/243/0000100573"
+      "title": "대학 졸업해도 '백수'...꽉 막힌 '취업문'",
+      "url": "https://n.news.naver.com/mnews/article/050/0000108689"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002380936"
+      "title": "코스피, 하단 테스트 구간 진입…\"6000선 초중반에서 지지력 확인할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006332796"
     },
     {
-      "title": "홈플러스, 2000억원으로 '시간'을 샀다",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048997"
+      "title": "중국 문샷AI, 개방형 ‘키미 K3’ 공개…미 앤트로픽·오픈AI 턱밑 추격",
+      "url": "https://n.news.naver.com/mnews/article/028/0002814721"
     },
     {
-      "title": "“K-컬처 탑재 우주선, 세계 주요 도시 착륙”…정부, 뉴욕 등에 대형공연장 운영권 확보 추진",
-      "url": "https://n.news.naver.com/mnews/article/016/0002671679"
+      "title": "한은, 기준금리 0.25%p 인상",
+      "url": "https://n.news.naver.com/mnews/article/087/0001205783"
     },
     {
-      "title": "우주 대신 바닥으로…스페이스X '급추락'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259122"
+      "title": "김정관, 이번주 러트닉과 美서 회동… 쿠팡사태 실마리 풀리나 [뉴스 투데이]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004144150"
     },
     {
-      "title": "뉴욕증시, 반도체 매도세에 하락…나스닥 1.4%↓",
-      "url": "https://n.news.naver.com/mnews/article/277/0005791337"
+      "title": "반도체발(發) K자 성장 굳어지면 ‘이 병’ 걸린다고? [Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004642937"
     },
     {
-      "title": "“올해 파느냐 내년에 파느냐에 7억 갈린다”…세제 개편 앞둔 ‘1주택자’의 절세법은 [잘살아보세]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004143918"
+      "title": "국민 10명 중 9명 \"핵심기술 해외유출 심각…처벌 강화해야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016201811"
     },
     {
-      "title": "코스닥도 반도체 장세?…시총 톱100에 반도체주 1년새 88%↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016200991"
+      "title": "대우건설, 1.4조 상도15구역 품었다…동작 최대 재개발 단지에 ‘써밋’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002672055"
     },
     {
-      "title": "\"성과 국민과 나누겠다\" 삼성에 움직였나…'4조 잭팟' 터졌다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311190"
+      "title": "미국인이 뉴욕 은행서 원화계좌 개설한다…원화 국제화 로드맵",
+      "url": "https://n.news.naver.com/mnews/article/001/0016201819"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6820.6,
-      "change": -463.81,
-      "change_pct": -6.37
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 791.84,
-      "change": -37.59,
-      "change_pct": -4.53
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 25520.24,
@@ -58,17 +58,17 @@
       "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1487.46,
-      "change": 1.26,
-      "change_pct": 0.08
+      "value": 1488.02,
+      "change": 9.17,
+      "change_pct": 0.62
     }
   },
   "gold": {
-    "price_usd": 4012.7,
-    "price_krw": 5968730,
-    "change": 27.1,
-    "change_pct": 0.68
+    "price_usd": 3994.0,
+    "price_krw": 5943151,
+    "change": -18.7,
+    "change_pct": -0.47
   },
-  "updated": "2026-07-19 08:38",
+  "updated": "2026-07-20 09:16",
   "error": null
 }
