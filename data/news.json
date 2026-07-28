@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이억원 \"가계대출 관리 기조 유지하되 핀셋지원으로 불편 해소\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016217684"
+      "title": "LG전자, ‘액체 냉각 솔루션’ 엔비디아 인증 획득",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989812"
     },
     {
-      "title": "동아쏘시오, 2분기 매출 4124억…영업익 38%↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014090753"
+      "title": "이재용·최태원, 구글 캠프로…AI 협력 잇는다",
+      "url": "https://n.news.naver.com/mnews/article/031/0001045185"
     },
     {
-      "title": "동아에스티, 2분기 매출 ‘역대 최대’…영업익 170% 급증",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645649"
+      "title": "한화오션 2분기 영업익 98%↑…고부가 선박·환율효과 반영",
+      "url": "https://n.news.naver.com/mnews/article/374/0000523905"
     },
     {
-      "title": "李 매각한 분당 양지마을, 이제 사면 ‘물딱지’…사업시행자 지정",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736805"
+      "title": "총리 주재 토론회서 \"거주용 1주택 종부세·장특공제, 현행 유지\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001514179"
     },
     {
-      "title": "기업은행, 2분기 순이익 6895억원…고환율에 전년 대비 0.7%↓",
-      "url": "https://n.news.naver.com/mnews/article/374/0000523944"
+      "title": "SK하이닉스 ADR 추종 토큰 시총 1000억 육박",
+      "url": "https://n.news.naver.com/mnews/article/020/0003736596"
     },
     {
-      "title": "두산에너빌, 韓서만 원전 6기 수요 기대에 하반기 달린다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005553476"
+      "title": "與 \"단일종목 레버리지, 상품성 낮춰야…ETF 명칭변경 거론도\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005795204"
     },
     {
-      "title": "하나증권, 푸투증권과 외국인통합계좌 거래 개시…글로벌 공략 본격화",
-      "url": "https://n.news.naver.com/mnews/article/018/0006337433"
+      "title": "구자흠 삼성전자 부사장 \"HBM5에 2나노 공정 적용…속도 50% 향상\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014089571"
     },
     {
-      "title": "\"한국판 '이곳' 되겠어\"…홈플러스가 모델 삼은 '트레이더 조' 어떤 곳?",
-      "url": "https://n.news.naver.com/mnews/article/421/0009079854"
+      "title": "“쿠팡·우리은행, 국내 첫 원화 스테이블코인 실시간 정산 검증”",
+      "url": "https://n.news.naver.com/mnews/article/138/0002235613"
     },
     {
-      "title": "천연가스 수급 안정화…가스 비축 시설 193만 톤·배관 564㎞ 증설한다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009080056"
+      "title": "뉴욕증시 혼조세 마감…中 반도체 추격에 ASML 8% 급락",
+      "url": "https://n.news.naver.com/mnews/article/003/0014091643"
     },
     {
-      "title": "‘똘똘한 한 채’ 시대 끝내나…정부, 종부세 가액 전환 추진 [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645390"
+      "title": "엔비디아, 네이버 3대 주주로…AI 결속 강화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391565"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6755.75,
-      "change": 65.13,
-      "change_pct": 0.97
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 764.86,
-      "change": 16.64,
-      "change_pct": 2.22
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24975.82,
-      "change": -161.87,
-      "change_pct": -0.64
+      "value": 24932.08,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "usdkrw": {
-      "value": 1468.76,
-      "change": -5.28,
-      "change_pct": -0.36
+      "value": 1469.68,
+      "change": 11.67,
+      "change_pct": 0.8
     }
   },
   "gold": {
-    "price_usd": 4100.5,
-    "price_krw": 6022650,
+    "price_usd": 4070.8,
+    "price_krw": 5982773,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-27 19:51",
+  "updated": "2026-07-28 09:13",
   "error": null
 }
