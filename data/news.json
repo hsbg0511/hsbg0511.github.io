@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LG전자, ‘액체 냉각 솔루션’ 엔비디아 인증 획득",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989812"
+      "title": "\"브라질 홀린 K-뷰티\"…중기부, '글로우 위크' 개최",
+      "url": "https://n.news.naver.com/mnews/article/003/0014094364"
     },
     {
-      "title": "이재용·최태원, 구글 캠프로…AI 협력 잇는다",
-      "url": "https://n.news.naver.com/mnews/article/031/0001045185"
+      "title": "광주·전남 소비자심리지수 소폭 하락",
+      "url": "https://n.news.naver.com/mnews/article/001/0016219160"
     },
     {
-      "title": "한화오션 2분기 영업익 98%↑…고부가 선박·환율효과 반영",
-      "url": "https://n.news.naver.com/mnews/article/374/0000523905"
+      "title": "무신사 뷰티, 미군 PX부터 중동·호주까지 판매망 넓힌다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391871"
     },
     {
-      "title": "총리 주재 토론회서 \"거주용 1주택 종부세·장특공제, 현행 유지\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001514179"
+      "title": "한미약품, 2분기 영업익 117% 증가…릴리 기술료·주력품목 성장 효과",
+      "url": "https://n.news.naver.com/mnews/article/018/0006338534"
     },
     {
-      "title": "SK하이닉스 ADR 추종 토큰 시총 1000억 육박",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736596"
+      "title": "생산연령인구 70%선 무너졌다…고령인구는 첫 20% 돌파",
+      "url": "https://n.news.naver.com/mnews/article/277/0005795607"
     },
     {
-      "title": "與 \"단일종목 레버리지, 상품성 낮춰야…ETF 명칭변경 거론도\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005795204"
+      "title": "단일종목 레버리지 총량제? ‘-50%’ 찍힌 계좌에 또 ‘뒷북 대책’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003039338"
     },
     {
-      "title": "구자흠 삼성전자 부사장 \"HBM5에 2나노 공정 적용…속도 50% 향상\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014089571"
+      "title": "부산 시민단체 \"BNK·JB 금융 합병 시도 즉각 중단하라\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016218636"
     },
     {
-      "title": "“쿠팡·우리은행, 국내 첫 원화 스테이블코인 실시간 정산 검증”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002235613"
+      "title": "\"그랑 콜레오스 두 달 체험하면 더 끌려요\"…구매 문턱 낮췄다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005314712"
     },
     {
-      "title": "뉴욕증시 혼조세 마감…中 반도체 추격에 ASML 8% 급락",
-      "url": "https://n.news.naver.com/mnews/article/003/0014091643"
+      "title": "은행 주담대 금리 두달째 상승…신용대출 평균 5.7% 돌파",
+      "url": "https://n.news.naver.com/mnews/article/421/0009083039"
     },
     {
-      "title": "엔비디아, 네이버 3대 주주로…AI 결속 강화",
-      "url": "https://n.news.naver.com/mnews/article/008/0005391565"
+      "title": "비트코인, FOMC 금리 인상 우려에 6만4천달러 하회[코인시세]",
+      "url": "https://n.news.naver.com/mnews/article/422/0000889590"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6755.75,
+      "value": 6023.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 764.86,
+      "value": 705.85,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24932.08,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 24876.91,
+      "change": -55.17,
+      "change_pct": -0.22
     },
     "usdkrw": {
-      "value": 1469.68,
-      "change": 11.67,
-      "change_pct": 0.8
+      "value": 1457.0,
+      "change": -7.44,
+      "change_pct": -0.51
     }
   },
   "gold": {
-    "price_usd": 4070.8,
-    "price_krw": 5982773,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4018.1,
+    "price_krw": 5854371,
+    "change": -56.4,
+    "change_pct": -1.38
   },
-  "updated": "2026-07-28 09:13",
+  "updated": "2026-07-29 09:11",
   "error": null
 }
