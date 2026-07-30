@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"브라질 홀린 K-뷰티\"…중기부, '글로우 위크' 개최",
-      "url": "https://n.news.naver.com/mnews/article/003/0014094364"
+      "title": "[단독]공정시장가액비율 60→80% 상향… 초고가 주택 종부세 ‘핀셋 증세’",
+      "url": "https://n.news.naver.com/mnews/article/020/0003737505"
     },
     {
-      "title": "광주·전남 소비자심리지수 소폭 하락",
-      "url": "https://n.news.naver.com/mnews/article/001/0016219160"
+      "title": "금융당국 수장들, ‘대통령 근저당’에 “사인 거래, 규제대상 아냐”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001863876"
     },
     {
-      "title": "무신사 뷰티, 미군 PX부터 중동·호주까지 판매망 넓힌다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005391871"
+      "title": "차체에 초고강도 강판 적용해…대형세단 안부러운 '뉴아반떼'",
+      "url": "https://n.news.naver.com/mnews/article/009/0005713960"
     },
     {
-      "title": "한미약품, 2분기 영업익 117% 증가…릴리 기술료·주력품목 성장 효과",
-      "url": "https://n.news.naver.com/mnews/article/018/0006338534"
+      "title": "SK하이닉스, 2분기 영업이익 60.5조 원…영업이익률 76%",
+      "url": "https://n.news.naver.com/mnews/article/056/0012227137"
     },
     {
-      "title": "생산연령인구 70%선 무너졌다…고령인구는 첫 20% 돌파",
-      "url": "https://n.news.naver.com/mnews/article/277/0005795607"
+      "title": "폭락장에 놀란 與 \"레버리지 배율 낮추고 예탁금 더 올려라\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006339271"
     },
     {
-      "title": "단일종목 레버리지 총량제? ‘-50%’ 찍힌 계좌에 또 ‘뒷북 대책’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003039338"
+      "title": "DB증권 \"LG생건, 북미 매출 성장 지속 전망\" 목표가 50%↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016223113"
     },
     {
-      "title": "부산 시민단체 \"BNK·JB 금융 합병 시도 즉각 중단하라\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016218636"
+      "title": "기후동행카드 대신 ‘기후동행패스’ 9월 1일 출시",
+      "url": "https://n.news.naver.com/mnews/article/011/0004646694"
     },
     {
-      "title": "\"그랑 콜레오스 두 달 체험하면 더 끌려요\"…구매 문턱 낮췄다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314712"
+      "title": "미 금리 3.50∼3.75% 5연속 동결‥연준 의장 \"인플레 2% 목표\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001514772"
     },
     {
-      "title": "은행 주담대 금리 두달째 상승…신용대출 평균 5.7% 돌파",
-      "url": "https://n.news.naver.com/mnews/article/421/0009083039"
+      "title": "삼성물산 2분기 영업익 1조320억 원…건설·상사·바이오 동반 성장",
+      "url": "https://n.news.naver.com/mnews/article/020/0003737468"
     },
     {
-      "title": "비트코인, FOMC 금리 인상 우려에 6만4천달러 하회[코인시세]",
-      "url": "https://n.news.naver.com/mnews/article/422/0000889590"
+      "title": "SK하이닉스, 신입 채용에 ‘반나절 심층면접’ 도입…AI 역량 본다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006339668"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6023.66,
+      "value": 5663.24,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 705.85,
+      "value": 662.68,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24876.91,
-      "change": -55.17,
-      "change_pct": -0.22
+      "value": 24442.94,
+      "change": -433.97,
+      "change_pct": -1.74
     },
     "usdkrw": {
-      "value": 1457.0,
-      "change": -7.44,
-      "change_pct": -0.51
+      "value": 1437.18,
+      "change": -15.98,
+      "change_pct": -1.1
     }
   },
   "gold": {
-    "price_usd": 4018.1,
-    "price_krw": 5854371,
-    "change": -56.4,
-    "change_pct": -1.38
+    "price_usd": 4137.2,
+    "price_krw": 5945901,
+    "change": 100.9,
+    "change_pct": 2.5
   },
-  "updated": "2026-07-29 09:11",
+  "updated": "2026-07-30 09:14",
   "error": null
 }
