@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "[단독]공정시장가액비율 60→80% 상향… 초고가 주택 종부세 ‘핀셋 증세’",
-      "url": "https://n.news.naver.com/mnews/article/020/0003737505"
+      "title": "‘미운오리’서 ‘백조’로… SK이노 배터리 사업, 7분기 만 흑자전환",
+      "url": "https://n.news.naver.com/mnews/article/029/0003039881"
     },
     {
-      "title": "금융당국 수장들, ‘대통령 근저당’에 “사인 거래, 규제대상 아냐”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001863876"
+      "title": "미 연준 금리 동결…원/달러 환율 장중 1,430원대로 하락",
+      "url": "https://n.news.naver.com/mnews/article/001/0016223471"
     },
     {
-      "title": "차체에 초고강도 강판 적용해…대형세단 안부러운 '뉴아반떼'",
-      "url": "https://n.news.naver.com/mnews/article/009/0005713960"
+      "title": "한화 3형제 나란히 승진…김동관 수석부회장·김동원 부회장·김동선 사장으로",
+      "url": "https://n.news.naver.com/mnews/article/021/0002808146"
     },
     {
-      "title": "SK하이닉스, 2분기 영업이익 60.5조 원…영업이익률 76%",
-      "url": "https://n.news.naver.com/mnews/article/056/0012227137"
+      "title": "삼성전자 2분기 영업이익 89조 4,924억…3분기 연속 역대 최대 실적",
+      "url": "https://n.news.naver.com/mnews/article/660/0000114176"
     },
     {
-      "title": "폭락장에 놀란 與 \"레버리지 배율 낮추고 예탁금 더 올려라\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006339271"
+      "title": "미국 기준금리 5번째 동결했지만 불확실성 커지자 한국은행 셈법은 더욱 복잡해져",
+      "url": "https://n.news.naver.com/mnews/article/032/0003461437"
     },
     {
-      "title": "DB증권 \"LG생건, 북미 매출 성장 지속 전망\" 목표가 50%↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016223113"
+      "title": "'수조원 기술수출 계약' 더는 안 통한다…바이오 공시 전면 개편",
+      "url": "https://n.news.naver.com/mnews/article/008/0005393555"
     },
     {
-      "title": "기후동행카드 대신 ‘기후동행패스’ 9월 1일 출시",
-      "url": "https://n.news.naver.com/mnews/article/011/0004646694"
+      "title": "포스코홀딩스, 2분기 실적 고공행진",
+      "url": "https://n.news.naver.com/mnews/article/015/0005315754"
     },
     {
-      "title": "미 금리 3.50∼3.75% 5연속 동결‥연준 의장 \"인플레 2% 목표\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001514772"
+      "title": "정의선 회장 “위기넘어 큰 도약으로”…브라질서 개척하는 친환경·수소미래",
+      "url": "https://n.news.naver.com/mnews/article/020/0003737725"
     },
     {
-      "title": "삼성물산 2분기 영업익 1조320억 원…건설·상사·바이오 동반 성장",
-      "url": "https://n.news.naver.com/mnews/article/020/0003737468"
+      "title": "AI 투자 성과 엇갈린 MS·메타…클라우드는 성장, 현금흐름은 희비",
+      "url": "https://n.news.naver.com/mnews/article/081/0003666023"
     },
     {
-      "title": "SK하이닉스, 신입 채용에 ‘반나절 심층면접’ 도입…AI 역량 본다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006339668"
+      "title": "\"레버리지 자연사 시켜야…시세창 그만 보라\" 배재규 대표의 경고",
+      "url": "https://n.news.naver.com/mnews/article/215/0001260561"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24442.94,
-      "change": -433.97,
-      "change_pct": -1.74
+      "value": 25122.18,
+      "change": 679.24,
+      "change_pct": 2.78
     },
     "usdkrw": {
-      "value": 1437.18,
-      "change": -15.98,
-      "change_pct": -1.1
+      "value": 1422.43,
+      "change": -30.73,
+      "change_pct": -2.11
     }
   },
   "gold": {
-    "price_usd": 4137.2,
-    "price_krw": 5945901,
-    "change": 100.9,
-    "change_pct": 2.5
+    "price_usd": 4162.8,
+    "price_krw": 5921291,
+    "change": 128.1,
+    "change_pct": 3.17
   },
-  "updated": "2026-07-30 09:14",
+  "updated": "2026-07-31 07:05",
   "error": null
 }
