@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘미운오리’서 ‘백조’로… SK이노 배터리 사업, 7분기 만 흑자전환",
-      "url": "https://n.news.naver.com/mnews/article/029/0003039881"
+      "title": "'영업정지' 롯데카드, 회원 수 방어에 사활…정보보안 강화",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797463"
     },
     {
-      "title": "미 연준 금리 동결…원/달러 환율 장중 1,430원대로 하락",
-      "url": "https://n.news.naver.com/mnews/article/001/0016223471"
+      "title": "\"SK하닉 3600주 누가 한 방에 먹었다\" 최태원 48억원 매수 실시간으로 목격한 슈카",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797371"
     },
     {
-      "title": "한화 3형제 나란히 승진…김동관 수석부회장·김동원 부회장·김동선 사장으로",
-      "url": "https://n.news.naver.com/mnews/article/021/0002808146"
+      "title": "소비자분쟁조정위 \"쿠팡, 정보유출 피해자에 10만 원씩 배상해야\"",
+      "url": "https://n.news.naver.com/mnews/article/660/0000114277"
     },
     {
-      "title": "삼성전자 2분기 영업이익 89조 4,924억…3분기 연속 역대 최대 실적",
-      "url": "https://n.news.naver.com/mnews/article/660/0000114176"
+      "title": "삼성전자, 가정용 전기 보일러 시장 공략…제주서 첫 공급",
+      "url": "https://n.news.naver.com/mnews/article/119/0003116857"
     },
     {
-      "title": "미국 기준금리 5번째 동결했지만 불확실성 커지자 한국은행 셈법은 더욱 복잡해져",
-      "url": "https://n.news.naver.com/mnews/article/032/0003461437"
+      "title": "원/달러 환율, 한일 당국 개입 후 급락분 되돌림…1430원대 중반",
+      "url": "https://n.news.naver.com/mnews/article/016/0002677820"
     },
     {
-      "title": "'수조원 기술수출 계약' 더는 안 통한다…바이오 공시 전면 개편",
-      "url": "https://n.news.naver.com/mnews/article/008/0005393555"
+      "title": "한국형 구축함 사업 본궤도 … 방사청, 한화오션과 본계약",
+      "url": "https://n.news.naver.com/mnews/article/009/0005715113"
     },
     {
-      "title": "포스코홀딩스, 2분기 실적 고공행진",
-      "url": "https://n.news.naver.com/mnews/article/015/0005315754"
+      "title": "한국판 전략형 국부펀드 내년 가동… 초기 자본금 20조원+α",
+      "url": "https://n.news.naver.com/mnews/article/081/0003666395"
     },
     {
-      "title": "정의선 회장 “위기넘어 큰 도약으로”…브라질서 개척하는 친환경·수소미래",
-      "url": "https://n.news.naver.com/mnews/article/020/0003737725"
+      "title": "업종 분류 관계없이…모든 전자금융업자, 내부통제 받는다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005394026"
     },
     {
-      "title": "AI 투자 성과 엇갈린 MS·메타…클라우드는 성장, 현금흐름은 희비",
-      "url": "https://n.news.naver.com/mnews/article/081/0003666023"
+      "title": "조선·전력기기 등 고른 활약에…HD현대, 2분기 영업익 전년比 262%↑",
+      "url": "https://n.news.naver.com/mnews/article/016/0002678011"
     },
     {
-      "title": "\"레버리지 자연사 시켜야…시세창 그만 보라\" 배재규 대표의 경고",
-      "url": "https://n.news.naver.com/mnews/article/215/0001260561"
+      "title": "키옥시아, 분기 영업이익 1조엔 돌파…시장 전망치엔 못 미쳐",
+      "url": "https://n.news.naver.com/mnews/article/011/0004647376"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5663.24,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 662.68,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25122.18,
-      "change": 679.24,
-      "change_pct": 2.78
+      "value": 25373.85,
+      "change": 251.67,
+      "change_pct": 1.0
     },
     "usdkrw": {
-      "value": 1422.43,
-      "change": -30.73,
-      "change_pct": -2.11
+      "value": 1442.07,
+      "change": -0.21,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4162.8,
-    "price_krw": 5921291,
-    "change": 128.1,
-    "change_pct": 3.17
+    "price_usd": 4098.6,
+    "price_krw": 5910468,
+    "change": -1.5,
+    "change_pct": -0.04
   },
-  "updated": "2026-07-31 07:05",
+  "updated": "2026-08-01 07:05",
   "error": null
 }
