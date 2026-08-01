@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "'영업정지' 롯데카드, 회원 수 방어에 사활…정보보안 강화",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797463"
+      "title": "코스피 1000포인트 초유의 폭등… 개미들은 8조원 넘게 팔고 나가",
+      "url": "https://n.news.naver.com/mnews/article/023/0003990820"
     },
     {
-      "title": "\"SK하닉 3600주 누가 한 방에 먹었다\" 최태원 48억원 매수 실시간으로 목격한 슈카",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797371"
+      "title": "7월 수출 989억 달러…반도체 호조에 역대 2위",
+      "url": "https://n.news.naver.com/mnews/article/079/0004174491"
     },
     {
-      "title": "소비자분쟁조정위 \"쿠팡, 정보유출 피해자에 10만 원씩 배상해야\"",
-      "url": "https://n.news.naver.com/mnews/article/660/0000114277"
+      "title": "노태문 삼성전자 사장, 7억원 규모 자사주 매입…책임경영 일환",
+      "url": "https://n.news.naver.com/mnews/article/005/0001864281"
     },
     {
-      "title": "삼성전자, 가정용 전기 보일러 시장 공략…제주서 첫 공급",
-      "url": "https://n.news.naver.com/mnews/article/119/0003116857"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000504037"
     },
     {
-      "title": "원/달러 환율, 한일 당국 개입 후 급락분 되돌림…1430원대 중반",
-      "url": "https://n.news.naver.com/mnews/article/016/0002677820"
+      "title": "'고작 49억' 아니었다…SK하이닉스에 담긴 '최태원 책임경영' 셈법",
+      "url": "https://n.news.naver.com/mnews/article/293/0000088465"
     },
     {
-      "title": "한국형 구축함 사업 본궤도 … 방사청, 한화오션과 본계약",
-      "url": "https://n.news.naver.com/mnews/article/009/0005715113"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000891110"
     },
     {
-      "title": "한국판 전략형 국부펀드 내년 가동… 초기 자본금 20조원+α",
-      "url": "https://n.news.naver.com/mnews/article/081/0003666395"
+      "title": "뉴욕증시, 상승 마감…아마존 호실적에 AI 우려 완화",
+      "url": "https://n.news.naver.com/mnews/article/366/0001183639"
     },
     {
-      "title": "업종 분류 관계없이…모든 전자금융업자, 내부통제 받는다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005394026"
+      "title": "“돌 씹힌다”…출시 2주만에 100만개나 팔린 인기 버거 ‘조기 종료’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005715349"
     },
     {
-      "title": "조선·전력기기 등 고른 활약에…HD현대, 2분기 영업익 전년比 262%↑",
-      "url": "https://n.news.naver.com/mnews/article/016/0002678011"
+      "title": "\"수익률 439% 자랑하더니\"...20대 'AI 예언자' 펀드, 하루 만에 몰락",
+      "url": "https://n.news.naver.com/mnews/article/014/0005555770"
     },
     {
-      "title": "키옥시아, 분기 영업이익 1조엔 돌파…시장 전망치엔 못 미쳐",
-      "url": "https://n.news.naver.com/mnews/article/011/0004647376"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012229360"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6595.45,
+      "change": 1001.89,
+      "change_pct": 17.91
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 719.76,
+      "change": 74.98,
+      "change_pct": 11.63
     },
     "nasdaq": {
       "value": 25373.85,
@@ -58,17 +58,17 @@
       "change_pct": 1.0
     },
     "usdkrw": {
-      "value": 1442.07,
-      "change": -0.21,
-      "change_pct": -0.01
+      "value": 1436.6,
+      "change": 16.0,
+      "change_pct": 1.13
     }
   },
   "gold": {
-    "price_usd": 4098.6,
-    "price_krw": 5910468,
-    "change": -1.5,
-    "change_pct": -0.04
+    "price_usd": 4049.1,
+    "price_krw": 5816937,
+    "change": -51.0,
+    "change_pct": -1.24
   },
-  "updated": "2026-08-01 07:05",
+  "updated": "2026-08-02 06:55",
   "error": null
 }
