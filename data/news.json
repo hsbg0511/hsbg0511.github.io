@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "코스피 1000포인트 초유의 폭등… 개미들은 8조원 넘게 팔고 나가",
-      "url": "https://n.news.naver.com/mnews/article/023/0003990820"
+      "title": "현대차그룹, 자율주행 연구개발 원팀 구축…임원 겸임체제 가동",
+      "url": "https://n.news.naver.com/mnews/article/001/0016228580"
     },
     {
-      "title": "7월 수출 989억 달러…반도체 호조에 역대 2위",
-      "url": "https://n.news.naver.com/mnews/article/079/0004174491"
+      "title": "정의선, 튀르키예 공장서 아이오닉3 생산라인 점검",
+      "url": "https://n.news.naver.com/mnews/article/422/0000891475"
     },
     {
-      "title": "노태문 삼성전자 사장, 7억원 규모 자사주 매입…책임경영 일환",
-      "url": "https://n.news.naver.com/mnews/article/005/0001864281"
+      "title": "대출 막아도 빚냈다…집값·증시 들썩이자 가계빚 ‘눈덩이’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003040132"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000504037"
+      "title": "코스피, 7월만 22% 급락해 주요국 중 하락률 1위... 8월 악재 딛고 반등?",
+      "url": "https://n.news.naver.com/mnews/article/469/0000945753"
     },
     {
-      "title": "'고작 49억' 아니었다…SK하이닉스에 담긴 '최태원 책임경영' 셈법",
-      "url": "https://n.news.naver.com/mnews/article/293/0000088465"
+      "title": "삼성화재, 국내 민간 기업 최초 S&P 신용등급 ‘AA’ 획득",
+      "url": "https://n.news.naver.com/mnews/article/366/0001183806"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000891110"
+      "title": "기사회생 코스피, 7000선 복귀할까…美 빅테크 실적·고용지표 주목[주간증시전망]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006342439"
     },
     {
-      "title": "뉴욕증시, 상승 마감…아마존 호실적에 AI 우려 완화",
-      "url": "https://n.news.naver.com/mnews/article/366/0001183639"
+      "title": "그룹 헤드쿼터 청라 이전 기념… 하나금융, 9월말까지 캠페인",
+      "url": "https://n.news.naver.com/mnews/article/022/0004147808"
     },
     {
-      "title": "“돌 씹힌다”…출시 2주만에 100만개나 팔린 인기 버거 ‘조기 종료’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005715349"
+      "title": "롯데마트, 베트남 북부 산업도시 진출…17호점 '박장점' 개점",
+      "url": "https://n.news.naver.com/mnews/article/421/0009092001"
     },
     {
-      "title": "\"수익률 439% 자랑하더니\"...20대 'AI 예언자' 펀드, 하루 만에 몰락",
-      "url": "https://n.news.naver.com/mnews/article/014/0005555770"
+      "title": "한화證 “3년내 토큰증권 보편화될 것”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005715482"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012229360"
+      "title": "한 달 새 125원 떨어진 환율…원화 가치 상승률 ‘주요국 1위’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003040157"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4049.1,
-    "price_krw": 5816937,
-    "change": -51.0,
-    "change_pct": -1.24
+    "price_usd": 4107.0,
+    "price_krw": 5900116,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-02 06:55",
+  "updated": "2026-08-03 06:55",
   "error": null
 }
