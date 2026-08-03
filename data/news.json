@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차그룹, 자율주행 연구개발 원팀 구축…임원 겸임체제 가동",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228580"
+      "title": "한은 '금 보유 확대' 길 연다…금 실물 인출 부가세 면제",
+      "url": "https://n.news.naver.com/mnews/article/421/0009094892"
     },
     {
-      "title": "정의선, 튀르키예 공장서 아이오닉3 생산라인 점검",
-      "url": "https://n.news.naver.com/mnews/article/422/0000891475"
+      "title": "실거주 중심 세제 전면 개편... 종부세 '주택 수' 없애고 20억까지 면세",
+      "url": "https://n.news.naver.com/mnews/article/047/0002524485"
     },
     {
-      "title": "대출 막아도 빚냈다…집값·증시 들썩이자 가계빚 ‘눈덩이’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040132"
+      "title": "주가 눌러 상속세 줄이는 기업에 할증 과세",
+      "url": "https://n.news.naver.com/mnews/article/009/0005716117"
     },
     {
-      "title": "코스피, 7월만 22% 급락해 주요국 중 하락률 1위... 8월 악재 딛고 반등?",
-      "url": "https://n.news.naver.com/mnews/article/469/0000945753"
+      "title": "'5%↓' 코스피 또 변동성…레버리지 대책에 수급완화? 코스닥 강세(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016231356"
     },
     {
-      "title": "삼성화재, 국내 민간 기업 최초 S&P 신용등급 ‘AA’ 획득",
-      "url": "https://n.news.naver.com/mnews/article/366/0001183806"
+      "title": "한화 테크·라이프 통합 지주사 ‘첫발’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004148202"
     },
     {
-      "title": "기사회생 코스피, 7000선 복귀할까…美 빅테크 실적·고용지표 주목[주간증시전망]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006342439"
+      "title": "한국경제인협회 “국내생산세액공제 도입, 활력·경쟁력 높이는 발판”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002678979"
     },
     {
-      "title": "그룹 헤드쿼터 청라 이전 기념… 하나금융, 9월말까지 캠페인",
-      "url": "https://n.news.naver.com/mnews/article/022/0004147808"
+      "title": "개미들 ‘빚투’ 줄었다…신용융자 잔고 6개월 만에 30조 밑으로",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648106"
     },
     {
-      "title": "롯데마트, 베트남 북부 산업도시 진출…17호점 '박장점' 개점",
-      "url": "https://n.news.naver.com/mnews/article/421/0009092001"
+      "title": "결혼·출산 세액공제, 직접 지원으로 바꾼다",
+      "url": "https://n.news.naver.com/mnews/article/052/0002388334"
     },
     {
-      "title": "한화證 “3년내 토큰증권 보편화될 것”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005715482"
+      "title": "'어닝 서프' 팔란티어, 2Q 순익 225% 성장…시간 외 주가 11%↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014106120"
     },
     {
-      "title": "한 달 새 125원 떨어진 환율…원화 가치 상승률 ‘주요국 1위’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040157"
+      "title": "‘ISA 절세 혜택’ 한 눈에…KB증권, ‘ISA 인사이트’ 선봬",
+      "url": "https://n.news.naver.com/mnews/article/016/0002678683"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6595.45,
-      "change": 1001.89,
-      "change_pct": 17.91
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 719.76,
-      "change": 74.98,
-      "change_pct": 11.63
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25373.85,
-      "change": 251.67,
-      "change_pct": 1.0
+      "value": 25913.9,
+      "change": 540.05,
+      "change_pct": 2.13
     },
     "usdkrw": {
-      "value": 1436.6,
-      "change": 16.0,
-      "change_pct": 1.13
+      "value": 1428.67,
+      "change": 8.07,
+      "change_pct": 0.57
     }
   },
   "gold": {
-    "price_usd": 4107.0,
-    "price_krw": 5900116,
+    "price_usd": 4110.9,
+    "price_krw": 5873119,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-03 06:55",
+  "updated": "2026-08-04 07:08",
   "error": null
 }
