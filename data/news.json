@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한은 '금 보유 확대' 길 연다…금 실물 인출 부가세 면제",
-      "url": "https://n.news.naver.com/mnews/article/421/0009094892"
+      "title": "카카오페이證, 상반기 영업익 631억…지난해 연간 실적 추월",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648407"
     },
     {
-      "title": "실거주 중심 세제 전면 개편... 종부세 '주택 수' 없애고 20억까지 면세",
-      "url": "https://n.news.naver.com/mnews/article/047/0002524485"
+      "title": "\"기세 몰아가자\"…이례적 기록 세운 코스닥 사흘간 21%↑",
+      "url": "https://n.news.naver.com/mnews/article/215/0001261122"
     },
     {
-      "title": "주가 눌러 상속세 줄이는 기업에 할증 과세",
-      "url": "https://n.news.naver.com/mnews/article/009/0005716117"
+      "title": "인천공항, 6.9兆 '우즈벡 신공항' 품었다… K-공항 역량 입증 '역대 최대' 쾌거",
+      "url": "https://n.news.naver.com/mnews/article/014/0005556854"
     },
     {
-      "title": "'5%↓' 코스피 또 변동성…레버리지 대책에 수급완화? 코스닥 강세(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016231356"
+      "title": "한은 \"8월 물가, 7월보다 높아질 것...근원품목 높은 상승률 지속\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001261075"
     },
     {
-      "title": "한화 테크·라이프 통합 지주사 ‘첫발’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004148202"
+      "title": "모아타운·신통기획 후보지 취소구역 정보 전면 공개...서울시, 허위매물 피해 차단",
+      "url": "https://n.news.naver.com/mnews/article/009/0005716328"
     },
     {
-      "title": "한국경제인협회 “국내생산세액공제 도입, 활력·경쟁력 높이는 발판”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002678979"
+      "title": "한은 금통위 \"성장·물가 상응토록 금리 인상해야\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002388794"
     },
     {
-      "title": "개미들 ‘빚투’ 줄었다…신용융자 잔고 6개월 만에 30조 밑으로",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648106"
+      "title": "오세훈, 정부 부동산 세제 개편안 직격 “세금 지옥만 심해질 것”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001864959"
     },
     {
-      "title": "결혼·출산 세액공제, 직접 지원으로 바꾼다",
-      "url": "https://n.news.naver.com/mnews/article/052/0002388334"
+      "title": "‘나이롱 환자’ 잡는다…내달 10일부터 교통사고 경상 8주 넘으면 전문의 심사",
+      "url": "https://n.news.naver.com/mnews/article/022/0004148339"
     },
     {
-      "title": "'어닝 서프' 팔란티어, 2Q 순익 225% 성장…시간 외 주가 11%↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014106120"
+      "title": "호르무즈 협상 기대에…S&P500지수 2달만에 최고치 경신",
+      "url": "https://n.news.naver.com/mnews/article/422/0000892454"
     },
     {
-      "title": "‘ISA 절세 혜택’ 한 눈에…KB증권, ‘ISA 인사이트’ 선봬",
-      "url": "https://n.news.naver.com/mnews/article/016/0002678683"
+      "title": "기후장관 \"지방 기업 전기요금 인하…신규 원전 공론화도 본격화\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005395518"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6595.45,
+      "value": 6257.45,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 719.76,
+      "value": 737.35,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25913.9,
-      "change": 540.05,
-      "change_pct": 2.13
+      "value": 26584.99,
+      "change": 671.09,
+      "change_pct": 2.59
     },
     "usdkrw": {
-      "value": 1428.67,
-      "change": 8.07,
-      "change_pct": 0.57
+      "value": 1429.28,
+      "change": -6.42,
+      "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4110.9,
-    "price_krw": 5873119,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4135.2,
+    "price_krw": 5910358,
+    "change": 101.5,
+    "change_pct": 2.52
   },
-  "updated": "2026-08-04 07:08",
+  "updated": "2026-08-05 07:11",
   "error": null
 }
