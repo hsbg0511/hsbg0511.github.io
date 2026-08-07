@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "산업장관 “주 52시간제 손봐야…일하려는 의지 막아선 안 돼”",
-      "url": "https://n.news.naver.com/mnews/article/422/0000893024"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000893549"
     },
     {
-      "title": "삼닉 레버리지 쏠림완화 속 증시 투자열기까지 식었다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717722"
+      "title": "‘K에너지 유니콘 기업’ 키운다…한전, 에너시 신산업 이끌 ‘한전기술지주’ 출범",
+      "url": "https://n.news.naver.com/mnews/article/082/0001393021"
     },
     {
-      "title": "전세사기 피해주택 매입 '1만호' 넘어…누적 피해자도 4만명",
-      "url": "https://n.news.naver.com/mnews/article/079/0004176376"
+      "title": "'한미 법카 의혹' 제보자 \"조사 이뤄져야\"…한미 \"사실 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016239296"
     },
     {
-      "title": "홈플러스, 오늘부터 영업재개…운명의 한 달 시작됐다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005800074"
+      "title": "SK하이닉스, 용인·청주에 54조 투자…AI 메모리 공급망 선점 나선다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649625"
     },
     {
-      "title": "중고차 판매 수수료 등 포함 총액 표시해야",
-      "url": "https://n.news.naver.com/mnews/article/020/0003739247"
+      "title": "\"서울 주택 공급 90%가 민간\"…서울시, 규제 완화 재촉구",
+      "url": "https://n.news.naver.com/mnews/article/018/0006346833"
     },
     {
-      "title": "엔화 살리기 미국…“변동성 과도” 원화도 콕 집었다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542594"
+      "title": "LG 엑사원, 표·시계열 데이터 기반 산업 데이터 분석에서 구글·알리바바 제쳐",
+      "url": "https://n.news.naver.com/mnews/article/081/0003668613"
     },
     {
-      "title": "실적 vs 유가 '줄다리기'…뉴욕증시 동반 하락[월스트리트in]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006346525"
+      "title": "코웨이 2분기 영업이익 2532억원…전년대비 4.3%↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014115029"
     },
     {
-      "title": "“빚투 얼마나 끔찍한지 전혀 몰라”…레버리지 사상 최대규모, 월가 황제 ‘경고’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717850"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002390427"
     },
     {
-      "title": "\"상품 특징 요약해줘\"...쿠팡, AI로 쇼핑 지원 강화",
-      "url": "https://n.news.naver.com/mnews/article/008/0005396904"
+      "title": "경제6단체 \"국내생산세액공제 환영…세부기준 조속히 마련해야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016238570"
     },
     {
-      "title": "삼성전자, ‘FMS 어워드’서 V낸드·AI 메모리로 2개 부문 수상",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717324"
+      "title": "블루엘리펀트, 어펄마캐피탈매니져스코리아서 1000억원 규모 투자 유치",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800390"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6277.84,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 801.87,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26348.35,
-      "change": -15.09,
-      "change_pct": -0.06
+      "value": 26690.62,
+      "change": 342.27,
+      "change_pct": 1.3
     },
     "usdkrw": {
-      "value": 1420.88,
-      "change": -0.28,
-      "change_pct": -0.02
+      "value": 1407.45,
+      "change": -13.71,
+      "change_pct": -0.96
     }
   },
   "gold": {
-    "price_usd": 4291.8,
-    "price_krw": 6098132,
-    "change": 46.0,
-    "change_pct": 1.08
+    "price_usd": 4401.3,
+    "price_krw": 6194609,
+    "change": 159.3,
+    "change_pct": 3.76
   },
-  "updated": "2026-08-07 10:00",
+  "updated": "2026-08-08 06:38",
   "error": null
 }
