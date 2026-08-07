@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "결혼 성수기 피했더니 300만 원 절약… 1월 예식비 가장 저렴",
-      "url": "https://n.news.naver.com/mnews/article/469/0000946324"
+      "title": "산업장관 “주 52시간제 손봐야…일하려는 의지 막아선 안 돼”",
+      "url": "https://n.news.naver.com/mnews/article/422/0000893024"
     },
     {
-      "title": "내년 최저임금 1만700원 확정…민주노총·소공연 이의 불수용",
-      "url": "https://n.news.naver.com/mnews/article/001/0016234110"
+      "title": "삼닉 레버리지 쏠림완화 속 증시 투자열기까지 식었다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717722"
     },
     {
-      "title": "코스피 이틀째 상승…3.76%↑ 6598 마감",
-      "url": "https://n.news.naver.com/mnews/article/005/0001865135"
+      "title": "전세사기 피해주택 매입 '1만호' 넘어…누적 피해자도 4만명",
+      "url": "https://n.news.naver.com/mnews/article/079/0004176376"
     },
     {
-      "title": "'73.6세까지 일하고 싶어'…고령 취업자 1천만명 시대",
-      "url": "https://n.news.naver.com/mnews/article/374/0000525732"
+      "title": "홈플러스, 오늘부터 영업재개…운명의 한 달 시작됐다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800074"
     },
     {
-      "title": "고려아연, 올 상반기 영업익 1조3330억 ‘사상최대’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717212"
+      "title": "중고차 판매 수수료 등 포함 총액 표시해야",
+      "url": "https://n.news.naver.com/mnews/article/020/0003739247"
     },
     {
-      "title": "에이피알, 2분기 영업익 1,906억원…\"사상 최대 분기 실적\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000892653"
+      "title": "엔화 살리기 미국…“변동성 과도” 원화도 콕 집었다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542594"
     },
     {
-      "title": "'중형차급 스펙' 8세대 아반떼…흥행몰이 나서",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717188"
+      "title": "실적 vs 유가 '줄다리기'…뉴욕증시 동반 하락[월스트리트in]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006346525"
     },
     {
-      "title": "홈플러스 “긴급 운영자금 2천억 원 오늘 입금…13일 정식 재개장”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012231911"
+      "title": "“빚투 얼마나 끔찍한지 전혀 몰라”…레버리지 사상 최대규모, 월가 황제 ‘경고’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717850"
     },
     {
-      "title": "메모리 성능 8배·전력효율 3배 높여…AI 모델 고도화 길 튼다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648916"
+      "title": "\"상품 특징 요약해줘\"...쿠팡, AI로 쇼핑 지원 강화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005396904"
     },
     {
-      "title": "스페이스X 매출 92% 늘었는데...AI 투자 부담에 시간외거래서 주가 ‘뚝’",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991412"
+      "title": "삼성전자, ‘FMS 어워드’서 V낸드·AI 메모리로 2개 부문 수상",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717324"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6358.95,
+      "value": 6277.84,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 780.72,
+      "value": 801.87,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26363.44,
-      "change": -221.55,
-      "change_pct": -0.83
+      "value": 26348.35,
+      "change": -15.09,
+      "change_pct": -0.06
     },
     "usdkrw": {
-      "value": 1422.13,
-      "change": -6.37,
-      "change_pct": -0.45
+      "value": 1420.88,
+      "change": -0.28,
+      "change_pct": -0.02
     }
   },
   "gold": {
-    "price_usd": 4310.7,
-    "price_krw": 6130376,
-    "change": 215.3,
-    "change_pct": 5.26
+    "price_usd": 4291.8,
+    "price_krw": 6098132,
+    "change": 46.0,
+    "change_pct": 1.08
   },
-  "updated": "2026-08-06 07:11",
+  "updated": "2026-08-07 10:00",
   "error": null
 }
