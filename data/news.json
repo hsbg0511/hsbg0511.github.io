@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000893549"
-    },
-    {
-      "title": "‘K에너지 유니콘 기업’ 키운다…한전, 에너시 신산업 이끌 ‘한전기술지주’ 출범",
-      "url": "https://n.news.naver.com/mnews/article/082/0001393021"
-    },
-    {
-      "title": "'한미 법카 의혹' 제보자 \"조사 이뤄져야\"…한미 \"사실 아냐\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016239296"
-    },
-    {
-      "title": "SK하이닉스, 용인·청주에 54조 투자…AI 메모리 공급망 선점 나선다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649625"
-    },
-    {
-      "title": "\"서울 주택 공급 90%가 민간\"…서울시, 규제 완화 재촉구",
-      "url": "https://n.news.naver.com/mnews/article/018/0006346833"
-    },
-    {
-      "title": "LG 엑사원, 표·시계열 데이터 기반 산업 데이터 분석에서 구글·알리바바 제쳐",
-      "url": "https://n.news.naver.com/mnews/article/081/0003668613"
-    },
-    {
-      "title": "코웨이 2분기 영업이익 2532억원…전년대비 4.3%↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014115029"
+      "title": "'특허 8000개' 한전기술지주 출범…김성환 \"전력 유니콘 육성 전초기지 될 것\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800465"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002390427"
+      "url": "https://n.news.naver.com/mnews/article/055/0001378989"
     },
     {
-      "title": "경제6단체 \"국내생산세액공제 환영…세부기준 조속히 마련해야\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016238570"
+      "title": "기록적 폭염에 농축산물 피해 우려...현장관리 강화",
+      "url": "https://n.news.naver.com/mnews/article/052/0002390605"
     },
     {
-      "title": "블루엘리펀트, 어펄마캐피탈매니져스코리아서 1000억원 규모 투자 유치",
-      "url": "https://n.news.naver.com/mnews/article/277/0005800390"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012234017"
+    },
+    {
+      "title": "“오늘 저녁 갈치 샀어요”…다시 문 연 홈플러스에 돌아온 장바구니",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649785"
+    },
+    {
+      "title": "'7번째 도전' KDB생명 누가 품나…흥국·한투·한화 '3색 셈법'",
+      "url": "https://n.news.naver.com/mnews/article/119/0003119576"
+    },
+    {
+      "title": "포스코홀딩스, 포스코인터·DX 지분 50%로 축소…2.5조 실탄 확보",
+      "url": "https://n.news.naver.com/mnews/article/050/0000109433"
+    },
+    {
+      "title": "SK하이닉스, 中 충칭공장 지분 판다?…“확정된 바는 없다”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543109"
+    },
+    {
+      "title": "“벌써 폭락 충격 가셨나” 개미들 ‘빚투’ 또 시작…신용융자잔고 하루만에 1조 증가",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649722"
+    },
+    {
+      "title": "주유소 기름값 12주째 하락…휘발유·경유 1천800원대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016239927"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6258.77,
+      "change": -37.61,
+      "change_pct": -0.6
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 798.81,
+      "change": -2.86,
+      "change_pct": -0.36
     },
     "nasdaq": {
       "value": 26690.62,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4401.3,
-    "price_krw": 6194609,
-    "change": 159.3,
-    "change_pct": 3.76
+    "price_usd": 4340.7,
+    "price_krw": 6109318,
+    "change": 98.7,
+    "change_pct": 2.33
   },
-  "updated": "2026-08-08 06:38",
+  "updated": "2026-08-09 06:28",
   "error": null
 }
