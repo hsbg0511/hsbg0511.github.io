@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "15억~20억 아파트, 거래 절반 신고가",
-      "url": "https://n.news.naver.com/mnews/article/015/0005319266"
+      "title": "JW중외 \"통풍 신약 '에파미뉴라드' 3상 성공…내년 국내 허가 목표\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005801762"
     },
     {
-      "title": "삼성전자, NTT 도코모와 AI 기반 통신 품질 최적화 기술 검증",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718753"
+      "title": "[단독]\"임금 192만원·퇴직금 1401만원 뚝\"…현대차 파업하면 벌어지는 일",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398313"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002391390"
+      "title": "한은 부총재 “특별한 충격 없다면, 금리 인상 가능성 커”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012235430"
     },
     {
-      "title": "메디톡스, 2분기 영업이익 48억원⋯전년 동기 대비 25% 감소",
-      "url": "https://n.news.naver.com/mnews/article/031/0001048538"
+      "title": "19일부터 단일종목 레버리지 첫 투자시 '모의거래' 이수해야",
+      "url": "https://n.news.naver.com/mnews/article/214/0001517234"
     },
     {
-      "title": "치솟는 전기 수요… 이번주 ‘역대 최대’ 찍는다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003668803"
+      "title": "원룸 계약 전 '깜깜이 관리비' 알려준다…공인중개사 설명 의무화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398353"
     },
     {
-      "title": "한화그룹, KAI 지분 15% 이상 확보…기업결합심사 신청 예정",
-      "url": "https://n.news.naver.com/mnews/article/032/0003463344"
+      "title": "하이닉스, 日 키옥시아 사실상 최대주주로",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543720"
     },
     {
-      "title": "점점 늘어나는 ‘예외 조항’…가계대출 총량규제도 흔들린다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003669113"
+      "title": "'시총 1조' 나스닥 상장사도 \"코스닥 갈래요\"…신뢰 회복 신호탄 될까",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398499"
     },
     {
-      "title": "GS건설, LS일렉과 AI 데이터센터 직류 배전 사업 협력",
-      "url": "https://n.news.naver.com/mnews/article/469/0000947211"
+      "title": "이마트, 광어회부터 신학기 용품까지 반값…'고래잇 페스타'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006349880"
     },
     {
-      "title": "한샘, 2분기 영업익 113억 원…전년比 5배 ‘쑥’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004650344"
+      "title": "삼성SDI, GM과 차세대 배터리 개발...북미 첫 단독 공장 확보[기업]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002391911"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000894107"
+      "title": "AI 투자 위해 인텔도 55년만에 공개 유상증자",
+      "url": "https://n.news.naver.com/mnews/article/023/0003992376"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6258.77,
+      "value": 6299.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 798.81,
+      "value": 854.47,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26605.36,
-      "change": -85.26,
-      "change_pct": -0.32
+      "value": 26445.45,
+      "change": -159.91,
+      "change_pct": -0.6
     },
     "usdkrw": {
-      "value": 1417.67,
-      "change": -4.63,
-      "change_pct": -0.33
+      "value": 1412.58,
+      "change": 5.58,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 4448.6,
-    "price_krw": 6306646,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4427.8,
+    "price_krw": 6254621,
+    "change": 66.0,
+    "change_pct": 1.51
   },
-  "updated": "2026-08-11 06:40",
+  "updated": "2026-08-12 06:44",
   "error": null
 }
