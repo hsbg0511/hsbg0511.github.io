@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "JW중외 \"통풍 신약 '에파미뉴라드' 3상 성공…내년 국내 허가 목표\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005801762"
+      "title": "해외보다 2배 높은 레버리지 자산 증가율… “투자자 보호 진입장벽 높여야”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003740158"
     },
     {
-      "title": "[단독]\"임금 192만원·퇴직금 1401만원 뚝\"…현대차 파업하면 벌어지는 일",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398313"
+      "title": "\"오늘도 1000원 못 넘으면\"…'동전주' 23곳 관리종목 운명 갈린다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014121619"
     },
     {
-      "title": "한은 부총재 “특별한 충격 없다면, 금리 인상 가능성 커”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012235430"
+      "title": "홈플러스, 13일 67개 점포 정식 재개장…59곳 온라인도 재개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006350068"
     },
     {
-      "title": "19일부터 단일종목 레버리지 첫 투자시 '모의거래' 이수해야",
-      "url": "https://n.news.naver.com/mnews/article/214/0001517234"
+      "title": "10개월 최저 찍고 또 내린 달러·원…유가·엔저에도 1415.7원(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009110723"
     },
     {
-      "title": "원룸 계약 전 '깜깜이 관리비' 알려준다…공인중개사 설명 의무화",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398353"
+      "title": "김정관 산업장관 “호남 반도체 부지, 정부가 기업에 먼저 제안”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002682952"
     },
     {
-      "title": "하이닉스, 日 키옥시아 사실상 최대주주로",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543720"
+      "title": "아시아나, 대한항공과 합병 가결... 12월 17일 '통합 대한항공' 출범",
+      "url": "https://n.news.naver.com/mnews/article/660/0000115042"
     },
     {
-      "title": "'시총 1조' 나스닥 상장사도 \"코스닥 갈래요\"…신뢰 회복 신호탄 될까",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398499"
+      "title": "오세훈, '버스하우스' 두고 \"청년에게 주거가 어떤  의미인지 몰라\"",
+      "url": "https://n.news.naver.com/mnews/article/437/0000505844"
     },
     {
-      "title": "이마트, 광어회부터 신학기 용품까지 반값…'고래잇 페스타'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006349880"
+      "title": "정부 \"7월 취업자수 증가세 이어가기 위해 총력 대응\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016246025"
     },
     {
-      "title": "삼성SDI, GM과 차세대 배터리 개발...북미 첫 단독 공장 확보[기업]",
-      "url": "https://n.news.naver.com/mnews/article/052/0002391911"
+      "title": "한화, 동남권 AI-우주항공 지역인재 키운다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003740490"
     },
     {
-      "title": "AI 투자 위해 인텔도 55년만에 공개 유상증자",
-      "url": "https://n.news.naver.com/mnews/article/023/0003992376"
+      "title": "SK하이닉스 생산·사무직 아우른 ‘통합노조’ 출범 임박",
+      "url": "https://n.news.naver.com/mnews/article/366/0001185758"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6299.66,
+      "value": 6345.53,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 854.47,
+      "value": 857.84,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26445.45,
-      "change": -159.91,
-      "change_pct": -0.6
+      "value": 26588.49,
+      "change": 143.04,
+      "change_pct": 0.54
     },
     "usdkrw": {
-      "value": 1412.58,
-      "change": 5.58,
-      "change_pct": 0.4
+      "value": 1416.84,
+      "change": -0.47,
+      "change_pct": -0.03
     }
   },
   "gold": {
-    "price_usd": 4427.8,
-    "price_krw": 6254621,
-    "change": 66.0,
-    "change_pct": 1.51
+    "price_usd": 4469.0,
+    "price_krw": 6331857,
+    "change": 86.0,
+    "change_pct": 1.96
   },
-  "updated": "2026-08-12 06:44",
+  "updated": "2026-08-13 06:43",
   "error": null
 }
