@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "해외보다 2배 높은 레버리지 자산 증가율… “투자자 보호 진입장벽 높여야”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740158"
+      "title": "정기선 \"단기 실적에 매몰 말라\"… HD현대 사장단에 장기 안목 주문",
+      "url": "https://n.news.naver.com/mnews/article/417/0001155296"
     },
     {
-      "title": "\"오늘도 1000원 못 넘으면\"…'동전주' 23곳 관리종목 운명 갈린다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014121619"
+      "title": "다시 문 연 홈플러스, 반값 한우 ‘오픈런’",
+      "url": "https://n.news.naver.com/mnews/article/023/0003992902"
     },
     {
-      "title": "홈플러스, 13일 67개 점포 정식 재개장…59곳 온라인도 재개",
-      "url": "https://n.news.naver.com/mnews/article/018/0006350068"
+      "title": "삼성전자, 인도에 HVAC 신규 생산라인 준공… AI 데이터센터 공략 박차",
+      "url": "https://n.news.naver.com/mnews/article/009/0005720358"
     },
     {
-      "title": "10개월 최저 찍고 또 내린 달러·원…유가·엔저에도 1415.7원(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009110723"
+      "title": "한은 13년 만에 '금 투자'…국내 금 ETF도 상승세 탔다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005320557"
     },
     {
-      "title": "김정관 산업장관 “호남 반도체 부지, 정부가 기업에 먼저 제안”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002682952"
+      "title": "빌 게이츠 1년 만에 한국행…정부·재계와 SMR 협력 논의",
+      "url": "https://n.news.naver.com/mnews/article/656/0000184037"
     },
     {
-      "title": "아시아나, 대한항공과 합병 가결... 12월 17일 '통합 대한항공' 출범",
-      "url": "https://n.news.naver.com/mnews/article/660/0000115042"
+      "title": "'이주비 대란' 한숨 돌렸지만…비거주 1주택 전세대출은 차단",
+      "url": "https://n.news.naver.com/mnews/article/009/0005720804"
     },
     {
-      "title": "오세훈, '버스하우스' 두고 \"청년에게 주거가 어떤  의미인지 몰라\"",
-      "url": "https://n.news.naver.com/mnews/article/437/0000505844"
+      "title": "전문가들 “8·13 공급대책 방향 맞지만…실행력은 물음표”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003544206"
     },
     {
-      "title": "정부 \"7월 취업자수 증가세 이어가기 위해 총력 대응\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016246025"
+      "title": "가계부채 총량 증가율 2배로… 30조 더 풀어 대출절벽 해소",
+      "url": "https://n.news.naver.com/mnews/article/020/0003740850"
     },
     {
-      "title": "한화, 동남권 AI-우주항공 지역인재 키운다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740490"
+      "title": "한투, KDB생명 매각 우선협상대상자로 선정…매각 ‘7수’ 만에 새 주인",
+      "url": "https://n.news.naver.com/mnews/article/016/0002683673"
     },
     {
-      "title": "SK하이닉스 생산·사무직 아우른 ‘통합노조’ 출범 임박",
-      "url": "https://n.news.naver.com/mnews/article/366/0001185758"
+      "title": "HMM, 2분기 영업익 3541억원…전년比 52%↑",
+      "url": "https://n.news.naver.com/mnews/article/629/0000524308"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6345.53,
+      "value": 6579.04,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 857.84,
+      "value": 858.91,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26588.49,
-      "change": 143.04,
-      "change_pct": 0.54
+      "value": 26803.03,
+      "change": 214.54,
+      "change_pct": 0.81
     },
     "usdkrw": {
-      "value": 1416.84,
-      "change": -0.47,
-      "change_pct": -0.03
+      "value": 1418.2,
+      "change": 6.02,
+      "change_pct": 0.43
     }
   },
   "gold": {
-    "price_usd": 4469.0,
-    "price_krw": 6331857,
-    "change": 86.0,
-    "change_pct": 1.96
+    "price_usd": 4407.1,
+    "price_krw": 6250149,
+    "change": -1.8,
+    "change_pct": -0.04
   },
-  "updated": "2026-08-13 06:43",
+  "updated": "2026-08-14 06:43",
   "error": null
 }
