@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "LS, 상반기 영업익 1조717억원...지난해 연간 실적 넘어",
-      "url": "https://n.news.naver.com/mnews/article/119/0003121931"
+      "title": "용산구 “용산공원에 주택? 강력 반대…서울 도심 마지막 국가공원”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741100"
     },
     {
-      "title": "47년 된 롯데호텔 서울, 객실 줄이고 간판 바꾼 까닭은?",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049853"
+      "title": "수은, 빌 게이츠와 SMR 금융협력 논의…K-원전 글로벌 진출 지원",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684347"
     },
     {
-      "title": "국토장관 “용산공원 전체, 집 짓는 방향 생각…20일 오세훈 면담”",
-      "url": "https://n.news.naver.com/mnews/article/449/0000356871"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000896205"
     },
     {
-      "title": "\"진짜 국민주였네\" 대한민국 성인 5명 중 1명은 삼성전자 소액주주",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803437"
+      "title": "18일 현대차 노사 다시 협상 테이블에…하반기 실적 반등 '분수령'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803462"
     },
     {
-      "title": "세아제강지주, 2분기 영업손실 508억..전년 대비 적자 전환",
-      "url": "https://n.news.naver.com/mnews/article/008/0005400373"
+      "title": "여한구 통상교섭본부장 직권면직…통상 사령탑 돌연 공석",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321221"
     },
     {
-      "title": "삼양식품, 2분기 영업익 47%↑…해외매출 분기 첫 6000억(상보)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009114971"
+      "title": "\"불닭 앞세워 해외 매출 6000억 첫 돌파\"…삼양식품 영업익 46.7% 증가",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321154"
     },
     {
-      "title": "서울대·한화, 국방AI 연구 협력한다… '한화 AI 프런티어관' 건립",
-      "url": "https://n.news.naver.com/mnews/article/469/0000948068"
+      "title": "한국씨티은행, 2분기 순이익 1868억…역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/011/0004651953"
     },
     {
-      "title": "샌디스크, 2030년까지 두자릿수 매출 성장…메모리 반도체주 급등",
-      "url": "https://n.news.naver.com/mnews/article/008/0005400063"
+      "title": "박정원 두산 회장 455억원… 상반기 총수 보수 1위 올라",
+      "url": "https://n.news.naver.com/mnews/article/023/0003993140"
     },
     {
-      "title": "코스피, 2% 상승 마감⋯'7000선' 고지 눈앞",
-      "url": "https://n.news.naver.com/mnews/article/031/0001049906"
+      "title": "건설協 “8·13 대책에 담긴 금융 규제 완화, 주택 공급에 큰 도움 될 것\"",
+      "url": "https://n.news.naver.com/mnews/article/023/0003993067"
     },
     {
-      "title": "美 소비·물가 우려…S&P 최고치 하루만에 숨고르기[뉴욕마감]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005400502"
+      "title": "수두룩한 ‘물음표’ 달고 출항…‘빠른 길’ 넘어 경제성 입증해야 [D-7 북극항로]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003122067"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6977.94,
+      "change": 164.6,
+      "change_pct": 2.42
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 864.65,
+      "change": 3.28,
+      "change_pct": 0.38
     },
     "nasdaq": {
       "value": 26729.16,
@@ -58,17 +58,17 @@
       "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": 0.02,
-      "change_pct": 0.0
+      "value": 1412.0,
+      "change": -4.85,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4432.0,
-    "price_krw": 6277839,
-    "change": 68.4,
-    "change_pct": 1.57
+    "price_usd": 4380.4,
+    "price_krw": 6185124,
+    "change": 16.8,
+    "change_pct": 0.39
   },
-  "updated": "2026-08-15 06:23",
+  "updated": "2026-08-16 06:19",
   "error": null
 }
