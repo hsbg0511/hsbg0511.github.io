@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "용산구 “용산공원에 주택? 강력 반대…서울 도심 마지막 국가공원”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741100"
+      "title": "산업장관 다시 미국행‥대미투자 속도 빨라지나",
+      "url": "https://n.news.naver.com/mnews/article/214/0001518174"
     },
     {
-      "title": "수은, 빌 게이츠와 SMR 금융협력 논의…K-원전 글로벌 진출 지원",
-      "url": "https://n.news.naver.com/mnews/article/016/0002684347"
+      "title": "“진짜 K뷰티를 발견하는 공간”…올리브영, 체험형 매장으로 美 공략",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721572"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000896205"
+      "title": "4대銀 평균 급여 7천150만원…상승률 13년만 최고",
+      "url": "https://n.news.naver.com/mnews/article/374/0000527744"
     },
     {
-      "title": "18일 현대차 노사 다시 협상 테이블에…하반기 실적 반등 '분수령'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803462"
+      "title": "\"대출 오픈런 해소될까\"…'신규 30조' 금융권 배분, 19일 첫 실무회의",
+      "url": "https://n.news.naver.com/mnews/article/215/0001262532"
     },
     {
-      "title": "여한구 통상교섭본부장 직권면직…통상 사령탑 돌연 공석",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321221"
+      "title": "동전주·시총 미달 줄줄이 관리종목행…'100개 상폐' 현실화하나",
+      "url": "https://n.news.naver.com/mnews/article/055/0001380988"
     },
     {
-      "title": "\"불닭 앞세워 해외 매출 6000억 첫 돌파\"…삼양식품 영업익 46.7% 증가",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321154"
+      "title": "LG전자, 브라질 파라나 가전 新공장 가동…글로벌 사우스 공략 가속",
+      "url": "https://n.news.naver.com/mnews/article/003/0014130047"
     },
     {
-      "title": "한국씨티은행, 2분기 순이익 1868억…역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/011/0004651953"
+      "title": "임금근로자 4개월째 뚝 … '저채용 사회' 진입 우려",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721745"
     },
     {
-      "title": "박정원 두산 회장 455억원… 상반기 총수 보수 1위 올라",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993140"
+      "title": "'가계부채 2천조원' 시대 진입…금리 인상기 건전성 비상",
+      "url": "https://n.news.naver.com/mnews/article/001/0016253453"
     },
     {
-      "title": "건설協 “8·13 대책에 담긴 금융 규제 완화, 주택 공급에 큰 도움 될 것\"",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993067"
+      "title": "“동남아 대신 중국, 너도? 나도”…계속 늘어나는 中하늘길 왜",
+      "url": "https://n.news.naver.com/mnews/article/021/0002811646"
     },
     {
-      "title": "수두룩한 ‘물음표’ 달고 출항…‘빠른 길’ 넘어 경제성 입증해야 [D-7 북극항로]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003122067"
+      "title": "IPO 앞둔 AI업계 양대주자, 속사정은 극과 극",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741212"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1412.0,
-      "change": -4.85,
-      "change_pct": -0.34
+      "value": 1416.48,
+      "change": -0.37,
+      "change_pct": -0.03
     }
   },
   "gold": {
-    "price_usd": 4380.4,
-    "price_krw": 6185124,
-    "change": 16.8,
-    "change_pct": 0.39
+    "price_usd": 4437.3,
+    "price_krw": 6285346,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-16 06:19",
+  "updated": "2026-08-17 06:18",
   "error": null
 }
