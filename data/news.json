@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "산업장관 다시 미국행‥대미투자 속도 빨라지나",
-      "url": "https://n.news.naver.com/mnews/article/214/0001518174"
+      "title": "사흘 내내 케이콘 찾은 이재현 회장…CJ “북미는 절체절명의 지역”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003464714"
     },
     {
-      "title": "“진짜 K뷰티를 발견하는 공간”…올리브영, 체험형 매장으로 美 공략",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721572"
+      "title": "시장·골목 돌며 스탬프 모은다…도시재생 투어 18일 시작",
+      "url": "https://n.news.naver.com/mnews/article/018/0006353116"
     },
     {
-      "title": "4대銀 평균 급여 7천150만원…상승률 13년만 최고",
-      "url": "https://n.news.naver.com/mnews/article/374/0000527744"
+      "title": "\"시설복구·경영안정 도와\" 중기부, 폭우 피해 전통시장 지원",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562404"
     },
     {
-      "title": "\"대출 오픈런 해소될까\"…'신규 30조' 금융권 배분, 19일 첫 실무회의",
-      "url": "https://n.news.naver.com/mnews/article/215/0001262532"
+      "title": "삼전닉스 반년새 현금이 117조가 늘었다…곳간 채우고 빚은 빠르게 청산, 하반기는? [비즈360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684717"
     },
     {
-      "title": "동전주·시총 미달 줄줄이 관리종목행…'100개 상폐' 현실화하나",
-      "url": "https://n.news.naver.com/mnews/article/055/0001380988"
+      "title": "“금값 조정의 끝이 보인다”…개인 투자자 4개월 만에 金 순매수",
+      "url": "https://n.news.naver.com/mnews/article/011/0004652450"
     },
     {
-      "title": "LG전자, 브라질 파라나 가전 新공장 가동…글로벌 사우스 공략 가속",
-      "url": "https://n.news.naver.com/mnews/article/003/0014130047"
+      "title": "PB상품 더 팔라며 '가맹해지' 압박한 다비치안경",
+      "url": "https://n.news.naver.com/mnews/article/079/0004179307"
     },
     {
-      "title": "임금근로자 4개월째 뚝 … '저채용 사회' 진입 우려",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721745"
+      "title": "美원유 첫 20%… ‘탈중동 가속’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003671106"
     },
     {
-      "title": "'가계부채 2천조원' 시대 진입…금리 인상기 건전성 비상",
-      "url": "https://n.news.naver.com/mnews/article/001/0016253453"
+      "title": "김밥 한 줄 4000원 시대…쌀·계란값 뛰자 외식비도 ‘껑충’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003042608"
     },
     {
-      "title": "“동남아 대신 중국, 너도? 나도”…계속 늘어나는 中하늘길 왜",
-      "url": "https://n.news.naver.com/mnews/article/021/0002811646"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000896639"
     },
     {
-      "title": "IPO 앞둔 AI업계 양대주자, 속사정은 극과 극",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741212"
+      "title": "삼성전자, 사내 익명게시판 없앤다…‘나우톡’ 전면 실명제 전환",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352924"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.38
     },
     "nasdaq": {
-      "value": 26729.16,
-      "change": -73.87,
-      "change_pct": -0.28
+      "value": 26644.91,
+      "change": -84.25,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": -0.37,
-      "change_pct": -0.03
+      "value": 1414.95,
+      "change": -1.9,
+      "change_pct": -0.13
     }
   },
   "gold": {
-    "price_usd": 4437.3,
-    "price_krw": 6285346,
+    "price_usd": 4473.1,
+    "price_krw": 6329212,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-17 06:18",
+  "updated": "2026-08-18 06:24",
   "error": null
 }
