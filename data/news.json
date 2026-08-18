@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "사흘 내내 케이콘 찾은 이재현 회장…CJ “북미는 절체절명의 지역”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003464714"
+      "title": "AI가 초급 일자리 삼켰나…청년고용 감소 94% 'AI 고노출 업종' 집중",
+      "url": "https://n.news.naver.com/mnews/article/629/0000525280"
     },
     {
-      "title": "시장·골목 돌며 스탬프 모은다…도시재생 투어 18일 시작",
-      "url": "https://n.news.naver.com/mnews/article/018/0006353116"
+      "title": "'클로이드' 본 젠슨 황 딸 \"어메이징\"… LG, 엔비디아와 손잡는다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000948651"
     },
     {
-      "title": "\"시설복구·경영안정 도와\" 중기부, 폭우 피해 전통시장 지원",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562404"
+      "title": "기아 EV5, 獨 언론 SUV 비교 평가서 테슬라 모델 Y 제쳐",
+      "url": "https://n.news.naver.com/mnews/article/079/0004179506"
     },
     {
-      "title": "삼전닉스 반년새 현금이 117조가 늘었다…곳간 채우고 빚은 빠르게 청산, 하반기는? [비즈360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002684717"
+      "title": "'기사회생' 홈플러스, 재개장 닷새 만에 437억… 매출 3배 뛰었다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000948678"
     },
     {
-      "title": "“금값 조정의 끝이 보인다”…개인 투자자 4개월 만에 金 순매수",
-      "url": "https://n.news.naver.com/mnews/article/011/0004652450"
+      "title": "현대건설-테라파워, 나트륨 원전 사업 기본 협약 체결",
+      "url": "https://n.news.naver.com/mnews/article/018/0006353397"
     },
     {
-      "title": "PB상품 더 팔라며 '가맹해지' 압박한 다비치안경",
-      "url": "https://n.news.naver.com/mnews/article/079/0004179307"
+      "title": "우리금융, 동양·ABL 통합… 총자산 55조 대형 생보사로",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186873"
     },
     {
-      "title": "美원유 첫 20%… ‘탈중동 가속’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003671106"
+      "title": "현대차 노조, 10년 만에 전면 파업…임금협상 끝내 결렬",
+      "url": "https://n.news.naver.com/mnews/article/009/0005722586"
     },
     {
-      "title": "김밥 한 줄 4000원 시대…쌀·계란값 뛰자 외식비도 ‘껑충’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003042608"
+      "title": "무디스, 올해 한국 성장률 3.5%로 상향…“고급 메모리 대체 기업 제한적”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002818953"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000896639"
+      "title": "서울 연립·다세대 2분기 매매금액 5조원 육박… 5년 만에 최대",
+      "url": "https://n.news.naver.com/mnews/article/011/0004652636"
     },
     {
-      "title": "삼성전자, 사내 익명게시판 없앤다…‘나우톡’ 전면 실명제 전환",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352924"
+      "title": "“금리 안 올린다며?”…美 30년물 국채 금리 19년 만에 최고",
+      "url": "https://n.news.naver.com/mnews/article/023/0003993508"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6977.94,
-      "change": 164.6,
-      "change_pct": 2.42
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 864.65,
-      "change": 3.28,
-      "change_pct": 0.38
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26644.91,
-      "change": -84.25,
-      "change_pct": -0.32
+      "value": 26289.71,
+      "change": -355.2,
+      "change_pct": -1.33
     },
     "usdkrw": {
-      "value": 1414.95,
-      "change": -1.9,
-      "change_pct": -0.13
+      "value": 1412.32,
+      "change": -3.05,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4473.1,
-    "price_krw": 6329212,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4389.5,
+    "price_krw": 6199378,
+    "change": -28.3,
+    "change_pct": -0.64
   },
-  "updated": "2026-08-18 06:24",
+  "updated": "2026-08-19 06:23",
   "error": null
 }
