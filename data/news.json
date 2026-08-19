@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "AI가 초급 일자리 삼켰나…청년고용 감소 94% 'AI 고노출 업종' 집중",
-      "url": "https://n.news.naver.com/mnews/article/629/0000525280"
+      "title": "\"2030년 HVAC 선도기업 되겠다\" 삼성전자 37년만에 광주사업장 대규모 투자",
+      "url": "https://n.news.naver.com/mnews/article/014/0005563608"
     },
     {
-      "title": "'클로이드' 본 젠슨 황 딸 \"어메이징\"… LG, 엔비디아와 손잡는다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000948651"
+      "title": "LG엔솔, 미국 미시간 랜싱공장 본격 가동…5대 ESS 생산거점 완성",
+      "url": "https://n.news.naver.com/mnews/article/081/0003671559"
     },
     {
-      "title": "기아 EV5, 獨 언론 SUV 비교 평가서 테슬라 모델 Y 제쳐",
-      "url": "https://n.news.naver.com/mnews/article/079/0004179506"
+      "title": "현대차그룹·구몬학습, 전국민 공모전[Biz & Now]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003545436"
     },
     {
-      "title": "'기사회생' 홈플러스, 재개장 닷새 만에 437억… 매출 3배 뛰었다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000948678"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002395379"
     },
     {
-      "title": "현대건설-테라파워, 나트륨 원전 사업 기본 협약 체결",
-      "url": "https://n.news.naver.com/mnews/article/018/0006353397"
+      "title": "구윤철 “대미 투자, 의도적으로 늦추는 일 없다”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004652970"
     },
     {
-      "title": "우리금융, 동양·ABL 통합… 총자산 55조 대형 생보사로",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186873"
+      "title": "구윤철 경제부총리, 암참과 간담회…\"암참 회원사는 외국기업 아닌 한국경제 일원\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005804650"
     },
     {
-      "title": "현대차 노조, 10년 만에 전면 파업…임금협상 끝내 결렬",
-      "url": "https://n.news.naver.com/mnews/article/009/0005722586"
+      "title": "“상여금 800% 인상”…현대차 노조 10년만에 전면파업",
+      "url": "https://n.news.naver.com/mnews/article/025/0003545146"
     },
     {
-      "title": "무디스, 올해 한국 성장률 3.5%로 상향…“고급 메모리 대체 기업 제한적”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002818953"
+      "title": "전 국민의 92% 도시에 산다…20년째 같은 수준 유지",
+      "url": "https://n.news.naver.com/mnews/article/056/0012240798"
     },
     {
-      "title": "서울 연립·다세대 2분기 매매금액 5조원 육박… 5년 만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/011/0004652636"
+      "title": "금융권 채용시장 한자리에...공동채용 박람회 19일 개막",
+      "url": "https://n.news.naver.com/mnews/article/014/0005563566"
     },
     {
-      "title": "“금리 안 올린다며?”…美 30년물 국채 금리 19년 만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993508"
+      "title": "\"3%도 낮다\"…3% 초중반대까지 높아지는 韓성장률 전망치",
+      "url": "https://n.news.naver.com/mnews/article/008/0005401958"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6977.94,
+      "value": 6869.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 864.65,
+      "value": 834.2,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26289.71,
-      "change": -355.2,
-      "change_pct": -1.33
+      "value": 26331.09,
+      "change": 41.38,
+      "change_pct": 0.16
     },
     "usdkrw": {
-      "value": 1412.32,
-      "change": -3.05,
-      "change_pct": -0.22
+      "value": 1386.3,
+      "change": -28.43,
+      "change_pct": -2.01
     }
   },
   "gold": {
-    "price_usd": 4389.5,
-    "price_krw": 6199378,
-    "change": -28.3,
-    "change_pct": -0.64
+    "price_usd": 4580.7,
+    "price_krw": 6350224,
+    "change": 214.7,
+    "change_pct": 4.92
   },
-  "updated": "2026-08-19 06:23",
+  "updated": "2026-08-20 06:24",
   "error": null
 }
