@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"2030년 HVAC 선도기업 되겠다\" 삼성전자 37년만에 광주사업장 대규모 투자",
-      "url": "https://n.news.naver.com/mnews/article/014/0005563608"
+      "title": "코로나처럼 예방…암 백신시대 온다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005322930"
     },
     {
-      "title": "LG엔솔, 미국 미시간 랜싱공장 본격 가동…5대 ESS 생산거점 완성",
-      "url": "https://n.news.naver.com/mnews/article/081/0003671559"
+      "title": "삼성전자 DX 노조, 21일 서초사옥서 3000명 집회… 자사주 1000주 요구",
+      "url": "https://n.news.naver.com/mnews/article/366/0001187321"
     },
     {
-      "title": "현대차그룹·구몬학습, 전국민 공모전[Biz & Now]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003545436"
+      "title": "검사 사칭에 노후자금 날릴 뻔…AI 정보공유로 664억 지켰다",
+      "url": "https://n.news.naver.com/mnews/article/417/0001155847"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002395379"
+      "title": "외국인 토지거래허가구역 1년 연장… 외곽 섬 353곳도 새로 묶는다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005402659"
     },
     {
-      "title": "구윤철 “대미 투자, 의도적으로 늦추는 일 없다”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004652970"
+      "title": "“강력한 신호, 저가 매수”… 해외 IB, ‘주주환원’ SK하닉 잇따라 호평",
+      "url": "https://n.news.naver.com/mnews/article/022/0004152392"
     },
     {
-      "title": "구윤철 경제부총리, 암참과 간담회…\"암참 회원사는 외국기업 아닌 한국경제 일원\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005804650"
+      "title": "'귀국' 김정관 \"9월 대미 프로젝트 발표… 여전히 에너지 중점 논의\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000949174"
     },
     {
-      "title": "“상여금 800% 인상”…현대차 노조 10년만에 전면파업",
-      "url": "https://n.news.naver.com/mnews/article/025/0003545146"
+      "title": "북극항로 시대 연다…국내 컨테이너선 22일 첫 시범운항",
+      "url": "https://n.news.naver.com/mnews/article/001/0016262413"
     },
     {
-      "title": "전 국민의 92% 도시에 산다…20년째 같은 수준 유지",
-      "url": "https://n.news.naver.com/mnews/article/056/0012240798"
+      "title": "[단독]은행 이어 2금융권도 대출 총량 늘린다…21일 금감원 소집",
+      "url": "https://n.news.naver.com/mnews/article/421/0009124529"
     },
     {
-      "title": "금융권 채용시장 한자리에...공동채용 박람회 19일 개막",
-      "url": "https://n.news.naver.com/mnews/article/014/0005563566"
+      "title": "합병가액, 시가 대신 공정가액으로…'주가 누르기' 유인 차단",
+      "url": "https://n.news.naver.com/mnews/article/003/0014139256"
     },
     {
-      "title": "\"3%도 낮다\"…3% 초중반대까지 높아지는 韓성장률 전망치",
-      "url": "https://n.news.naver.com/mnews/article/008/0005401958"
+      "title": "美 국채 바이백에 알트코인 '불기둥'…이더리움 17%·솔라나 9% 급등",
+      "url": "https://n.news.naver.com/mnews/article/421/0009124352"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6869.83,
+      "value": 6471.17,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.2,
+      "value": 824.46,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26331.09,
-      "change": 41.38,
-      "change_pct": 0.16
+      "value": 26067.17,
+      "change": -263.92,
+      "change_pct": -1.0
     },
     "usdkrw": {
-      "value": 1386.3,
-      "change": -28.43,
-      "change_pct": -2.01
+      "value": 1393.98,
+      "change": -19.6,
+      "change_pct": -1.39
     }
   },
   "gold": {
-    "price_usd": 4580.7,
-    "price_krw": 6350224,
-    "change": 214.7,
-    "change_pct": 4.92
+    "price_usd": 4575.1,
+    "price_krw": 6377598,
+    "change": 85.7,
+    "change_pct": 1.91
   },
-  "updated": "2026-08-20 06:24",
+  "updated": "2026-08-21 06:26",
   "error": null
 }
