@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "코로나처럼 예방…암 백신시대 온다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005322930"
+      "title": "민병덕 “이대로면 재앙…스테이블코인법 반드시 연내 통과”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006355739"
     },
     {
-      "title": "삼성전자 DX 노조, 21일 서초사옥서 3000명 집회… 자사주 1000주 요구",
-      "url": "https://n.news.naver.com/mnews/article/366/0001187321"
+      "title": "현대차, 10년 만에 공장 ‘올스톱’…울산·전주·아산 모든 생산라인 멈춰",
+      "url": "https://n.news.naver.com/mnews/article/011/0004653834"
     },
     {
-      "title": "검사 사칭에 노후자금 날릴 뻔…AI 정보공유로 664억 지켰다",
-      "url": "https://n.news.naver.com/mnews/article/417/0001155847"
+      "title": "신한금융그룹, 경남 집중호우 피해지역 복구 성금 5억원 전달",
+      "url": "https://n.news.naver.com/mnews/article/030/0003459349"
     },
     {
-      "title": "외국인 토지거래허가구역 1년 연장… 외곽 섬 353곳도 새로 묶는다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005402659"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001519112"
     },
     {
-      "title": "“강력한 신호, 저가 매수”… 해외 IB, ‘주주환원’ SK하닉 잇따라 호평",
-      "url": "https://n.news.naver.com/mnews/article/022/0004152392"
+      "title": "‘오픈런’ 숨통 트이나… 신축 아파트 잔금대출 한도 늘어",
+      "url": "https://n.news.naver.com/mnews/article/021/0002812869"
     },
     {
-      "title": "'귀국' 김정관 \"9월 대미 프로젝트 발표… 여전히 에너지 중점 논의\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000949174"
+      "title": "코웨이, ‘IDEA 디자인 어워드’ 본상 수상...3대 디자인어워드 석권",
+      "url": "https://n.news.naver.com/mnews/article/009/0005724012"
     },
     {
-      "title": "북극항로 시대 연다…국내 컨테이너선 22일 첫 시범운항",
-      "url": "https://n.news.naver.com/mnews/article/001/0016262413"
+      "title": "삼성전자, 사상 최대 110조 주주환원…3분기 30조 현금배당",
+      "url": "https://n.news.naver.com/mnews/article/081/0003672532"
     },
     {
-      "title": "[단독]은행 이어 2금융권도 대출 총량 늘린다…21일 금감원 소집",
-      "url": "https://n.news.naver.com/mnews/article/421/0009124529"
+      "title": "美바이백·규제 훈풍에…비트코인 7.2만달러 안착[코인 모닝콜]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006355459"
     },
     {
-      "title": "합병가액, 시가 대신 공정가액으로…'주가 누르기' 유인 차단",
-      "url": "https://n.news.naver.com/mnews/article/003/0014139256"
+      "title": "뉴욕증시, 美국채금리 반등에 일제히 하락…다우 1.3%↓",
+      "url": "https://n.news.naver.com/mnews/article/422/0000897899"
     },
     {
-      "title": "美 국채 바이백에 알트코인 '불기둥'…이더리움 17%·솔라나 9% 급등",
-      "url": "https://n.news.naver.com/mnews/article/421/0009124352"
+      "title": "정부, 9차 석유 최고가격 동결…\"민생부담·국제유가 고려\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000898156"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6471.17,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 824.46,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26067.17,
-      "change": -263.92,
-      "change_pct": -1.0
+      "value": 26180.46,
+      "change": 113.29,
+      "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1393.98,
-      "change": -19.6,
-      "change_pct": -1.39
+      "value": 1385.98,
+      "change": -3.42,
+      "change_pct": -0.25
     }
   },
   "gold": {
-    "price_usd": 4575.1,
-    "price_krw": 6377598,
-    "change": 85.7,
-    "change_pct": 1.91
+    "price_usd": 4661.6,
+    "price_krw": 6460884,
+    "change": 145.3,
+    "change_pct": 3.22
   },
-  "updated": "2026-08-21 06:26",
+  "updated": "2026-08-22 06:23",
   "error": null
 }
