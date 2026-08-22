@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "민병덕 “이대로면 재앙…스테이블코인법 반드시 연내 통과”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006355739"
-    },
-    {
-      "title": "현대차, 10년 만에 공장 ‘올스톱’…울산·전주·아산 모든 생산라인 멈춰",
-      "url": "https://n.news.naver.com/mnews/article/011/0004653834"
-    },
-    {
-      "title": "신한금융그룹, 경남 집중호우 피해지역 복구 성금 5억원 전달",
-      "url": "https://n.news.naver.com/mnews/article/030/0003459349"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000528777"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519112"
+      "url": "https://n.news.naver.com/mnews/article/052/0002396555"
     },
     {
-      "title": "‘오픈런’ 숨통 트이나… 신축 아파트 잔금대출 한도 늘어",
-      "url": "https://n.news.naver.com/mnews/article/021/0002812869"
+      "title": "'20년 호황' 美 국채…안전자산 지위 흔들",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323408"
     },
     {
-      "title": "코웨이, ‘IDEA 디자인 어워드’ 본상 수상...3대 디자인어워드 석권",
-      "url": "https://n.news.naver.com/mnews/article/009/0005724012"
+      "title": "'삼전닉스에 도전' 中낸드 YMTC, IPO로 6조8천억원 조달 계획(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016264899"
     },
     {
-      "title": "삼성전자, 사상 최대 110조 주주환원…3분기 30조 현금배당",
-      "url": "https://n.news.naver.com/mnews/article/081/0003672532"
+      "title": "\"앤트로픽, 기업가치 2조 달러 IPO 추진\"...성공하면 스페이스X 제친다",
+      "url": "https://n.news.naver.com/mnews/article/052/0002396777"
     },
     {
-      "title": "美바이백·규제 훈풍에…비트코인 7.2만달러 안착[코인 모닝콜]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006355459"
+      "title": "암세포 ‘몽타주’ 만들어 추격…‘나만의 암백신’ 현실로 [안경진의 약이야기]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654083"
     },
     {
-      "title": "뉴욕증시, 美국채금리 반등에 일제히 하락…다우 1.3%↓",
-      "url": "https://n.news.naver.com/mnews/article/422/0000897899"
+      "title": "삼성전자 서초사옥 앞 모인  DX 노조…\"경영실패 책임져라\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001382481"
     },
     {
-      "title": "정부, 9차 석유 최고가격 동결…\"민생부담·국제유가 고려\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000898156"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012242569"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001519358"
+    },
+    {
+      "title": "“100억 압구정 아파트, 이젠 85억이라는데 찾아보니 신고가?”강남 집값 무슨 일이 [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002687011"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6912.95,
+      "change": 60.37,
+      "change_pct": 0.88
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 801.94,
+      "change": -38.95,
+      "change_pct": -4.63
     },
     "nasdaq": {
       "value": 26180.46,
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1385.98,
-      "change": -3.42,
-      "change_pct": -0.25
+      "value": 1383.9,
+      "change": -6.89,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4661.6,
-    "price_krw": 6460884,
-    "change": 145.3,
-    "change_pct": 3.22
+    "price_usd": 4624.1,
+    "price_krw": 6399292,
+    "change": 107.8,
+    "change_pct": 2.39
   },
-  "updated": "2026-08-22 06:23",
+  "updated": "2026-08-23 06:20",
   "error": null
 }
