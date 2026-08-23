@@ -2,43 +2,43 @@
   "news": [
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000528777"
+      "url": "https://n.news.naver.com/mnews/article/025/0003546257"
+    },
+    {
+      "title": "현대차 오늘 교섭 재개… 결렬땐 파업 수위 더 높일 듯",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868473"
+    },
+    {
+      "title": "삼성전자 \"올해 최대 110조 주주환원\"…국내기업 첫 100조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/088/0001024704"
+    },
+    {
+      "title": "은행 상반기 순익 6.4% 줄었다…금리 올라 채권값 하락",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403403"
+    },
+    {
+      "title": "빅테크 채권 폭탄, 美국채금리 올렸다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403503"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002396555"
+      "url": "https://n.news.naver.com/mnews/article/055/0001382635"
     },
     {
-      "title": "'20년 호황' 美 국채…안전자산 지위 흔들",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323408"
+      "title": "절세인가, 꼼수인가…작년 가업상속공제 5천억 돌파",
+      "url": "https://n.news.naver.com/mnews/article/029/0003043740"
     },
     {
-      "title": "'삼전닉스에 도전' 中낸드 YMTC, IPO로 6조8천억원 조달 계획(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016264899"
+      "title": "공공기관 350곳 이전 발표 초읽기…충청권 '빈손' 설움 벗나",
+      "url": "https://n.news.naver.com/mnews/article/656/0000184790"
     },
     {
-      "title": "\"앤트로픽, 기업가치 2조 달러 IPO 추진\"...성공하면 스페이스X 제친다",
-      "url": "https://n.news.naver.com/mnews/article/052/0002396777"
+      "title": "서울시, 모아주택 사업 기간 6년→4.5년…2031년까지 4만호 착공",
+      "url": "https://n.news.naver.com/mnews/article/629/0000526706"
     },
     {
-      "title": "암세포 ‘몽타주’ 만들어 추격…‘나만의 암백신’ 현실로 [안경진의 약이야기]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004654083"
-    },
-    {
-      "title": "삼성전자 서초사옥 앞 모인  DX 노조…\"경영실패 책임져라\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001382481"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012242569"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519358"
-    },
-    {
-      "title": "“100억 압구정 아파트, 이젠 85억이라는데 찾아보니 신고가?”강남 집값 무슨 일이 [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002687011"
+      "title": "'K9 자주포' 한화, 美 방산 자회사에 4000억 투입…\"돌격 앞으로\" 현지 공략",
+      "url": "https://n.news.naver.com/mnews/article/030/0003459466"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1383.9,
-      "change": -6.89,
-      "change_pct": -0.5
+      "value": 1385.89,
+      "change": -4.9,
+      "change_pct": -0.35
     }
   },
   "gold": {
-    "price_usd": 4624.1,
-    "price_krw": 6399292,
-    "change": 107.8,
-    "change_pct": 2.39
+    "price_usd": 4680.6,
+    "price_krw": 6486796,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-23 06:20",
+  "updated": "2026-08-24 06:20",
   "error": null
 }
