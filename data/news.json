@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546257"
+      "title": "삼성 ‘연산’ SK ‘패키징’… ‘메모리 장벽’ 넘는다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003673159"
     },
     {
-      "title": "현대차 오늘 교섭 재개… 결렬땐 파업 수위 더 높일 듯",
-      "url": "https://n.news.naver.com/mnews/article/005/0001868473"
+      "title": "박정성 신임 통상본부장 \"한미 전략적 투자 협의에 총력 기울여야\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000898700"
     },
     {
-      "title": "삼성전자 \"올해 최대 110조 주주환원\"…국내기업 첫 100조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/088/0001024704"
+      "title": "금리·관세에 코스피 숨 고르기…개인 나홀로 지수방어",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403869"
     },
     {
-      "title": "은행 상반기 순익 6.4% 줄었다…금리 올라 채권값 하락",
-      "url": "https://n.news.naver.com/mnews/article/008/0005403403"
+      "title": "디지털엑스, 원화마켓 전 종목 거래수수료 1년간 무료",
+      "url": "https://n.news.naver.com/mnews/article/629/0000526888"
     },
     {
-      "title": "빅테크 채권 폭탄, 美국채금리 올렸다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005403503"
+      "title": "1분기 일자리 29만개 증가…20대 이하는 14분기 연속 내리막",
+      "url": "https://n.news.naver.com/mnews/article/020/0003742867"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001382635"
+      "title": "잠실에 울려퍼진 선율…4500명 즐긴 롯데의 ‘무료 클래식’",
+      "url": "https://n.news.naver.com/mnews/article/018/0006356881"
     },
     {
-      "title": "절세인가, 꼼수인가…작년 가업상속공제 5천억 돌파",
-      "url": "https://n.news.naver.com/mnews/article/029/0003043740"
+      "title": "\"쪼개기·난개발 우려↑\"…'500가구 이하' 정비사업 권한 이양에 서울시 난색",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403914"
     },
     {
-      "title": "공공기관 350곳 이전 발표 초읽기…충청권 '빈손' 설움 벗나",
-      "url": "https://n.news.naver.com/mnews/article/656/0000184790"
+      "title": "삼성에피스 이어 셀트리온도 '키트루다' 바이오시밀러 허가 신청",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323815"
     },
     {
-      "title": "서울시, 모아주택 사업 기간 6년→4.5년…2031년까지 4만호 착공",
-      "url": "https://n.news.naver.com/mnews/article/629/0000526706"
+      "title": "한미약품, 로슈에 ‘사상 최대’ 비만 신약 기술이전…K-제약史 새 이정표",
+      "url": "https://n.news.naver.com/mnews/article/016/0002687601"
     },
     {
-      "title": "'K9 자주포' 한화, 美 방산 자회사에 4000억 투입…\"돌격 앞으로\" 현지 공략",
-      "url": "https://n.news.naver.com/mnews/article/030/0003459466"
+      "title": "LG전자, 에티오피아 희망직업훈련학교 졸업식",
+      "url": "https://n.news.naver.com/mnews/article/081/0003673166"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6912.95,
-      "change": 60.37,
-      "change_pct": 0.88
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 801.94,
-      "change": -38.95,
-      "change_pct": -4.63
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26180.46,
-      "change": 113.29,
-      "change_pct": 0.43
+      "value": 25980.19,
+      "change": -200.27,
+      "change_pct": -0.76
     },
     "usdkrw": {
-      "value": 1385.89,
-      "change": -4.9,
-      "change_pct": -0.35
+      "value": 1383.12,
+      "change": -7.67,
+      "change_pct": -0.55
     }
   },
   "gold": {
-    "price_usd": 4680.6,
-    "price_krw": 6486796,
+    "price_usd": 4710.0,
+    "price_krw": 6514495,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-24 06:20",
+  "updated": "2026-08-25 06:27",
   "error": null
 }
