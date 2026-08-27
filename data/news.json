@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차 이어 기아도 임단협 잠정합의… 올해 ‘하투’ 종료",
-      "url": "https://n.news.naver.com/mnews/article/005/0001868963"
+      "title": "“8만달러 찍었다” 다시 출렁이는 비트코인…오늘 밤 분수령이라는데",
+      "url": "https://n.news.naver.com/mnews/article/009/0005725871"
     },
     {
-      "title": "삼겹살 가격, 1년 만에 12% 상승...4인 상차림 4만 원↑",
-      "url": "https://n.news.naver.com/mnews/article/052/0002397882"
+      "title": "애 낳는 3040 확 늘었다… 작년 30대 후반 출산율 역대 최고",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044496"
     },
     {
-      "title": "AI가 금리인하·대환 신청까지…금융위, 마이데이터 서비스 확 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006357775"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000529604"
     },
     {
-      "title": "원전기업 웨스팅하우스 공동투자설, 미국이 제안 … 韓정부는 \"사실무근\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005725261"
+      "title": "LS證 “삼성생명, 주당배당금 1만원 기대 …목표가 42만원으로 상향\"",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188587"
     },
     {
-      "title": "\"삼성전자, IR 이렇게밖에 못하나\"…110조 푼다는데 폭락 [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005324189"
+      "title": "속였다, 듀오…“전문직·명문대 회원수 업계 최다” 부풀리기",
+      "url": "https://n.news.naver.com/mnews/article/662/0000102745"
     },
     {
-      "title": "2차 공공기관 이전 확정 10월 이후로…\"집적·집중 원칙\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016269527"
+      "title": "엔비디아 \"내년 매출 70% 성장\"…월가 예상 45% 크게 웃돌아",
+      "url": "https://n.news.naver.com/mnews/article/031/0001052749"
     },
     {
-      "title": "'60~62세 비상' 소득 크레바스, 이렇게 차이난다",
-      "url": "https://n.news.naver.com/mnews/article/374/0000529241"
+      "title": "\"베트남 수출 12% 책임진다\"...삼성 4개 법인, 상반기 매출 48.7조 기록",
+      "url": "https://n.news.naver.com/mnews/article/014/0005566419"
     },
     {
-      "title": "고려아연, ‘원아시아 펀드 의혹’ 제기한 MBK·영풍에 민·형사 법적 대응 경고",
-      "url": "https://n.news.naver.com/mnews/article/666/0000120599"
+      "title": "카카오뱅크 노조, 총파업 철회…“주요 쟁점서 사측과 공감대”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003466727"
     },
     {
-      "title": "화환 1000원에 넘기라던 장례식장…이젠 유족 동의 없이 못 건드린다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005404202"
+      "title": "영호남 산업용 전기료 최대 10%↓…'지역요금제' 연내 도입",
+      "url": "https://n.news.naver.com/mnews/article/003/0014149298"
     },
     {
-      "title": "엔비디아 역대 최대 실적 예고…반도체주 향방은",
-      "url": "https://n.news.naver.com/mnews/article/018/0006357943"
+      "title": "엔비디아 실적 발표 D-1, '3대 체크포인트'에 달린 국내 증시 향방",
+      "url": "https://n.news.naver.com/mnews/article/654/0000197141"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6696.96,
+      "value": 6988.7,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.33,
+      "value": 828.76,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26151.3,
-      "change": 171.11,
-      "change_pct": 0.66
+      "value": 26130.2,
+      "change": -21.1,
+      "change_pct": -0.08
     },
     "usdkrw": {
-      "value": 1380.0,
-      "change": -4.98,
-      "change_pct": -0.36
+      "value": 1382.08,
+      "change": 0.59,
+      "change_pct": 0.04
     }
   },
   "gold": {
-    "price_usd": 4715.9,
-    "price_krw": 6507941,
-    "change": 75.1,
-    "change_pct": 1.62
+    "price_usd": 4668.1,
+    "price_krw": 6451687,
+    "change": 30.0,
+    "change_pct": 0.65
   },
-  "updated": "2026-08-26 06:27",
+  "updated": "2026-08-27 09:28",
   "error": null
 }
