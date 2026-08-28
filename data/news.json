@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“8만달러 찍었다” 다시 출렁이는 비트코인…오늘 밤 분수령이라는데",
-      "url": "https://n.news.naver.com/mnews/article/009/0005725871"
+      "title": "네팔 홍수에 고립된 한국인 9명…“대피하겠다” 연락 뒤 끊겼다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005726920"
     },
     {
-      "title": "애 낳는 3040 확 늘었다… 작년 30대 후반 출산율 역대 최고",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044496"
+      "title": "삼성전자, '디지털 고객경험' 종합가전 1위…4년째 정상",
+      "url": "https://n.news.naver.com/mnews/article/374/0000529863"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000529604"
+      "title": "한화에어로, 유·무인기 통합 '원스카이' 엔진 제시…독자 개발 속도",
+      "url": "https://n.news.naver.com/mnews/article/014/0005567664"
     },
     {
-      "title": "LS證 “삼성생명, 주당배당금 1만원 기대 …목표가 42만원으로 상향\"",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188587"
+      "title": "SK하이닉스, ‘한·미 HBM 벨트’ 만든다…美 수십만장 패키징 선언",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656089"
     },
     {
-      "title": "속였다, 듀오…“전문직·명문대 회원수 업계 최다” 부풀리기",
-      "url": "https://n.news.naver.com/mnews/article/662/0000102745"
+      "title": "정부, 코로나 때 장기연체한 소상공인 채무조정…“희생 감수한 것에 재기 기회 주는 것”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995403"
     },
     {
-      "title": "엔비디아 \"내년 매출 70% 성장\"…월가 예상 45% 크게 웃돌아",
-      "url": "https://n.news.naver.com/mnews/article/031/0001052749"
+      "title": "7월 외화예금 1283억 달러 역대 최대…달러예금, 1천억 달러 첫 돌파",
+      "url": "https://n.news.naver.com/mnews/article/079/0004183493"
     },
     {
-      "title": "\"베트남 수출 12% 책임진다\"...삼성 4개 법인, 상반기 매출 48.7조 기록",
-      "url": "https://n.news.naver.com/mnews/article/014/0005566419"
+      "title": "삼성바이오, 유상증자 3조…폴리펩타이드 인수 정조준 [시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656070"
     },
     {
-      "title": "카카오뱅크 노조, 총파업 철회…“주요 쟁점서 사측과 공감대”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003466727"
+      "title": "비트코인 급등에도 유동성 굳건…이번엔 달랐다[코인뉴스]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003126250"
     },
     {
-      "title": "영호남 산업용 전기료 최대 10%↓…'지역요금제' 연내 도입",
-      "url": "https://n.news.naver.com/mnews/article/003/0014149298"
+      "title": "서울시 ‘모아주택 1호’ 준공…소규모 재개발로 공급 ‘속도’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003674162"
     },
     {
-      "title": "엔비디아 실적 발표 D-1, '3대 체크포인트'에 달린 국내 증시 향방",
-      "url": "https://n.news.naver.com/mnews/article/654/0000197141"
+      "title": "서울시 '신통기획' 주민 참여 앞당긴다… 후속절차 지원도 강화",
+      "url": "https://n.news.naver.com/mnews/article/469/0000950700"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6988.7,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 6821.82,
+      "change": -90.55,
+      "change_pct": -1.31
     },
     "kosdaq": {
-      "value": 828.76,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 838.91,
+      "change": 1.26,
+      "change_pct": 0.15
     },
     "nasdaq": {
-      "value": 26130.2,
-      "change": -21.1,
-      "change_pct": -0.08
+      "value": 26541.35,
+      "change": 411.15,
+      "change_pct": 1.57
     },
     "usdkrw": {
-      "value": 1382.08,
-      "change": 0.59,
-      "change_pct": 0.04
+      "value": 1376.19,
+      "change": -7.3,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4668.1,
-    "price_krw": 6451687,
-    "change": 30.0,
-    "change_pct": 0.65
+    "price_usd": 4634.3,
+    "price_krw": 6377677,
+    "change": 24.6,
+    "change_pct": 0.53
   },
-  "updated": "2026-08-27 09:28",
+  "updated": "2026-08-28 14:07",
   "error": null
 }
