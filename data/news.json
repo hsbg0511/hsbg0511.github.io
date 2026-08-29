@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "네팔 홍수에 고립된 한국인 9명…“대피하겠다” 연락 뒤 끊겼다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005726920"
+      "title": "삼성, 경상권 집중호우 피해 복구에 30억원 기부…구호·금융지원 병행",
+      "url": "https://n.news.naver.com/mnews/article/003/0014154009"
     },
     {
-      "title": "삼성전자, '디지털 고객경험' 종합가전 1위…4년째 정상",
-      "url": "https://n.news.naver.com/mnews/article/374/0000529863"
+      "title": "강남 집값 주춤한 사이…강북 아파트는 상승폭 커지고 신고가 속출",
+      "url": "https://n.news.naver.com/mnews/article/081/0003674509"
     },
     {
-      "title": "한화에어로, 유·무인기 통합 '원스카이' 엔진 제시…독자 개발 속도",
-      "url": "https://n.news.naver.com/mnews/article/014/0005567664"
+      "title": "CPTPP 가입논의 다시 운 띄운 정부…이번엔 결론 낼까",
+      "url": "https://n.news.naver.com/mnews/article/001/0016277685"
     },
     {
-      "title": "SK하이닉스, ‘한·미 HBM 벨트’ 만든다…美 수십만장 패키징 선언",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656089"
+      "title": "또 오른 금리,자영업자 이자 1250억원 '눈덩이'",
+      "url": "https://n.news.naver.com/mnews/article/654/0000197503"
     },
     {
-      "title": "정부, 코로나 때 장기연체한 소상공인 채무조정…“희생 감수한 것에 재기 기회 주는 것”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995403"
+      "title": "구윤철 “자영업·소상공인 코로나 채무 조정·감면… 햇살론 3000억원 확대”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154646"
     },
     {
-      "title": "7월 외화예금 1283억 달러 역대 최대…달러예금, 1천억 달러 첫 돌파",
-      "url": "https://n.news.naver.com/mnews/article/079/0004183493"
+      "title": "SK하이닉스, 美인디애나팹 착공…年수십만장 7세대 HBM 생산",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154394"
     },
     {
-      "title": "삼성바이오, 유상증자 3조…폴리펩타이드 인수 정조준 [시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656070"
+      "title": "중고 C등급 샤넬의 반란… 킨텍스 압류동산 공매서 1101만원에 낙찰",
+      "url": "https://n.news.naver.com/mnews/article/666/0000121051"
     },
     {
-      "title": "비트코인 급등에도 유동성 굳건…이번엔 달랐다[코인뉴스]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003126250"
+      "title": "네팔 실종자 가족들 “도대체 정부가 뭘 하는 건지 모르겠다” 작심비판",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154549"
     },
     {
-      "title": "서울시 ‘모아주택 1호’ 준공…소규모 재개발로 공급 ‘속도’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003674162"
+      "title": "결혼식 축의금 평균 얼마 내나…'미혼 13만원 vs 기혼 29만원'",
+      "url": "https://n.news.naver.com/mnews/article/422/0000900413"
     },
     {
-      "title": "서울시 '신통기획' 주민 참여 앞당긴다… 후속절차 지원도 강화",
-      "url": "https://n.news.naver.com/mnews/article/469/0000950700"
+      "title": "한달 만에 11조 '뚝', 그 돈 어디로 갔나 보니…2배 베팅 묶자 돈줄 뚫렸다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406012"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6821.82,
-      "change": -90.55,
-      "change_pct": -1.31
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 838.91,
-      "change": 1.26,
-      "change_pct": 0.15
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26541.35,
-      "change": 411.15,
-      "change_pct": 1.57
+      "value": 26402.42,
+      "change": -138.93,
+      "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1376.19,
-      "change": -7.3,
-      "change_pct": -0.53
+      "value": 1375.67,
+      "change": -7.82,
+      "change_pct": -0.57
     }
   },
   "gold": {
-    "price_usd": 4634.3,
-    "price_krw": 6377677,
-    "change": 24.6,
-    "change_pct": 0.53
+    "price_usd": 4504.1,
+    "price_krw": 6196155,
+    "change": -105.6,
+    "change_pct": -2.29
   },
-  "updated": "2026-08-28 14:07",
+  "updated": "2026-08-29 12:05",
   "error": null
 }
