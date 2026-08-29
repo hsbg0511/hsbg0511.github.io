@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "삼성, 경상권 집중호우 피해 복구에 30억원 기부…구호·금융지원 병행",
-      "url": "https://n.news.naver.com/mnews/article/003/0014154009"
+      "title": "뉴욕 증시, 워시 ‘매파 발언’에 하락...반도체지수 3.5% 급락 [데일리국제금융]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656346"
     },
     {
-      "title": "강남 집값 주춤한 사이…강북 아파트는 상승폭 커지고 신고가 속출",
-      "url": "https://n.news.naver.com/mnews/article/081/0003674509"
+      "title": "막혔던 잔금 숨통 트이나…총량 풀리자 집단대출 한 달 새 1조↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014156469"
     },
     {
-      "title": "CPTPP 가입논의 다시 운 띄운 정부…이번엔 결론 낼까",
-      "url": "https://n.news.naver.com/mnews/article/001/0016277685"
+      "title": "'홈플러스 정상화' 최대 분수령…내달 2일 관계인집회",
+      "url": "https://n.news.naver.com/mnews/article/421/0009139572"
     },
     {
-      "title": "또 오른 금리,자영업자 이자 1250억원 '눈덩이'",
-      "url": "https://n.news.naver.com/mnews/article/654/0000197503"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002399802"
     },
     {
-      "title": "구윤철 “자영업·소상공인 코로나 채무 조정·감면… 햇살론 3000억원 확대”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004154646"
+      "title": "中 창신메모리 상반기 매출 10배 폭증… 삼전닉스 주가 또 흔들리나",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406526"
     },
     {
-      "title": "SK하이닉스, 美인디애나팹 착공…年수십만장 7세대 HBM 생산",
-      "url": "https://n.news.naver.com/mnews/article/022/0004154394"
+      "title": "두산그룹 총수 박정원 회장 네팔行…직접 현장 챙긴다",
+      "url": "https://n.news.naver.com/mnews/article/448/0000636338"
     },
     {
-      "title": "중고 C등급 샤넬의 반란… 킨텍스 압류동산 공매서 1101만원에 낙찰",
-      "url": "https://n.news.naver.com/mnews/article/666/0000121051"
+      "title": "주유소 기름값 15주째 하락…휘발유·경유 1천800원대 유지",
+      "url": "https://n.news.naver.com/mnews/article/055/0001384332"
     },
     {
-      "title": "네팔 실종자 가족들 “도대체 정부가 뭘 하는 건지 모르겠다” 작심비판",
-      "url": "https://n.news.naver.com/mnews/article/022/0004154549"
+      "title": "워시 ‘물가 잡기’ 발언에 비트코인 다시 8만달러 아래로",
+      "url": "https://n.news.naver.com/mnews/article/016/0002690028"
     },
     {
-      "title": "결혼식 축의금 평균 얼마 내나…'미혼 13만원 vs 기혼 29만원'",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900413"
+      "title": "메타, 청소년 SNS 보호 공개서한서 틱톡·유뷰브에 동참 압박",
+      "url": "https://n.news.naver.com/mnews/article/366/0001189053"
     },
     {
-      "title": "한달 만에 11조 '뚝', 그 돈 어디로 갔나 보니…2배 베팅 묶자 돈줄 뚫렸다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406012"
+      "title": "CPTPP 가입논의 다시 운 띄운 정부, 이번엔 결론 낼까",
+      "url": "https://n.news.naver.com/mnews/article/374/0000530045"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6788.88,
+      "change": -123.49,
+      "change_pct": -1.79
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 838.41,
+      "change": 0.76,
+      "change_pct": 0.09
     },
     "nasdaq": {
       "value": 26402.42,
@@ -58,17 +58,17 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1375.67,
-      "change": -7.82,
-      "change_pct": -0.57
+      "value": 1371.5,
+      "change": -8.95,
+      "change_pct": -0.65
     }
   },
   "gold": {
-    "price_usd": 4504.1,
-    "price_krw": 6196155,
-    "change": -105.6,
-    "change_pct": -2.29
+    "price_usd": 4478.1,
+    "price_krw": 6141714,
+    "change": -131.6,
+    "change_pct": -2.85
   },
-  "updated": "2026-08-29 12:05",
+  "updated": "2026-08-30 07:59",
   "error": null
 }
