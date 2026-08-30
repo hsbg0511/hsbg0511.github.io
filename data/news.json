@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "뉴욕 증시, 워시 ‘매파 발언’에 하락...반도체지수 3.5% 급락 [데일리국제금융]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656346"
+      "title": "“5억 주담대 이자만 연125만원 더”…요즘 대출 고정? 변동? ‘복잡해진 셈법’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727571"
+    },
+    {
+      "title": "제16차 한-중 FTA 서비스·투자 후속협상 개최",
+      "url": "https://n.news.naver.com/mnews/article/119/0003127058"
+    },
+    {
+      "title": "고용보고서·브로드컴에 쏠린 눈…이번주 美 증시 '빅위크'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005326325"
+    },
+    {
+      "title": "‘삼전·닉스 2배 베팅’ 열풍 꺾였다…개미, 한달 새 1.7조 이탈 [마켓시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656503"
     },
     {
       "title": "막혔던 잔금 숨통 트이나…총량 풀리자 집단대출 한 달 새 1조↑",
       "url": "https://n.news.naver.com/mnews/article/003/0014156469"
     },
     {
-      "title": "'홈플러스 정상화' 최대 분수령…내달 2일 관계인집회",
-      "url": "https://n.news.naver.com/mnews/article/421/0009139572"
+      "title": "경동나비엔, 협력업체 도면 무단 활용해 경쟁사 제공",
+      "url": "https://n.news.naver.com/mnews/article/666/0000121164"
+    },
+    {
+      "title": "\"연준 입만 보지 마라\"…'말 줄이겠다'는 워시가 던진 금리인상 힌트",
+      "url": "https://n.news.naver.com/mnews/article/421/0009139813"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002399802"
+      "url": "https://n.news.naver.com/mnews/article/437/0000508542"
     },
     {
-      "title": "中 창신메모리 상반기 매출 10배 폭증… 삼전닉스 주가 또 흔들리나",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406526"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002400027"
     },
     {
-      "title": "두산그룹 총수 박정원 회장 네팔行…직접 현장 챙긴다",
-      "url": "https://n.news.naver.com/mnews/article/448/0000636338"
-    },
-    {
-      "title": "주유소 기름값 15주째 하락…휘발유·경유 1천800원대 유지",
-      "url": "https://n.news.naver.com/mnews/article/055/0001384332"
-    },
-    {
-      "title": "워시 ‘물가 잡기’ 발언에 비트코인 다시 8만달러 아래로",
-      "url": "https://n.news.naver.com/mnews/article/016/0002690028"
-    },
-    {
-      "title": "메타, 청소년 SNS 보호 공개서한서 틱톡·유뷰브에 동참 압박",
-      "url": "https://n.news.naver.com/mnews/article/366/0001189053"
-    },
-    {
-      "title": "CPTPP 가입논의 다시 운 띄운 정부, 이번엔 결론 낼까",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530045"
+      "title": "신영수 CJ대한통운 대표 \"국내 시장 넘어 글로벌 시장 공략 박차\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001053587"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1371.5,
-      "change": -8.95,
-      "change_pct": -0.65
+      "value": 1377.66,
+      "change": -2.79,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 4478.1,
-    "price_krw": 6141714,
-    "change": -131.6,
-    "change_pct": -2.85
+    "price_usd": 4511.1,
+    "price_krw": 6214762,
+    "change": 33.0,
+    "change_pct": 0.74
   },
-  "updated": "2026-08-30 07:59",
+  "updated": "2026-08-31 08:12",
   "error": null
 }
