@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "KB자산운용 'RISE 글로벌AI낸드메모리반도체 ETF' 출시",
-      "url": "https://n.news.naver.com/mnews/article/277/0005809954"
+      "title": "8월 수출 983억 달러 '역대 3위'…반도체 세 달 연속 400억 달러(상보)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009143041"
     },
     {
-      "title": "홈플러스 “재개장 18일간 매출 1164억원…전월比 57% 늘어”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002690727"
+      "title": "청년에 43.4조…일자리·주거·출산 전방위 지원",
+      "url": "https://n.news.naver.com/mnews/article/016/0002691224"
     },
     {
-      "title": "[속보] 공정위, 한화의 KAI 지분 15.89% 취득 승인…“지배력 확보 수준 아냐”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003675064"
+      "title": "항공업계, 올해 안전 분야에 17.4조 투자…신규 항공기 60대 도입",
+      "url": "https://n.news.naver.com/mnews/article/008/0005408116"
     },
     {
-      "title": "KTX-SRT, 통합운행 개시…좌석 늘고 요금은 내려간다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005407008"
+      "title": "국토부 ‘주택공급’ 방점… 69조 편성 역대 최대 [2027년 예산안]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004155470"
     },
     {
-      "title": "홍지선 국토장관 후보자 “용산공원 주택 공급, 서울시와 충분히 협의할 것”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727962"
+      "title": "‘K방산 빅3’ 위상 높아졌는데…KAI만 곤두박질",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657402"
     },
     {
-      "title": "빚 못 버틴 서민 10만 명 육박… 채무조정 3년 새 56% 뛰었다",
-      "url": "https://n.news.naver.com/mnews/article/656/0000185435"
+      "title": "162조 미래대응기금 '쌈짓돈' 논란…정부 \"국회 사후통제 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009143889"
     },
     {
-      "title": "7월 전산업 생산 보합…서비스업 1.3%↓, 4년 5개월 만에 최대 감소(상보)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009140648"
+      "title": "챗GPT, 광고 시작 200일만에 매출 10억 달러 돌파",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657637"
     },
     {
-      "title": "원/달러 환율, 13개월 만에 장중 1,360원대로 하락",
-      "url": "https://n.news.naver.com/mnews/article/001/0016280867"
+      "title": "뉴욕 증시, 美·이란 무력충돌 재개에 하락...국제유가 2.7% ↑ [데일리국제금융]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657162"
     },
     {
-      "title": "최태원 SK 회장 \"日에 반도체 공장 설립 검토\"…SK하이닉스 \"사실무근\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005809693"
+      "title": "내년 예산 821조·지출 최대 증가…162조 미래대응기금 신설",
+      "url": "https://n.news.naver.com/mnews/article/001/0016282267"
     },
     {
-      "title": "한화 'K9' 스페인 수출 … 서유럽 방산 뚫었다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005728361"
+      "title": "'李정부 부동산 세제개편'에 與 \"비거주 1주택 과세 형평 고려해야…보완할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003127836"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6775.83,
+      "value": 6820.02,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 830.44,
+      "value": 834.29,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26370.89,
-      "change": -31.53,
-      "change_pct": -0.12
+      "value": 26099.77,
+      "change": -271.12,
+      "change_pct": -1.03
     },
     "usdkrw": {
-      "value": 1364.68,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1374.61,
+      "change": 7.99,
+      "change_pct": 0.58
     }
   },
   "gold": {
-    "price_usd": 4505.0,
-    "price_krw": 6147883,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4376.8,
+    "price_krw": 6016392,
+    "change": -54.3,
+    "change_pct": -1.23
   },
-  "updated": "2026-09-01 09:23",
+  "updated": "2026-09-02 08:02",
   "error": null
 }
