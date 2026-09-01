@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“5억 주담대 이자만 연125만원 더”…요즘 대출 고정? 변동? ‘복잡해진 셈법’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727571"
+      "title": "KB자산운용 'RISE 글로벌AI낸드메모리반도체 ETF' 출시",
+      "url": "https://n.news.naver.com/mnews/article/277/0005809954"
     },
     {
-      "title": "제16차 한-중 FTA 서비스·투자 후속협상 개최",
-      "url": "https://n.news.naver.com/mnews/article/119/0003127058"
+      "title": "홈플러스 “재개장 18일간 매출 1164억원…전월比 57% 늘어”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002690727"
     },
     {
-      "title": "고용보고서·브로드컴에 쏠린 눈…이번주 美 증시 '빅위크'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326325"
+      "title": "[속보] 공정위, 한화의 KAI 지분 15.89% 취득 승인…“지배력 확보 수준 아냐”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003675064"
     },
     {
-      "title": "‘삼전·닉스 2배 베팅’ 열풍 꺾였다…개미, 한달 새 1.7조 이탈 [마켓시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656503"
+      "title": "KTX-SRT, 통합운행 개시…좌석 늘고 요금은 내려간다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005407008"
     },
     {
-      "title": "막혔던 잔금 숨통 트이나…총량 풀리자 집단대출 한 달 새 1조↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014156469"
+      "title": "홍지선 국토장관 후보자 “용산공원 주택 공급, 서울시와 충분히 협의할 것”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727962"
     },
     {
-      "title": "경동나비엔, 협력업체 도면 무단 활용해 경쟁사 제공",
-      "url": "https://n.news.naver.com/mnews/article/666/0000121164"
+      "title": "빚 못 버틴 서민 10만 명 육박… 채무조정 3년 새 56% 뛰었다",
+      "url": "https://n.news.naver.com/mnews/article/656/0000185435"
     },
     {
-      "title": "\"연준 입만 보지 마라\"…'말 줄이겠다'는 워시가 던진 금리인상 힌트",
-      "url": "https://n.news.naver.com/mnews/article/421/0009139813"
+      "title": "7월 전산업 생산 보합…서비스업 1.3%↓, 4년 5개월 만에 최대 감소(상보)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009140648"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000508542"
+      "title": "원/달러 환율, 13개월 만에 장중 1,360원대로 하락",
+      "url": "https://n.news.naver.com/mnews/article/001/0016280867"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002400027"
+      "title": "최태원 SK 회장 \"日에 반도체 공장 설립 검토\"…SK하이닉스 \"사실무근\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005809693"
     },
     {
-      "title": "신영수 CJ대한통운 대표 \"국내 시장 넘어 글로벌 시장 공략 박차\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001053587"
+      "title": "한화 'K9' 스페인 수출 … 서유럽 방산 뚫었다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005728361"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6788.88,
-      "change": -123.49,
-      "change_pct": -1.79
+      "value": 6775.83,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 838.41,
-      "change": 0.76,
-      "change_pct": 0.09
+      "value": 830.44,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26402.42,
-      "change": -138.93,
-      "change_pct": -0.52
+      "value": 26370.89,
+      "change": -31.53,
+      "change_pct": -0.12
     },
     "usdkrw": {
-      "value": 1377.66,
-      "change": -2.79,
-      "change_pct": -0.2
+      "value": 1364.68,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4511.1,
-    "price_krw": 6214762,
-    "change": 33.0,
-    "change_pct": 0.74
+    "price_usd": 4505.0,
+    "price_krw": 6147883,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-31 08:12",
+  "updated": "2026-09-01 09:23",
   "error": null
 }
