@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "8월 수출 983억 달러 '역대 3위'…반도체 세 달 연속 400억 달러(상보)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009143041"
+      "title": "최태원, 日에 새 메모리 공장 검토…“키옥시아 협력도 선택지”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657723"
     },
     {
-      "title": "청년에 43.4조…일자리·주거·출산 전방위 지원",
-      "url": "https://n.news.naver.com/mnews/article/016/0002691224"
+      "title": "CJ대한통운, 美 엘우드 물류센터 가동...\"북미 공급망 거점 확대\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005570122"
     },
     {
-      "title": "항공업계, 올해 안전 분야에 17.4조 투자…신규 항공기 60대 도입",
-      "url": "https://n.news.naver.com/mnews/article/008/0005408116"
+      "title": "매출·상권 좋으면 은행 대출 더 받는다… 소상공인 특화 신용평가 도입",
+      "url": "https://n.news.naver.com/mnews/article/366/0001189813"
     },
     {
-      "title": "국토부 ‘주택공급’ 방점… 69조 편성 역대 최대 [2027년 예산안]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004155470"
+      "title": "한국·호주 경제계, 자원·에너지 공급망 고도화·미래 첨단산업 협력",
+      "url": "https://n.news.naver.com/mnews/article/421/0009145536"
     },
     {
-      "title": "‘K방산 빅3’ 위상 높아졌는데…KAI만 곤두박질",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657402"
+      "title": "파산 위기 넘긴 홈플러스…회생안 인가로 정상화 시동",
+      "url": "https://n.news.naver.com/mnews/article/014/0005570151"
     },
     {
-      "title": "162조 미래대응기금 '쌈짓돈' 논란…정부 \"국회 사후통제 강화\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009143889"
+      "title": "미리 보는 오늘",
+      "url": "https://n.news.naver.com/mnews/article/214/0001521751"
     },
     {
-      "title": "챗GPT, 광고 시작 200일만에 매출 10억 달러 돌파",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657637"
+      "title": "전시장 벗어난 삼성전자, 베를린 중심서 ‘AI 리빙’ 경험 선사 [IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002691697"
     },
     {
-      "title": "뉴욕 증시, 美·이란 무력충돌 재개에 하락...국제유가 2.7% ↑ [데일리국제금융]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657162"
+      "title": "\"연준 올리면 한은 더 올려야\" 국내 채권시장도 금리 충격",
+      "url": "https://n.news.naver.com/mnews/article/008/0005408577"
     },
     {
-      "title": "내년 예산 821조·지출 최대 증가…162조 미래대응기금 신설",
-      "url": "https://n.news.naver.com/mnews/article/001/0016282267"
+      "title": "휘발유·휴대폰 요금 … 물가 다시 3%대 상승",
+      "url": "https://n.news.naver.com/mnews/article/009/0005729558"
     },
     {
-      "title": "'李정부 부동산 세제개편'에 與 \"비거주 1주택 과세 형평 고려해야…보완할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003127836"
+      "title": "‘지방서 강남 가기 쉬워졌다’… KTX·SRT 통합 운행 개시",
+      "url": "https://n.news.naver.com/mnews/article/081/0003675729"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.02,
+      "value": 6835.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.29,
+      "value": 821.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26099.77,
-      "change": -271.12,
-      "change_pct": -1.03
+      "value": 26217.83,
+      "change": 118.06,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.61,
-      "change": 7.99,
-      "change_pct": 0.58
+      "value": 1358.79,
+      "change": -14.07,
+      "change_pct": -1.02
     }
   },
   "gold": {
-    "price_usd": 4376.8,
-    "price_krw": 6016392,
-    "change": -54.3,
-    "change_pct": -1.23
+    "price_usd": 4429.1,
+    "price_krw": 6018216,
+    "change": 81.1,
+    "change_pct": 1.87
   },
-  "updated": "2026-09-02 08:02",
+  "updated": "2026-09-03 08:00",
   "error": null
 }
