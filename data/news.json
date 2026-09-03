@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "최태원, 日에 새 메모리 공장 검토…“키옥시아 협력도 선택지”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657723"
+      "title": "뉴욕증시 4거래일 만에 상승마감···미국 10년물 금리 34개월 만에 최고치",
+      "url": "https://n.news.naver.com/mnews/article/032/0003468166"
     },
     {
-      "title": "CJ대한통운, 美 엘우드 물류센터 가동...\"북미 공급망 거점 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005570122"
+      "title": "에이피알, '수단레드 검출' 정면 반박…\"공식 유통 제품 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328397"
     },
     {
-      "title": "매출·상권 좋으면 은행 대출 더 받는다… 소상공인 특화 신용평가 도입",
-      "url": "https://n.news.naver.com/mnews/article/366/0001189813"
+      "title": "SK하이닉스, 2Q HBM 점유율 세계 1위…삼성전자는 33%로 ‘껑충’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730021"
     },
     {
-      "title": "한국·호주 경제계, 자원·에너지 공급망 고도화·미래 첨단산업 협력",
-      "url": "https://n.news.naver.com/mnews/article/421/0009145536"
+      "title": "현대모비스, 슬로바키아서 ‘전기차 심장’ PE 양산…유럽 확대",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730175"
     },
     {
-      "title": "파산 위기 넘긴 홈플러스…회생안 인가로 정상화 시동",
-      "url": "https://n.news.naver.com/mnews/article/014/0005570151"
+      "title": "발전 5사·항만공사 4곳 통합… LH는 개발·주거 나눈다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003676609"
     },
     {
-      "title": "미리 보는 오늘",
-      "url": "https://n.news.naver.com/mnews/article/214/0001521751"
+      "title": "에너지·자원 거버넌스 대개편…공룡의 탄생, 넘어야 할 과제는?",
+      "url": "https://n.news.naver.com/mnews/article/008/0005409162"
     },
     {
-      "title": "전시장 벗어난 삼성전자, 베를린 중심서 ‘AI 리빙’ 경험 선사 [IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002691697"
+      "title": "한경협, 고용부·10대 그룹과 '청년 일자리 간담회' 개최",
+      "url": "https://n.news.naver.com/mnews/article/214/0001521862"
     },
     {
-      "title": "\"연준 올리면 한은 더 올려야\" 국내 채권시장도 금리 충격",
-      "url": "https://n.news.naver.com/mnews/article/008/0005408577"
+      "title": "8월 외환보유액 ‘역대 최대폭’↑...한은, 국가별 순위 발표 않기로 [Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658050"
     },
     {
-      "title": "휘발유·휴대폰 요금 … 물가 다시 3%대 상승",
-      "url": "https://n.news.naver.com/mnews/article/009/0005729558"
+      "title": "정부, 美 반도체 등 4개 기업 투자 유치…3조원 규모",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264799"
     },
     {
-      "title": "‘지방서 강남 가기 쉬워졌다’… KTX·SRT 통합 운행 개시",
-      "url": "https://n.news.naver.com/mnews/article/081/0003675729"
+      "title": "한화오션 이틀새 2조 수주…대만 해운사 컨선 6척 따내",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730135"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6835.8,
+      "value": 6562.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 821.25,
+      "value": 803.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26217.83,
-      "change": 118.06,
-      "change_pct": 0.45
+      "value": 26584.06,
+      "change": 366.23,
+      "change_pct": 1.4
     },
     "usdkrw": {
-      "value": 1358.79,
-      "change": -14.07,
-      "change_pct": -1.02
+      "value": 1356.45,
+      "change": -16.41,
+      "change_pct": -1.2
     }
   },
   "gold": {
-    "price_usd": 4429.1,
-    "price_krw": 6018216,
-    "change": 81.1,
-    "change_pct": 1.87
+    "price_usd": 4520.2,
+    "price_krw": 6131425,
+    "change": 153.9,
+    "change_pct": 3.52
   },
-  "updated": "2026-09-03 08:00",
+  "updated": "2026-09-04 07:59",
   "error": null
 }
