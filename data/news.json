@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "뉴욕증시 4거래일 만에 상승마감···미국 10년물 금리 34개월 만에 최고치",
-      "url": "https://n.news.naver.com/mnews/article/032/0003468166"
+      "title": "건설연, 도심 수소 지하화 기술 개발...지상 연계로 효율성 높여",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658617"
     },
     {
-      "title": "에이피알, '수단레드 검출' 정면 반박…\"공식 유통 제품 아냐\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328397"
+      "title": "“韓 경상흑자 상반기 세계 2위…연간 4500억달러 전망 부합”[일문일답]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006363614"
     },
     {
-      "title": "SK하이닉스, 2Q HBM 점유율 세계 1위…삼성전자는 33%로 ‘껑충’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730021"
+      "title": "두 달 만에 200원↓…환율 '낙하' 어디까지",
+      "url": "https://n.news.naver.com/mnews/article/079/0004186144"
     },
     {
-      "title": "현대모비스, 슬로바키아서 ‘전기차 심장’ PE 양산…유럽 확대",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730175"
+      "title": "삼성·LG ‘AI 홈 라이프’… 당신의 패턴대로 움직인다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003676666"
     },
     {
-      "title": "발전 5사·항만공사 4곳 통합… LH는 개발·주거 나눈다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003676609"
+      "title": "남동발전·두산, 네팔 현지서 전방위 수색활동…연락두절 직원 구조 총력",
+      "url": "https://n.news.naver.com/mnews/article/082/0001396975"
     },
     {
-      "title": "에너지·자원 거버넌스 대개편…공룡의 탄생, 넘어야 할 과제는?",
-      "url": "https://n.news.naver.com/mnews/article/008/0005409162"
+      "title": "발전 5사, 내년 10월 단일법인 출범 추진…본사 새로 짓는다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002693033"
     },
     {
-      "title": "한경협, 고용부·10대 그룹과 '청년 일자리 간담회' 개최",
-      "url": "https://n.news.naver.com/mnews/article/214/0001521862"
+      "title": "조각투자 넘어 주식·채권까지 허용…토큰증권 발행 기준은",
+      "url": "https://n.news.naver.com/mnews/article/277/0005811905"
     },
     {
-      "title": "8월 외환보유액 ‘역대 최대폭’↑...한은, 국가별 순위 발표 않기로 [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658050"
+      "title": "월러 Fed 이사 \"금리 동결\" 시사 발언에 1%대 상승 마감[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005811757"
     },
     {
-      "title": "정부, 美 반도체 등 4개 기업 투자 유치…3조원 규모",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264799"
+      "title": "SKC \"美 자회사 주식 2천810억원어치 추가취득…지분율 70%\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016290755"
     },
     {
-      "title": "한화오션 이틀새 2조 수주…대만 해운사 컨선 6척 따내",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730135"
+      "title": "美 고용 깜짝 증가, 日銀은 ‘빅스텝’ 시사...글로벌 금리 안갯속[글로벌 모닝 브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658786"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6562.72,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 803.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26584.06,
-      "change": 366.23,
-      "change_pct": 1.4
+      "value": 26506.99,
+      "change": -77.07,
+      "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1356.45,
-      "change": -16.41,
-      "change_pct": -1.2
+      "value": 1345.99,
+      "change": -12.4,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4520.2,
-    "price_krw": 6131425,
-    "change": 153.9,
-    "change_pct": 3.52
+    "price_usd": 4477.2,
+    "price_krw": 6026266,
+    "change": -14.5,
+    "change_pct": -0.32
   },
-  "updated": "2026-09-04 07:59",
+  "updated": "2026-09-05 07:47",
   "error": null
 }
