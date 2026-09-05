@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "건설연, 도심 수소 지하화 기술 개발...지상 연계로 효율성 높여",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658617"
+      "title": "\"부모님 추석 선물 골라줘\"…G마켓, 챗지피티로 맞춤 상품 추천",
+      "url": "https://n.news.naver.com/mnews/article/014/0005571427"
     },
     {
-      "title": "“韓 경상흑자 상반기 세계 2위…연간 4500억달러 전망 부합”[일문일답]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006363614"
+      "title": "삼성전자 DX노조, 18일부터 李회장 자택 앞 무기한 집회",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658822"
     },
     {
-      "title": "두 달 만에 200원↓…환율 '낙하' 어디까지",
-      "url": "https://n.news.naver.com/mnews/article/079/0004186144"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/057/0001967415"
     },
     {
-      "title": "삼성·LG ‘AI 홈 라이프’… 당신의 패턴대로 움직인다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003676666"
+      "title": "여의도서 '불꽃축제' 오후 8시부터 시작…여의동로 차량 통제",
+      "url": "https://n.news.naver.com/mnews/article/277/0005812285"
     },
     {
-      "title": "남동발전·두산, 네팔 현지서 전방위 수색활동…연락두절 직원 구조 총력",
-      "url": "https://n.news.naver.com/mnews/article/082/0001396975"
+      "title": "주유소 기름값 16주 연속 하락…휘발유 1860.2원",
+      "url": "https://n.news.naver.com/mnews/article/654/0000198860"
     },
     {
-      "title": "발전 5사, 내년 10월 단일법인 출범 추진…본사 새로 짓는다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693033"
+      "title": "영풍 충당부채 4건 중 3건 ‘고의’ 판단…내부통제 도마 위",
+      "url": "https://n.news.naver.com/mnews/article/666/0000122026"
     },
     {
-      "title": "조각투자 넘어 주식·채권까지 허용…토큰증권 발행 기준은",
-      "url": "https://n.news.naver.com/mnews/article/277/0005811905"
+      "title": "이 대통령, '수출 역대 최대' 관세청장 보고 공유…이종욱 청장 \"12월초 1조 달러 전망\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014171182"
     },
     {
-      "title": "월러 Fed 이사 \"금리 동결\" 시사 발언에 1%대 상승 마감[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005811757"
+      "title": "LG전자, IFA 최고 브랜드상…올레드TV·오디오도 최우수상",
+      "url": "https://n.news.naver.com/mnews/article/018/0006363969"
     },
     {
-      "title": "SKC \"美 자회사 주식 2천810억원어치 추가취득…지분율 70%\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016290755"
+      "title": "사탕수수밭 밀고 제철소로... 현대제철, 美서 8조 승부수",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996825"
     },
     {
-      "title": "美 고용 깜짝 증가, 日銀은 ‘빅스텝’ 시사...글로벌 금리 안갯속[글로벌 모닝 브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658786"
+      "title": "“추석 선물 벌써 반값”…가을옷·캠핑까지, 이커머스 ‘9월 장바구니 전쟁’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156514"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6687.21,
+      "change": 107.73,
+      "change_pct": 1.64
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 813.5,
+      "change": 23.29,
+      "change_pct": 2.95
     },
     "nasdaq": {
       "value": 26506.99,
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1345.99,
-      "change": -12.4,
-      "change_pct": -0.91
+      "value": 1351.1,
+      "change": -4.31,
+      "change_pct": -0.32
     }
   },
   "gold": {
-    "price_usd": 4477.2,
-    "price_krw": 6026266,
-    "change": -14.5,
-    "change_pct": -0.32
+    "price_usd": 4429.8,
+    "price_krw": 5985102,
+    "change": -61.9,
+    "change_pct": -1.38
   },
-  "updated": "2026-09-05 07:47",
+  "updated": "2026-09-06 07:39",
   "error": null
 }
