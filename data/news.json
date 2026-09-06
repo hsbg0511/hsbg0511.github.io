@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "\"부모님 추석 선물 골라줘\"…G마켓, 챗지피티로 맞춤 상품 추천",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571427"
+      "title": "‘2조달러 IPO’가 쏜 AI 쩐의 전쟁",
+      "url": "https://n.news.naver.com/mnews/article/032/0003468741"
     },
     {
-      "title": "삼성전자 DX노조, 18일부터 李회장 자택 앞 무기한 집회",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658822"
+      "title": "하나금융, 추석 맞아 전국 동네슈퍼에 가격 낮춘 '착한계란' 공급",
+      "url": "https://n.news.naver.com/mnews/article/003/0014171624"
+    },
+    {
+      "title": "美 ‘이란 왕따 작전’ 긴장감…코스피 6200~7300 [주간 증시 전망]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003129479"
+    },
+    {
+      "title": "‘이재명표 기본주택’ 내년부터 전국에 풀린다… LH, 3만6000가구 공급 목표",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190675"
+    },
+    {
+      "title": "“8년 만에 집값 17억 올라” 또 최고가 찍은 ‘이 아파트’…4억대였는데 “로또캐슬이네”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004659077"
+    },
+    {
+      "title": "'추석 차례상 안심'…해수부, 7일부터 수산물 원산지 특별점검",
+      "url": "https://n.news.naver.com/mnews/article/421/0009153182"
+    },
+    {
+      "title": "사망 신고 다음날 금융거래 즉시 차단한다",
+      "url": "https://n.news.naver.com/mnews/article/422/0000903292"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/057/0001967415"
+      "url": "https://n.news.naver.com/mnews/article/052/0002403264"
     },
     {
-      "title": "여의도서 '불꽃축제' 오후 8시부터 시작…여의동로 차량 통제",
-      "url": "https://n.news.naver.com/mnews/article/277/0005812285"
+      "title": "4인 가족 차례상 비용 30만원 넘어…작년보다 또 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329046"
     },
     {
-      "title": "주유소 기름값 16주 연속 하락…휘발유 1860.2원",
-      "url": "https://n.news.naver.com/mnews/article/654/0000198860"
-    },
-    {
-      "title": "영풍 충당부채 4건 중 3건 ‘고의’ 판단…내부통제 도마 위",
-      "url": "https://n.news.naver.com/mnews/article/666/0000122026"
-    },
-    {
-      "title": "이 대통령, '수출 역대 최대' 관세청장 보고 공유…이종욱 청장 \"12월초 1조 달러 전망\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014171182"
-    },
-    {
-      "title": "LG전자, IFA 최고 브랜드상…올레드TV·오디오도 최우수상",
-      "url": "https://n.news.naver.com/mnews/article/018/0006363969"
-    },
-    {
-      "title": "사탕수수밭 밀고 제철소로... 현대제철, 美서 8조 승부수",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996825"
-    },
-    {
-      "title": "“추석 선물 벌써 반값”…가을옷·캠핑까지, 이커머스 ‘9월 장바구니 전쟁’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004156514"
+      "title": "‘국민부담’ 적자성 채무, 2030년 1300조대…나랏빚 이자비용 50조 넘어",
+      "url": "https://n.news.naver.com/mnews/article/016/0002693265"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1351.1,
-      "change": -4.31,
-      "change_pct": -0.32
+      "value": 1345.47,
+      "change": -9.94,
+      "change_pct": -0.73
     }
   },
   "gold": {
-    "price_usd": 4429.8,
-    "price_krw": 5985102,
-    "change": -61.9,
-    "change_pct": -1.38
+    "price_usd": 4476.6,
+    "price_krw": 6023131,
+    "change": 46.8,
+    "change_pct": 1.06
   },
-  "updated": "2026-09-06 07:39",
+  "updated": "2026-09-07 07:43",
   "error": null
 }
