@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "‘2조달러 IPO’가 쏜 AI 쩐의 전쟁",
-      "url": "https://n.news.naver.com/mnews/article/032/0003468741"
-    },
-    {
-      "title": "하나금융, 추석 맞아 전국 동네슈퍼에 가격 낮춘 '착한계란' 공급",
-      "url": "https://n.news.naver.com/mnews/article/003/0014171624"
-    },
-    {
-      "title": "美 ‘이란 왕따 작전’ 긴장감…코스피 6200~7300 [주간 증시 전망]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003129479"
-    },
-    {
-      "title": "‘이재명표 기본주택’ 내년부터 전국에 풀린다… LH, 3만6000가구 공급 목표",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190675"
-    },
-    {
-      "title": "“8년 만에 집값 17억 올라” 또 최고가 찍은 ‘이 아파트’…4억대였는데 “로또캐슬이네”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659077"
-    },
-    {
-      "title": "'추석 차례상 안심'…해수부, 7일부터 수산물 원산지 특별점검",
-      "url": "https://n.news.naver.com/mnews/article/421/0009153182"
-    },
-    {
-      "title": "사망 신고 다음날 금융거래 즉시 차단한다",
-      "url": "https://n.news.naver.com/mnews/article/422/0000903292"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001386535"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002403264"
+      "url": "https://n.news.naver.com/mnews/article/056/0012252367"
     },
     {
-      "title": "4인 가족 차례상 비용 30만원 넘어…작년보다 또 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005329046"
+      "title": "미취학 아동 건물주 179명…젖먹이도 임대소득 1000만원 벌었다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549518"
     },
     {
-      "title": "‘국민부담’ 적자성 채무, 2030년 1300조대…나랏빚 이자비용 50조 넘어",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693265"
+      "title": "분당 29.5% '최고'…강남 대신 비강남·신도시 아파트값 뛰었다",
+      "url": "https://n.news.naver.com/mnews/article/374/0000531620"
+    },
+    {
+      "title": "영끌한 집일수록 한명 연체 시 나머지 가족도 ‘신용위험’ 빠진다 [머니뭐니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002693887"
+    },
+    {
+      "title": "서울 주택 인허가·착공 30%↑…주택공급 ‘청신호’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003046557"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002403807"
+    },
+    {
+      "title": "무신사뷰티, 온누리약국 손잡고 홍대에 '파머시 뷰티' 선보인다",
+      "url": "https://n.news.naver.com/mnews/article/030/0003464141"
+    },
+    {
+      "title": "원달러 환율 23개월 만에 최저… 두 달 사이 254원 내려 1345원",
+      "url": "https://n.news.naver.com/mnews/article/081/0003677303"
+    },
+    {
+      "title": "LG디스플레이, 日 샤프에 OLED 패널 전량 단독 공급",
+      "url": "https://n.news.naver.com/mnews/article/421/0009156071"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6687.21,
-      "change": 107.73,
-      "change_pct": 1.64
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 813.5,
-      "change": 23.29,
-      "change_pct": 2.95
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 26506.99,
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1345.47,
-      "change": -9.94,
-      "change_pct": -0.73
+      "value": 1344.78,
+      "change": -0.28,
+      "change_pct": -0.02
     }
   },
   "gold": {
-    "price_usd": 4476.6,
-    "price_krw": 6023131,
-    "change": 46.8,
-    "change_pct": 1.06
+    "price_usd": 4456.6,
+    "price_krw": 5993146,
+    "change": 26.8,
+    "change_pct": 0.6
   },
-  "updated": "2026-09-07 07:43",
+  "updated": "2026-09-08 08:17",
   "error": null
 }
