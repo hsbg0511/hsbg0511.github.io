@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386535"
+      "title": "한진그룹, 네팔 대홍수 피해 지원…10.5톤 정부 구호물자 긴급 수송",
+      "url": "https://n.news.naver.com/mnews/article/421/0009158197"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012252367"
+      "url": "https://n.news.naver.com/mnews/article/374/0000531766"
     },
     {
-      "title": "미취학 아동 건물주 179명…젖먹이도 임대소득 1000만원 벌었다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003549518"
+      "title": "포스코 노조 “8일 협상 안 되면 이튿날부터 48시간 부분파업”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003997254"
     },
     {
-      "title": "분당 29.5% '최고'…강남 대신 비강남·신도시 아파트값 뛰었다",
-      "url": "https://n.news.naver.com/mnews/article/374/0000531620"
+      "title": "한은 “1인당 국민소득 4만달러 넘을 가능성 매우 커졌다”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549848"
     },
     {
-      "title": "영끌한 집일수록 한명 연체 시 나머지 가족도 ‘신용위험’ 빠진다 [머니뭐니]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693887"
+      "title": "아시아나와 합병 후 서열 갈등... 대한항공 조종사 파업 위기",
+      "url": "https://n.news.naver.com/mnews/article/023/0003997284"
     },
     {
-      "title": "서울 주택 인허가·착공 30%↑…주택공급 ‘청신호’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046557"
+      "title": "'영끌족' 버티기 한계?…주담대 연체 3년반 만에 2.2배로",
+      "url": "https://n.news.naver.com/mnews/article/001/0016295748"
+    },
+    {
+      "title": "미스트랄, 삼성 주도 4.7조 원 투자 유치…유럽 IT 사상 최대",
+      "url": "https://n.news.naver.com/mnews/article/055/0001386818"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002403807"
+      "url": "https://n.news.naver.com/mnews/article/056/0012253256"
     },
     {
-      "title": "무신사뷰티, 온누리약국 손잡고 홍대에 '파머시 뷰티' 선보인다",
-      "url": "https://n.news.naver.com/mnews/article/030/0003464141"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001386824"
     },
     {
-      "title": "원달러 환율 23개월 만에 최저… 두 달 사이 254원 내려 1345원",
-      "url": "https://n.news.naver.com/mnews/article/081/0003677303"
-    },
-    {
-      "title": "LG디스플레이, 日 샤프에 OLED 패널 전량 단독 공급",
-      "url": "https://n.news.naver.com/mnews/article/421/0009156071"
+      "title": "'5월 조기완판' 국민성장펀드, 이달 30일부터 '2차 판매' 개시...총 6천억 규모",
+      "url": "https://n.news.naver.com/mnews/article/014/0005572634"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6687.21,
+      "value": 6995.39,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.5,
+      "value": 822.19,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26506.99,
-      "change": -77.07,
-      "change_pct": -0.29
+      "value": 26421.41,
+      "change": -85.58,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1344.78,
-      "change": -0.28,
-      "change_pct": -0.02
+      "value": 1340.56,
+      "change": -3.01,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4456.6,
-    "price_krw": 5993146,
-    "change": 26.8,
-    "change_pct": 0.6
+    "price_usd": 4397.4,
+    "price_krw": 5894978,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-08 08:17",
+  "updated": "2026-09-09 08:12",
   "error": null
 }
