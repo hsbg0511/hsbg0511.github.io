@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한진그룹, 네팔 대홍수 피해 지원…10.5톤 정부 구호물자 긴급 수송",
-      "url": "https://n.news.naver.com/mnews/article/421/0009158197"
+      "title": "삼전닉스 뺐더니…기업 영업이익률 17→6% 뚝",
+      "url": "https://n.news.naver.com/mnews/article/018/0006366157"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000531766"
+      "title": "포스코 첫 파업에 포항지역 우려…\"장기화하면 지역경제 타격\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016300607"
     },
     {
-      "title": "포스코 노조 “8일 협상 안 되면 이튿날부터 48시간 부분파업”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003997254"
+      "title": "한국거래소, 14일 애프터마켓 개장...오후 8시까지 주식 거래",
+      "url": "https://n.news.naver.com/mnews/article/014/0005573371"
     },
     {
-      "title": "한은 “1인당 국민소득 4만달러 넘을 가능성 매우 커졌다”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003549848"
+      "title": "목동윤슬자이, 최고 32대 1…목동 신축 대기수요 몰렸다",
+      "url": "https://n.news.naver.com/mnews/article/448/0000638347"
     },
     {
-      "title": "아시아나와 합병 후 서열 갈등... 대한항공 조종사 파업 위기",
-      "url": "https://n.news.naver.com/mnews/article/023/0003997284"
+      "title": "스마트시티에 인공지능 더한다… 2030년 시범도시 조성",
+      "url": "https://n.news.naver.com/mnews/article/082/0001397638"
     },
     {
-      "title": "'영끌족' 버티기 한계?…주담대 연체 3년반 만에 2.2배로",
-      "url": "https://n.news.naver.com/mnews/article/001/0016295748"
+      "title": "금융위, ‘신정법 위반’ 동양생명에 과징금 70억 원 부과키로",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660276"
     },
     {
-      "title": "미스트랄, 삼성 주도 4.7조 원 투자 유치…유럽 IT 사상 최대",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386818"
+      "title": "금감원 “보험사 CEO 성과평가 바꿔야”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660323"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012253256"
+      "title": "홍라희, 삼성전자 1.9조 지분 이재용에 넘긴다",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050635"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386824"
+      "title": "8월 취업자 18만4천명 늘어…청년고용률 28개월 연속 하락",
+      "url": "https://n.news.naver.com/mnews/article/437/0000510197"
     },
     {
-      "title": "'5월 조기완판' 국민성장펀드, 이달 30일부터 '2차 판매' 개시...총 6천억 규모",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572634"
+      "title": "주담대 조였는데 가계빚은 왜 더 늘었나[라정주의 경제터치]",
+      "url": "https://n.news.naver.com/mnews/article/586/0000137800"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6995.39,
+      "value": 6954.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 822.19,
+      "value": 811.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26421.41,
-      "change": -85.58,
-      "change_pct": -0.32
+      "value": 26253.34,
+      "change": -168.07,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1340.56,
-      "change": -3.01,
-      "change_pct": -0.22
+      "value": 1339.39,
+      "change": -4.18,
+      "change_pct": -0.31
     }
   },
   "gold": {
-    "price_usd": 4397.4,
-    "price_krw": 5894978,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4445.1,
+    "price_krw": 5953722,
+    "change": 51.2,
+    "change_pct": 1.17
   },
-  "updated": "2026-09-09 08:12",
+  "updated": "2026-09-10 07:57",
   "error": null
 }
