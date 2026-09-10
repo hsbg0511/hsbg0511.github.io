@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼전닉스 뺐더니…기업 영업이익률 17→6% 뚝",
-      "url": "https://n.news.naver.com/mnews/article/018/0006366157"
+      "title": "BS그룹-KB금융, ‘생산적 금융’ 맞손",
+      "url": "https://n.news.naver.com/mnews/article/016/0002695430"
     },
     {
-      "title": "포스코 첫 파업에 포항지역 우려…\"장기화하면 지역경제 타격\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016300607"
+      "title": "유럽서 단숨에 1위 올라선 한국車…독일서 신차 공개",
+      "url": "https://n.news.naver.com/mnews/article/015/0005330820"
     },
     {
-      "title": "한국거래소, 14일 애프터마켓 개장...오후 8시까지 주식 거래",
-      "url": "https://n.news.naver.com/mnews/article/014/0005573371"
+      "title": "하이닉스 노사, 성과급 잠정합의안…현금 50%·자사주 50%",
+      "url": "https://n.news.naver.com/mnews/article/028/0002822438"
     },
     {
-      "title": "목동윤슬자이, 최고 32대 1…목동 신축 대기수요 몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/448/0000638347"
+      "title": "자산운용사 2분기 순익 2.7조 '역대급'…증권사 이어 고공행진",
+      "url": "https://n.news.naver.com/mnews/article/001/0016303730"
     },
     {
-      "title": "스마트시티에 인공지능 더한다… 2030년 시범도시 조성",
-      "url": "https://n.news.naver.com/mnews/article/082/0001397638"
+      "title": "우리투자증권, 수신상품 금리 올린다…1년 정기예금 최고 연 4.05%",
+      "url": "https://n.news.naver.com/mnews/article/016/0002695301"
     },
     {
-      "title": "금융위, ‘신정법 위반’ 동양생명에 과징금 70억 원 부과키로",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660276"
+      "title": "무신사, 첫 뷰티 점포…올리브영에 도전장",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331049"
     },
     {
-      "title": "금감원 “보험사 CEO 성과평가 바꿔야”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660323"
+      "title": "캠코에 연체채권 매각시엔 금융사 채무자 보호 책임 제외",
+      "url": "https://n.news.naver.com/mnews/article/421/0009164088"
     },
     {
-      "title": "홍라희, 삼성전자 1.9조 지분 이재용에 넘긴다",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050635"
+      "title": "명목 성장률 20% 넘게 뛰었는데…한은 \"금융불균형 위험 커질 수도\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006366798"
     },
     {
-      "title": "8월 취업자 18만4천명 늘어…청년고용률 28개월 연속 하락",
-      "url": "https://n.news.naver.com/mnews/article/437/0000510197"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001387248"
     },
     {
-      "title": "주담대 조였는데 가계빚은 왜 더 늘었나[라정주의 경제터치]",
-      "url": "https://n.news.naver.com/mnews/article/586/0000137800"
+      "title": "강남·서초 아파트값 5주째 하락…송파도 21주 만에 하락 전환",
+      "url": "https://n.news.naver.com/mnews/article/422/0000904803"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6954.52,
+      "value": 7051.64,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 811.88,
+      "value": 830.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26253.34,
-      "change": -168.07,
-      "change_pct": -0.64
+      "value": 26081.72,
+      "change": -171.62,
+      "change_pct": -0.65
     },
     "usdkrw": {
-      "value": 1339.39,
-      "change": -4.18,
-      "change_pct": -0.31
+      "value": 1349.26,
+      "change": 10.05,
+      "change_pct": 0.75
     }
   },
   "gold": {
-    "price_usd": 4445.1,
-    "price_krw": 5953722,
-    "change": 51.2,
-    "change_pct": 1.17
+    "price_usd": 4356.2,
+    "price_krw": 5877646,
+    "change": -59.8,
+    "change_pct": -1.35
   },
-  "updated": "2026-09-10 07:57",
+  "updated": "2026-09-11 07:56",
   "error": null
 }
