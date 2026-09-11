@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "BS그룹-KB금융, ‘생산적 금융’ 맞손",
-      "url": "https://n.news.naver.com/mnews/article/016/0002695430"
+      "title": "대한항공 타면 공짜로 넷플릭스…스타링크 와이파이 무료로 푼다",
+      "url": "https://n.news.naver.com/mnews/article/119/0003131532"
     },
     {
-      "title": "유럽서 단숨에 1위 올라선 한국車…독일서 신차 공개",
-      "url": "https://n.news.naver.com/mnews/article/015/0005330820"
+      "title": "美 국채 바이백에도… 비트코인, 7만6000달러대로 ‘뚝’",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191690"
     },
     {
-      "title": "하이닉스 노사, 성과급 잠정합의안…현금 50%·자사주 50%",
-      "url": "https://n.news.naver.com/mnews/article/028/0002822438"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001523513"
+    },
+    {
+      "title": "농식품부, 농산업 수출기업 해외 인허가 애로 해소 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016305279"
     },
     {
       "title": "자산운용사 2분기 순익 2.7조 '역대급'…증권사 이어 고공행진",
       "url": "https://n.news.naver.com/mnews/article/001/0016303730"
     },
     {
-      "title": "우리투자증권, 수신상품 금리 올린다…1년 정기예금 최고 연 4.05%",
-      "url": "https://n.news.naver.com/mnews/article/016/0002695301"
+      "title": "전례없는 162조 미래대응기금…KDI “독립적 평가 체계·국회 통제 필요”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003679437"
     },
     {
-      "title": "무신사, 첫 뷰티 점포…올리브영에 도전장",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331049"
+      "title": "주병기 \"'점주단체 등록제' 30명 하한 기준, 낮추는 방안 고민중\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005412432"
     },
     {
-      "title": "캠코에 연체채권 매각시엔 금융사 채무자 보호 책임 제외",
-      "url": "https://n.news.naver.com/mnews/article/421/0009164088"
+      "title": "코스피 다시 7천 선 아래로…코스닥도 1.95% 내려",
+      "url": "https://n.news.naver.com/mnews/article/056/0012255718"
     },
     {
-      "title": "명목 성장률 20% 넘게 뛰었는데…한은 \"금융불균형 위험 커질 수도\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006366798"
+      "title": "WTI 100달러 돌파…30년물 고점 경신에 일제히 하락[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005814841"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001387248"
-    },
-    {
-      "title": "강남·서초 아파트값 5주째 하락…송파도 21주 만에 하락 전환",
-      "url": "https://n.news.naver.com/mnews/article/422/0000904803"
+      "title": "구윤철 “부동산 세금 징벌 아냐…‘보유’ 대신 ‘거주’에 혜택 준다”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004158323"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7051.64,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 830.37,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26081.72,
-      "change": -171.62,
-      "change_pct": -0.65
+      "value": 26333.04,
+      "change": 251.31,
+      "change_pct": 0.96
     },
     "usdkrw": {
-      "value": 1349.26,
-      "change": 10.05,
-      "change_pct": 0.75
+      "value": 1341.05,
+      "change": 1.88,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4356.2,
-    "price_krw": 5877646,
-    "change": -59.8,
-    "change_pct": -1.35
+    "price_usd": 4390.0,
+    "price_krw": 5887209,
+    "change": 25.5,
+    "change_pct": 0.58
   },
-  "updated": "2026-09-11 07:56",
+  "updated": "2026-09-12 07:59",
   "error": null
 }
