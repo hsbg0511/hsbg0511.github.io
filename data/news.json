@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "대한항공 타면 공짜로 넷플릭스…스타링크 와이파이 무료로 푼다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003131532"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002406079"
     },
     {
-      "title": "美 국채 바이백에도… 비트코인, 7만6000달러대로 ‘뚝’",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191690"
+      "title": "K바이오, 해외신약 '선점 경쟁'…1조원 베팅도[바이오사이언스]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016305865"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001523513"
+      "url": "https://n.news.naver.com/mnews/article/660/0000117033"
     },
     {
-      "title": "농식품부, 농산업 수출기업 해외 인허가 애로 해소 지원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016305279"
+      "title": "뉴욕증시 5일만에 반등, 다우 1% ↑...유가하락·CPI 안도 영향",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661074"
     },
     {
-      "title": "자산운용사 2분기 순익 2.7조 '역대급'…증권사 이어 고공행진",
-      "url": "https://n.news.naver.com/mnews/article/001/0016303730"
+      "title": "“팀 쿡이 갤럭시폰으로 바꿨습니다”…삼성이 공개한 ‘깜짝 반전’",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368168"
     },
     {
-      "title": "전례없는 162조 미래대응기금…KDI “독립적 평가 체계·국회 통제 필요”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003679437"
+      "title": "공격적 투자하며 현금도 쌓는다…서학개미의 ‘양손 베팅’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550856"
     },
     {
-      "title": "주병기 \"'점주단체 등록제' 30명 하한 기준, 낮추는 방안 고민중\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005412432"
+      "title": "어떤 코인이 살아남는가",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368272"
     },
     {
-      "title": "코스피 다시 7천 선 아래로…코스닥도 1.95% 내려",
-      "url": "https://n.news.naver.com/mnews/article/056/0012255718"
+      "title": "주유소 기름값 17주째 하락세…국제유가 상승에도 1,800원대 유지",
+      "url": "https://n.news.naver.com/mnews/article/422/0000905358"
     },
     {
-      "title": "WTI 100달러 돌파…30년물 고점 경신에 일제히 하락[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005814841"
+      "title": "오라클 창업자 엘리슨, 주식 최대 10조 매각…5000만주 처분",
+      "url": "https://n.news.naver.com/mnews/article/003/0014185792"
     },
     {
-      "title": "구윤철 “부동산 세금 징벌 아냐…‘보유’ 대신 ‘거주’에 혜택 준다”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004158323"
+      "title": "한 통에 5000원 뛰었다…'강남 분유' 압타밀 16% 인상",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/015/0005331630?type=series&cid=2003132"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6909.91,
+      "change": -124.01,
+      "change_pct": -1.76
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 820.64,
+      "change": -16.28,
+      "change_pct": -1.95
     },
     "nasdaq": {
       "value": 26333.04,
-      "change": 251.31,
+      "change": 251.32,
       "change_pct": 0.96
     },
     "usdkrw": {
       "value": 1341.05,
-      "change": 1.88,
-      "change_pct": 0.14
+      "change": -7.12,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4390.0,
-    "price_krw": 5887209,
-    "change": 25.5,
-    "change_pct": 0.58
+    "price_usd": 4366.2,
+    "price_krw": 5855292,
+    "change": 1.7,
+    "change_pct": 0.04
   },
-  "updated": "2026-09-12 07:59",
+  "updated": "2026-09-13 07:51",
   "error": null
 }
