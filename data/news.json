@@ -2,43 +2,43 @@
   "news": [
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002406079"
+      "url": "https://n.news.naver.com/mnews/article/374/0000532660"
     },
     {
-      "title": "K바이오, 해외신약 '선점 경쟁'…1조원 베팅도[바이오사이언스]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016305865"
+      "title": "김정관, 오늘 방미 마치고 귀국…대미투자 협상 결과 주목",
+      "url": "https://n.news.naver.com/mnews/article/029/0003047570"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/660/0000117033"
+      "title": "시가 43억 보유한 비거주 1주택자, 내년 종부세 429만원 더 낸다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005815546"
     },
     {
-      "title": "뉴욕증시 5일만에 반등, 다우 1% ↑...유가하락·CPI 안도 영향",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661074"
+      "title": "HD현대 '3탱크 LNG 운반선' 홍보..AI솔루션 등 인증도",
+      "url": "https://n.news.naver.com/mnews/article/014/0005574824"
     },
     {
-      "title": "“팀 쿡이 갤럭시폰으로 바꿨습니다”…삼성이 공개한 ‘깜짝 반전’",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368168"
+      "title": "퇴근 후에도 실시간 주식 사고판다…14일 KRX 애프터마켓 개장",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550958"
     },
     {
-      "title": "공격적 투자하며 현금도 쌓는다…서학개미의 ‘양손 베팅’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550856"
+      "title": "KAIST-롯데, 'LOTTE x KAIST R&D 센터' 준공...지속가능 미래 연구협력",
+      "url": "https://n.news.naver.com/mnews/article/014/0005574777"
     },
     {
-      "title": "어떤 코인이 살아남는가",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368272"
+      "title": "\"부부공동 1주택 '유리한 종부세' 사전 안내\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331753"
     },
     {
-      "title": "주유소 기름값 17주째 하락세…국제유가 상승에도 1,800원대 유지",
-      "url": "https://n.news.naver.com/mnews/article/422/0000905358"
+      "title": "중동 위기에도 수급 안정…7월 원유 9318만 배럴 도입, 전년比 10%↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0009167537"
     },
     {
-      "title": "오라클 창업자 엘리슨, 주식 최대 10조 매각…5000만주 처분",
-      "url": "https://n.news.naver.com/mnews/article/003/0014185792"
+      "title": "환율 1340원대 급락…삼성전자·SK하이닉스 이익 전망도 꺾였다 [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002696402"
     },
     {
-      "title": "한 통에 5000원 뛰었다…'강남 분유' 압타밀 16% 인상",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/015/0005331630?type=series&cid=2003132"
+      "title": "“한때는 삼성 모델 하더니” 계약 끝나니 가차없이 ‘아이폰 샷’…삼성 ‘부글’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002696533"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.96
     },
     "usdkrw": {
-      "value": 1341.05,
-      "change": -7.12,
-      "change_pct": -0.53
+      "value": 1342.97,
+      "change": -5.2,
+      "change_pct": -0.39
     }
   },
   "gold": {
-    "price_usd": 4366.2,
-    "price_krw": 5855292,
-    "change": 1.7,
-    "change_pct": 0.04
+    "price_usd": 4377.7,
+    "price_krw": 5879120,
+    "change": 11.5,
+    "change_pct": 0.26
   },
-  "updated": "2026-09-13 07:51",
+  "updated": "2026-09-14 07:54",
   "error": null
 }
