@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000532660"
+      "title": "PV5보다 더 크고 멀리간다…기아, 'PV7' 세계 최초 공개",
+      "url": "https://n.news.naver.com/mnews/article/119/0003132571"
     },
     {
-      "title": "김정관, 오늘 방미 마치고 귀국…대미투자 협상 결과 주목",
-      "url": "https://n.news.naver.com/mnews/article/029/0003047570"
+      "title": "환율 6% 넘게 내리자 8월 수출물가 3.7%↓…3년 8개월 만에 최대 하락",
+      "url": "https://n.news.naver.com/mnews/article/023/0003998483"
     },
     {
-      "title": "시가 43억 보유한 비거주 1주택자, 내년 종부세 429만원 더 낸다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005815546"
+      "title": "광명·동대문까지 치고 올라왔다…수도권 아파트값 ‘키 맞추기’ 뚜렷",
+      "url": "https://n.news.naver.com/mnews/article/009/0005734722"
     },
     {
-      "title": "HD현대 '3탱크 LNG 운반선' 홍보..AI솔루션 등 인증도",
-      "url": "https://n.news.naver.com/mnews/article/014/0005574824"
+      "title": "‘추석 상생’ 삼성·LG…협력사에 1.9조 조기 지급(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006369185"
     },
     {
-      "title": "퇴근 후에도 실시간 주식 사고판다…14일 KRX 애프터마켓 개장",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550958"
+      "title": "추석 항공권 취소·변경 피해 주의보…\"수수료 분쟁 잇따라\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001388133"
     },
     {
-      "title": "KAIST-롯데, 'LOTTE x KAIST R&D 센터' 준공...지속가능 미래 연구협력",
-      "url": "https://n.news.naver.com/mnews/article/014/0005574777"
+      "title": "'주식 금수저' 미성년 1억이상 주주 1년새 2배로",
+      "url": "https://n.news.naver.com/mnews/article/374/0000532904"
     },
     {
-      "title": "\"부부공동 1주택 '유리한 종부세' 사전 안내\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331753"
+      "title": "삼성전자·SK하이닉스, 한전 ‘25조 전기료 선납’ 거절",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661451"
     },
     {
-      "title": "중동 위기에도 수급 안정…7월 원유 9318만 배럴 도입, 전년比 10%↑",
-      "url": "https://n.news.naver.com/mnews/article/421/0009167537"
+      "title": "9월 美 금리 인상 확률 86.2%…워시, 트럼프와 충돌할까",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661831"
     },
     {
-      "title": "환율 1340원대 급락…삼성전자·SK하이닉스 이익 전망도 꺾였다 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002696402"
+      "title": "이재근 KB 회장 후보자 \"1등에 안주하지 않을 것\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001265826"
     },
     {
-      "title": "“한때는 삼성 모델 하더니” 계약 끝나니 가차없이 ‘아이폰 샷’…삼성 ‘부글’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002696533"
+      "title": "고령친화식품 늘편푸드 16종 품평…대형마트·홈쇼핑 판로 모색",
+      "url": "https://n.news.naver.com/mnews/article/119/0003132601"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6909.91,
-      "change": -124.01,
-      "change_pct": -1.76
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 820.64,
-      "change": -16.28,
-      "change_pct": -1.95
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26333.04,
-      "change": 251.32,
-      "change_pct": 0.96
+      "value": 26186.41,
+      "change": -146.62,
+      "change_pct": -0.56
     },
     "usdkrw": {
-      "value": 1342.97,
-      "change": -5.2,
-      "change_pct": -0.39
+      "value": 1347.09,
+      "change": 2.45,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 4377.7,
-    "price_krw": 5879120,
-    "change": 11.5,
-    "change_pct": 0.26
+    "price_usd": 4332.0,
+    "price_krw": 5835593,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-14 07:54",
+  "updated": "2026-09-15 08:41",
   "error": null
 }
