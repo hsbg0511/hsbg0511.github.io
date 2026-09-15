@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "PV5보다 더 크고 멀리간다…기아, 'PV7' 세계 최초 공개",
-      "url": "https://n.news.naver.com/mnews/article/119/0003132571"
+      "title": "연준 금리인상 베팅 90%대…워시, 트럼프 인하 압박에 맞서나(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016310385"
     },
     {
-      "title": "환율 6% 넘게 내리자 8월 수출물가 3.7%↓…3년 8개월 만에 최대 하락",
-      "url": "https://n.news.naver.com/mnews/article/023/0003998483"
+      "title": "거래소 애프터마켓 개장 첫날, 거래대금 1.8조…당일 전체의 6.6%",
+      "url": "https://n.news.naver.com/mnews/article/032/0003470425"
     },
     {
-      "title": "광명·동대문까지 치고 올라왔다…수도권 아파트값 ‘키 맞추기’ 뚜렷",
-      "url": "https://n.news.naver.com/mnews/article/009/0005734722"
+      "title": "유가 상승에도 환율 급락에...수출물가 44개월만 최대 하락 [Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661827"
     },
     {
-      "title": "‘추석 상생’ 삼성·LG…협력사에 1.9조 조기 지급(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006369185"
+      "title": "[속보]이형일 “내년부터 가상자산 과세…충격 크지 않을 것”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006369994"
     },
     {
-      "title": "추석 항공권 취소·변경 피해 주의보…\"수수료 분쟁 잇따라\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001388133"
+      "title": "안성호 에이스경암 이사장, 추석 맞아 2억 상당 쌀 기탁",
+      "url": "https://n.news.naver.com/mnews/article/277/0005816695"
     },
     {
-      "title": "'주식 금수저' 미성년 1억이상 주주 1년새 2배로",
-      "url": "https://n.news.naver.com/mnews/article/374/0000532904"
+      "title": "에이비엘바이오, 미공개정보 이용 의혹 압수수색에 약세[종목NOW]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005576016"
     },
     {
-      "title": "삼성전자·SK하이닉스, 한전 ‘25조 전기료 선납’ 거절",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661451"
+      "title": "기상청, 천리안위성 성능 검정 위해 유럽기상위성센터와 협력",
+      "url": "https://n.news.naver.com/mnews/article/001/0016312257"
     },
     {
-      "title": "9월 美 금리 인상 확률 86.2%…워시, 트럼프와 충돌할까",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661831"
+      "title": "국내 최대 자본시장 IR ‘코리아 프리미엄 위크’ 개막",
+      "url": "https://n.news.naver.com/mnews/article/005/0001873203"
     },
     {
-      "title": "이재근 KB 회장 후보자 \"1등에 안주하지 않을 것\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001265826"
+      "title": "이형일 \"비거주 인정 사유, 국회서 심도있게 토론…탄력적 운용\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000533096"
     },
     {
-      "title": "고령친화식품 늘편푸드 16종 품평…대형마트·홈쇼핑 판로 모색",
-      "url": "https://n.news.naver.com/mnews/article/119/0003132601"
+      "title": "美금리 우려·고유가에 원화 약세…원·달러 환율, 장중 1360원대(상보)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005816748"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6909.91,
+      "value": 6684.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 820.64,
+      "value": 806.79,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26186.41,
-      "change": -146.62,
-      "change_pct": -0.56
+      "value": 25981.57,
+      "change": -204.84,
+      "change_pct": -0.78
     },
     "usdkrw": {
-      "value": 1347.09,
-      "change": 2.45,
-      "change_pct": 0.18
+      "value": 1363.29,
+      "change": 17.68,
+      "change_pct": 1.31
     }
   },
   "gold": {
-    "price_usd": 4332.0,
-    "price_krw": 5835593,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4325.9,
+    "price_krw": 5897456,
+    "change": -26.0,
+    "change_pct": -0.6
   },
-  "updated": "2026-09-15 08:41",
+  "updated": "2026-09-16 08:25",
   "error": null
 }
