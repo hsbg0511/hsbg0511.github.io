@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "연준 금리인상 베팅 90%대…워시, 트럼프 인하 압박에 맞서나(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016310385"
+      "title": "태백에 320만마리 산란계 스마트축산단지 조성…4839억원 투입, 2031년 준공",
+      "url": "https://n.news.naver.com/mnews/article/421/0009173108"
     },
     {
-      "title": "거래소 애프터마켓 개장 첫날, 거래대금 1.8조…당일 전체의 6.6%",
-      "url": "https://n.news.naver.com/mnews/article/032/0003470425"
+      "title": "SK하닉, 美서 메모리 만든다…\"인텔과 협상중\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005576996"
     },
     {
-      "title": "유가 상승에도 환율 급락에...수출물가 44개월만 최대 하락 [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661827"
+      "title": "대미투자 17일 국회 보고 연기…MOU 서명·발표도 미뤄질 듯",
+      "url": "https://n.news.naver.com/mnews/article/001/0016315088"
     },
     {
-      "title": "[속보]이형일 “내년부터 가상자산 과세…충격 크지 않을 것”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006369994"
+      "title": "강남·성수 찍은 롯데 '르엘', 다음은 목동…2·7·11·14단지 정조준",
+      "url": "https://n.news.naver.com/mnews/article/421/0009172818"
     },
     {
-      "title": "안성호 에이스경암 이사장, 추석 맞아 2억 상당 쌀 기탁",
-      "url": "https://n.news.naver.com/mnews/article/277/0005816695"
+      "title": "\"투기 잡으려다 임차 농민 내쫓아\"…농지 전수조사 부작용 논란",
+      "url": "https://n.news.naver.com/mnews/article/015/0005333102"
     },
     {
-      "title": "에이비엘바이오, 미공개정보 이용 의혹 압수수색에 약세[종목NOW]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005576016"
+      "title": "현대차그룹 \"수소 버스·트럭으로 전기차 한계 돌파\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005333047"
     },
     {
-      "title": "기상청, 천리안위성 성능 검정 위해 유럽기상위성센터와 협력",
-      "url": "https://n.news.naver.com/mnews/article/001/0016312257"
+      "title": "대한항공 60조 규모…美 항공기·엔진 계약",
+      "url": "https://n.news.naver.com/mnews/article/018/0006370650"
     },
     {
-      "title": "국내 최대 자본시장 IR ‘코리아 프리미엄 위크’ 개막",
-      "url": "https://n.news.naver.com/mnews/article/005/0001873203"
+      "title": "넓어진 한중 하늘길...LCC·지방공항 확대",
+      "url": "https://n.news.naver.com/mnews/article/052/0002407626"
     },
     {
-      "title": "이형일 \"비거주 인정 사유, 국회서 심도있게 토론…탄력적 운용\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000533096"
+      "title": "SK하이닉스, '성과급 현금 50%-자사주 50%' 합의안 가결",
+      "url": "https://n.news.naver.com/mnews/article/655/0000032814"
     },
     {
-      "title": "美금리 우려·고유가에 원화 약세…원·달러 환율, 장중 1360원대(상보)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005816748"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000511440"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6684.37,
+      "value": 6627.26,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 806.79,
+      "value": 812.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25981.57,
-      "change": -204.84,
-      "change_pct": -0.78
+      "value": 25978.42,
+      "change": -3.15,
+      "change_pct": -0.01
     },
     "usdkrw": {
-      "value": 1363.29,
-      "change": 17.68,
-      "change_pct": 1.31
+      "value": 1377.24,
+      "change": 13.67,
+      "change_pct": 1.0
     }
   },
   "gold": {
-    "price_usd": 4325.9,
-    "price_krw": 5897456,
-    "change": -26.0,
-    "change_pct": -0.6
+    "price_usd": 4310.4,
+    "price_krw": 5936455,
+    "change": -22.4,
+    "change_pct": -0.52
   },
-  "updated": "2026-09-16 08:25",
+  "updated": "2026-09-17 08:33",
   "error": null
 }
