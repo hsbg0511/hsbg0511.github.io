@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한은 시장점검회의 개최 \"美 통화정책 긴축적일 것\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004190300"
+      "title": "유류세 인하 11월 말까지 두 달 연장…휘발유 15%·경유 25%↓",
+      "url": "https://n.news.naver.com/mnews/article/437/0000511712"
     },
     {
-      "title": "주사약에 불순물 '둥둥'…해외직구 비만약 주의보",
-      "url": "https://n.news.naver.com/mnews/article/215/0001266288"
+      "title": "미국 뉴욕증시 반등에…코스피도 2%대 상승 출발, 6800선 회복",
+      "url": "https://n.news.naver.com/mnews/article/009/0005737073"
     },
     {
-      "title": "신입 뽑는다더니 \"경력이 없네요?\"...갈 곳 없는 청년들",
-      "url": "https://n.news.naver.com/mnews/article/008/0005414924"
+      "title": "작년 공공부문 적자 83조 '역대 최대'…\"내년엔 흑자될 수도\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016320443"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012259802"
+      "title": "SK 부회장단 3명, SK하이닉스로 이동…반도체 전략 지원",
+      "url": "https://n.news.naver.com/mnews/article/031/0001059647"
     },
     {
-      "title": "더본코리아, 온라인 커뮤니티 이용자들 무더기 고소",
-      "url": "https://n.news.naver.com/mnews/article/056/0012259433"
+      "title": "“이재용 회장 집 앞으로 갔다”…삼성전자 DX노조, 자택 앞서 “직접 나와라”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003048830"
     },
     {
-      "title": "토허제 실거주 유예 1년 연장…“한시적”이라더니 넉달만에 확대",
-      "url": "https://n.news.naver.com/mnews/article/025/0003552024"
+      "title": "美 금융당국, 토큰화 주식·예측시장 문턱 낮춰",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818421"
     },
     {
-      "title": "한경협, 美건국 250주년 감사 만찬 \"안보 넘어 경제·기술 동맹으로\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005577553"
+      "title": "포항지역발전협, 포스코 2차 파업에 ‘진솔한 대화’ 촉구",
+      "url": "https://n.news.naver.com/mnews/article/022/0004160222"
     },
     {
-      "title": "[속보] 경남 조선·대전 방산·전북 반도체 특화단지 선정…7.9조 투입",
-      "url": "https://n.news.naver.com/mnews/article/629/0000534856"
+      "title": "송도 세브란스병원 지상공사 우선협상대상자에 금호건설",
+      "url": "https://n.news.naver.com/mnews/article/001/0016319867"
     },
     {
-      "title": "SK바이오팜, 파킨슨병 신약 후보물질 도입… 계약 규모 최대 ‘4300억원’",
-      "url": "https://n.news.naver.com/mnews/article/346/0000116179"
+      "title": "뉴욕증시, 금리인상 충격 딛고 반등…S&P 1.1%·나스닥 1.7%↑",
+      "url": "https://n.news.naver.com/mnews/article/629/0000534964"
     },
     {
-      "title": "“韓 투자자, 레버리지 ETF 오래 보유…손실 한도·청산 시점 정해야”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663045"
+      "title": "추석 연휴 고속도로 주유소 ℓ당 100원 할인…유류세 인하 11월까지 연장(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818240"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6717.97,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 815.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26418.3,
-      "change": 439.87,
-      "change_pct": 1.69
+      "value": 26522.54,
+      "change": 104.24,
+      "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1380.66,
-      "change": 4.06,
-      "change_pct": 0.29
+      "value": 1385.95,
+      "change": 9.35,
+      "change_pct": 0.68
     }
   },
   "gold": {
-    "price_usd": 4384.0,
-    "price_krw": 6052813,
-    "change": -3.5,
-    "change_pct": -0.08
+    "price_usd": 4415.9,
+    "price_krw": 6120216,
+    "change": 16.2,
+    "change_pct": 0.37
   },
-  "updated": "2026-09-18 08:22",
+  "updated": "2026-09-19 08:02",
   "error": null
 }
