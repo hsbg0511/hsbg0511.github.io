@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "유류세 인하 11월 말까지 두 달 연장…휘발유 15%·경유 25%↓",
-      "url": "https://n.news.naver.com/mnews/article/437/0000511712"
+      "title": "혼조세 마감…반도체 강세 속 '속슬' 8% 급등[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005578159"
     },
     {
-      "title": "미국 뉴욕증시 반등에…코스피도 2%대 상승 출발, 6800선 회복",
-      "url": "https://n.news.naver.com/mnews/article/009/0005737073"
+      "title": "“고속도로만 기름값 할인, 사형선고 아니냐”…동네 주유소들 ‘반발’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005737509"
     },
     {
-      "title": "작년 공공부문 적자 83조 '역대 최대'…\"내년엔 흑자될 수도\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016320443"
+      "title": "삼성전자 초기업노동조합, DS 부분 중심으로 재편",
+      "url": "https://n.news.naver.com/mnews/article/052/0002409114"
     },
     {
-      "title": "SK 부회장단 3명, SK하이닉스로 이동…반도체 전략 지원",
-      "url": "https://n.news.naver.com/mnews/article/031/0001059647"
+      "title": "“요새 누가 두쫀쿠 먹나요”…요즘 대세는 이것이라는데",
+      "url": "https://n.news.naver.com/mnews/article/009/0005737582"
     },
     {
-      "title": "“이재용 회장 집 앞으로 갔다”…삼성전자 DX노조, 자택 앞서 “직접 나와라”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003048830"
+      "title": "‘농촌관광 가는 주간’ 한 달로 확대…10·11월 할인·이벤트",
+      "url": "https://n.news.naver.com/mnews/article/018/0006372571"
     },
     {
-      "title": "美 금융당국, 토큰화 주식·예측시장 문턱 낮춰",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818421"
+      "title": "추석 연휴 이틀 늘었더니 국내 여행 2배↑…리조트는 2.7배",
+      "url": "https://n.news.naver.com/mnews/article/119/0003134521"
     },
     {
-      "title": "포항지역발전협, 포스코 2차 파업에 ‘진솔한 대화’ 촉구",
-      "url": "https://n.news.naver.com/mnews/article/022/0004160222"
+      "title": "서학 개미, 나흘간 집중 매수…이달 '순매도→순매수' 태세 전환",
+      "url": "https://n.news.naver.com/mnews/article/055/0001389572"
     },
     {
-      "title": "송도 세브란스병원 지상공사 우선협상대상자에 금호건설",
-      "url": "https://n.news.naver.com/mnews/article/001/0016319867"
+      "title": "'돌아온 외국인' 코스피 7000선 재도전…추석이 걸림돌?",
+      "url": "https://n.news.naver.com/mnews/article/421/0009180727"
     },
     {
-      "title": "뉴욕증시, 금리인상 충격 딛고 반등…S&P 1.1%·나스닥 1.7%↑",
-      "url": "https://n.news.naver.com/mnews/article/629/0000534964"
+      "title": "매파 FOMC에도 버틴 코스피…외국인 돌아오며 6900선 눈앞 [선데이 머니카페]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663630"
     },
     {
-      "title": "추석 연휴 고속도로 주유소 ℓ당 100원 할인…유류세 인하 11월까지 연장(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818240"
+      "title": "토큰증권 원장은 누가 고르는가[기고]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006372355"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6894.23,
+      "change": 178.82,
+      "change_pct": 2.66
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 827.12,
+      "change": 4.94,
+      "change_pct": 0.6
     },
     "nasdaq": {
       "value": 26522.54,
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.95,
-      "change": 9.35,
-      "change_pct": 0.68
+      "value": 1385.0,
+      "change": 5.47,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 4415.9,
-    "price_krw": 6120216,
-    "change": 16.2,
-    "change_pct": 0.37
+    "price_usd": 4424.9,
+    "price_krw": 6128486,
+    "change": 25.2,
+    "change_pct": 0.57
   },
-  "updated": "2026-09-19 08:02",
+  "updated": "2026-09-20 07:41",
   "error": null
 }
