@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "구글 제미나이도 외부기관 해킹…기업 3곳 시스템 무단 침입",
-      "url": "https://n.news.naver.com/mnews/article/374/0000533948"
+      "title": "AI 낙관론에 기술주 랠리…나스닥 사상 최고 [뉴욕증시 브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334949"
     },
     {
-      "title": "둘로 나뉘는 ‘카카오’…제주 자회사 노동자는 왜 불안해하나",
-      "url": "https://n.news.naver.com/mnews/article/028/0002823925"
+      "title": "'평택공장 끼임사' HL만도 \"안전체계 외부 진단…안전보건실 신설\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009183912"
     },
     {
-      "title": "개미 56조 손실… 증권사 두 달간 수백억 수수료 수익",
-      "url": "https://n.news.naver.com/mnews/article/005/0001874165"
+      "title": "쿠팡·한화 공정위 조사 제동 건 법원…주병기 \"굉장히 유감\"",
+      "url": "https://n.news.naver.com/mnews/article/586/0000138690"
     },
     {
-      "title": "\"영끌 집 팔아야 하나. 이자 단숨에 42만원 늘었다\"..38세 A씨의 달라진 가계부 [다시 고금리 시대]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005578618"
+      "title": "중장년 55.8% \"고용 불안\"… 노후 준비율은 81.9%",
+      "url": "https://n.news.naver.com/mnews/article/014/0005578894"
     },
     {
-      "title": "성북·노원마저 10억 육박… 서울 아파트 평균 전셋값 '역대 최고'",
-      "url": "https://n.news.naver.com/mnews/article/469/0000955129"
+      "title": "“반도체공장 가동 앞두고 도로 아직…인프라지원 서둘러야\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006373292"
     },
     {
-      "title": "통신비 감면 대상인데도…210만명 혜택 놓쳤다",
-      "url": "https://n.news.naver.com/mnews/article/001/0016324989"
+      "title": "SK하이닉스 곽노정 \"메모리 없이는 AI 산업도 성립할 수 없다\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000534023"
     },
     {
-      "title": "삼성전자·포스코 노조 '휘청'…갈등 뇌관 '노조위원장 논란'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009180775"
+      "title": "추석 연휴 낮 공공 전기차 충전 요금 50% 할인",
+      "url": "https://n.news.naver.com/mnews/article/374/0000534146"
     },
     {
-      "title": "짧은 추석 연휴…\"서울→부산 최대 10시간 30분\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907970"
+      "title": "“e스포츠에 최적”… LGD, 720Hz OLED 세계 첫 출시",
+      "url": "https://n.news.naver.com/mnews/article/021/0002820275"
     },
     {
-      "title": "KB국민은행, 정기예금 금리 추가 인상…최고 연 3.5%",
-      "url": "https://n.news.naver.com/mnews/article/001/0016324929"
+      "title": "“초강력 강세장 온다”… 심상찮은 비트코인, 8만5000달러 회복",
+      "url": "https://n.news.naver.com/mnews/article/005/0001874447"
     },
     {
-      "title": "“‘10등급’ 자영업자 연체율 44.6%”…고금리에 벼랑 끝 내몰린 동네 사장님들",
-      "url": "https://n.news.naver.com/mnews/article/016/0002699845"
+      "title": "\"무엇부터 AI로 바꿀까\"…산업부, 산단 CEO들과 현장해법 모색",
+      "url": "https://n.news.naver.com/mnews/article/055/0001390061"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6894.23,
-      "change": 178.82,
-      "change_pct": 2.66
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 827.12,
-      "change": 4.94,
-      "change_pct": 0.6
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26522.54,
-      "change": 104.24,
-      "change_pct": 0.39
+      "value": 27122.09,
+      "change": 599.55,
+      "change_pct": 2.26
     },
     "usdkrw": {
-      "value": 1385.4,
-      "change": 5.87,
-      "change_pct": 0.43
+      "value": 1374.3,
+      "change": -10.56,
+      "change_pct": -0.76
     }
   },
   "gold": {
-    "price_usd": 4412.6,
-    "price_krw": 6113216,
-    "change": -12.3,
-    "change_pct": -0.28
+    "price_usd": 4405.2,
+    "price_krw": 6054066,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-21 08:00",
+  "updated": "2026-09-22 08:50",
   "error": null
 }
