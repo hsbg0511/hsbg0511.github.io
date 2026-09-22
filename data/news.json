@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "AI 낙관론에 기술주 랠리…나스닥 사상 최고 [뉴욕증시 브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005334949"
+      "title": "구광모·나델라 美서 회동…LG·MS ‘AI 동맹’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002700737"
     },
     {
-      "title": "'평택공장 끼임사' HL만도 \"안전체계 외부 진단…안전보건실 신설\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009183912"
+      "title": "“프린터 넘어 피지컬 AI 기업으로”… 엡손의 대변신 선언[오늘의 DT인]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049498"
     },
     {
-      "title": "쿠팡·한화 공정위 조사 제동 건 법원…주병기 \"굉장히 유감\"",
-      "url": "https://n.news.naver.com/mnews/article/586/0000138690"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012262016"
     },
     {
-      "title": "중장년 55.8% \"고용 불안\"… 노후 준비율은 81.9%",
-      "url": "https://n.news.naver.com/mnews/article/014/0005578894"
+      "title": "비트코인 8만6000달러도 돌파…“겨울 가고, 이젠 봄꽃이”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049334"
     },
     {
-      "title": "“반도체공장 가동 앞두고 도로 아직…인프라지원 서둘러야\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006373292"
+      "title": "아틀라스 '로봇학교' 본격 가동…내년엔 10배로",
+      "url": "https://n.news.naver.com/mnews/article/422/0000908602"
     },
     {
-      "title": "SK하이닉스 곽노정 \"메모리 없이는 AI 산업도 성립할 수 없다\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000534023"
+      "title": "보령, 오리지널 항암제 ‘탁소텔’ 中 3837억 공급계약…역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/016/0002700973"
     },
     {
-      "title": "추석 연휴 낮 공공 전기차 충전 요금 50% 할인",
-      "url": "https://n.news.naver.com/mnews/article/374/0000534146"
+      "title": "코레일 자회사, 3개로 통합…편의점 할인·수하물 공간 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005417652"
     },
     {
-      "title": "“e스포츠에 최적”… LGD, 720Hz OLED 세계 첫 출시",
-      "url": "https://n.news.naver.com/mnews/article/021/0002820275"
+      "title": "작년 자살 사망률 4.7% 줄었는데…10대만 7.5% 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750042"
     },
     {
-      "title": "“초강력 강세장 온다”… 심상찮은 비트코인, 8만5000달러 회복",
-      "url": "https://n.news.naver.com/mnews/article/005/0001874447"
+      "title": "이찬진, 은행장 줄인사 앞 지주 회장 소집…\"CEO 선임, 계파·친소 배제해야\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005820220"
     },
     {
-      "title": "\"무엇부터 AI로 바꿀까\"…산업부, 산단 CEO들과 현장해법 모색",
-      "url": "https://n.news.naver.com/mnews/article/055/0001390061"
+      "title": "\"차만 다니는 고속도로? 앞으론 전력·통신 갖춘 복합인프라\" 메가프로젝트 지원 나선 道公",
+      "url": "https://n.news.naver.com/mnews/article/277/0005820208"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6894.23,
+      "value": 7007.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 827.12,
+      "value": 836.27,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27122.09,
-      "change": 599.55,
-      "change_pct": 2.26
+      "value": 27244.28,
+      "change": 122.19,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.3,
-      "change": -10.56,
-      "change_pct": -0.76
+      "value": 1355.25,
+      "change": -18.43,
+      "change_pct": -1.34
     }
   },
   "gold": {
-    "price_usd": 4405.2,
-    "price_krw": 6054066,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4402.1,
+    "price_krw": 5965946,
+    "change": 18.2,
+    "change_pct": 0.42
   },
-  "updated": "2026-09-22 08:50",
+  "updated": "2026-09-23 08:30",
   "error": null
 }
