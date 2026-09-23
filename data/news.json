@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "구광모·나델라 美서 회동…LG·MS ‘AI 동맹’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002700737"
+      "title": "원유 특정지역 의존도 50% 이하로…핵심광물 비축 최대 365일",
+      "url": "https://n.news.naver.com/mnews/article/138/0002242564"
     },
     {
-      "title": "“프린터 넘어 피지컬 AI 기업으로”… 엡손의 대변신 선언[오늘의 DT인]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049498"
+      "title": "삼성증권, 연 4.3% 발행어음 특판 출시 이틀 반 만에 1000억 ‘완판’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004664966"
+    },
+    {
+      "title": "공정위 조사 후엔 1등으로 자진 신고해도 '과징금'…제도 개편",
+      "url": "https://n.news.naver.com/mnews/article/015/0005335567"
+    },
+    {
+      "title": "포스코그룹, 잭니클라우스GC 매각 절차…비핵심 자산 구조조정",
+      "url": "https://n.news.naver.com/mnews/article/025/0003553554"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012262016"
+      "url": "https://n.news.naver.com/mnews/article/052/0002410656"
     },
     {
-      "title": "비트코인 8만6000달러도 돌파…“겨울 가고, 이젠 봄꽃이”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049334"
+      "title": "귀성길 배터리 부족하면…부여백제·속리산에 ‘이동식 충전’",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375120"
     },
     {
-      "title": "아틀라스 '로봇학교' 본격 가동…내년엔 10배로",
-      "url": "https://n.news.naver.com/mnews/article/422/0000908602"
+      "title": "트럼프 \"디젤 수출 막아야\"…美 고유가에 정책 전환 조짐",
+      "url": "https://n.news.naver.com/mnews/article/003/0014209547"
     },
     {
-      "title": "보령, 오리지널 항암제 ‘탁소텔’ 中 3837억 공급계약…역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/016/0002700973"
+      "title": "“AI칩 전쟁 뒤엔 ‘냉각 전쟁’”…LG전자, SK와 손잡고 냉각액까지 파고든다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739348"
     },
     {
-      "title": "코레일 자회사, 3개로 통합…편의점 할인·수하물 공간 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005417652"
+      "title": "비트코인, 1억1500만원선…테슬라·삼전 웃돌며 세계 시총 12위",
+      "url": "https://n.news.naver.com/mnews/article/003/0014209618"
     },
     {
-      "title": "작년 자살 사망률 4.7% 줄었는데…10대만 7.5% 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750042"
-    },
-    {
-      "title": "이찬진, 은행장 줄인사 앞 지주 회장 소집…\"CEO 선임, 계파·친소 배제해야\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005820220"
-    },
-    {
-      "title": "\"차만 다니는 고속도로? 앞으론 전력·통신 갖춘 복합인프라\" 메가프로젝트 지원 나선 道公",
-      "url": "https://n.news.naver.com/mnews/article/277/0005820208"
+      "title": "대미투자 1호 '텍사스 가스발전' 확정…K기자재 북미 수주 기회 열리나",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375035"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7007.72,
+      "value": 7080.92,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 836.27,
+      "value": 844.48,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27244.28,
-      "change": 122.19,
-      "change_pct": 0.45
+      "value": 26936.04,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "usdkrw": {
-      "value": 1355.25,
-      "change": -18.43,
-      "change_pct": -1.34
+      "value": 1365.05,
+      "change": 14.69,
+      "change_pct": 1.09
     }
   },
   "gold": {
-    "price_usd": 4402.1,
-    "price_krw": 5965946,
-    "change": 18.2,
-    "change_pct": 0.42
+    "price_usd": 4326.8,
+    "price_krw": 5906298,
+    "change": -49.6,
+    "change_pct": -1.13
   },
-  "updated": "2026-09-23 08:30",
+  "updated": "2026-09-24 08:26",
   "error": null
 }
