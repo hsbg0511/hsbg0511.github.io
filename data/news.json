@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "원유 특정지역 의존도 50% 이하로…핵심광물 비축 최대 365일",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242564"
+      "title": "日 엔화 다시 급락…금리인상 사흘 만에 약발 끝났나",
+      "url": "https://n.news.naver.com/mnews/article/015/0005335843"
     },
     {
-      "title": "삼성증권, 연 4.3% 발행어음 특판 출시 이틀 반 만에 1000억 ‘완판’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004664966"
+      "title": "전월세난도 서러운데… “전세대출 못 갚는 서민 급증”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049788"
     },
     {
-      "title": "공정위 조사 후엔 1등으로 자진 신고해도 '과징금'…제도 개편",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335567"
+      "title": "\"2년 뒤 출근\"...현대차 '비밀병기' 온다",
+      "url": "https://n.news.naver.com/mnews/article/050/0000111297"
     },
     {
-      "title": "포스코그룹, 잭니클라우스GC 매각 절차…비핵심 자산 구조조정",
-      "url": "https://n.news.naver.com/mnews/article/025/0003553554"
+      "title": "국채금리와 연관성 거의 없는 비트코인, 왜 금리상승에 추락했나",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375382"
+    },
+    {
+      "title": "AIDC 냉각 ‘美친 성과’…LG전자, 엔비디아 전 카테고리 기술 입증",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049784"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002410656"
+      "url": "https://n.news.naver.com/mnews/article/052/0002410882"
     },
     {
-      "title": "귀성길 배터리 부족하면…부여백제·속리산에 ‘이동식 충전’",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375120"
+      "title": "HLB, 담관암 치료제 '리픽투' 美 FDA 허가…4분기 출시",
+      "url": "https://n.news.naver.com/mnews/article/277/0005820709"
     },
     {
-      "title": "트럼프 \"디젤 수출 막아야\"…美 고유가에 정책 전환 조짐",
-      "url": "https://n.news.naver.com/mnews/article/003/0014209547"
+      "title": "재계, 추석부터 내년 농사 짓는다…총수들 연휴에 ‘2027년 승부수’ 고심 [biz-플러스]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004665118"
     },
     {
-      "title": "“AI칩 전쟁 뒤엔 ‘냉각 전쟁’”…LG전자, SK와 손잡고 냉각액까지 파고든다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005739348"
+      "title": "'주식은 무서워' 돈 다시 은행으로…얼마나 몰렸나",
+      "url": "https://n.news.naver.com/mnews/article/374/0000534685"
     },
     {
-      "title": "비트코인, 1억1500만원선…테슬라·삼전 웃돌며 세계 시총 12위",
-      "url": "https://n.news.naver.com/mnews/article/003/0014209618"
-    },
-    {
-      "title": "대미투자 1호 '텍사스 가스발전' 확정…K기자재 북미 수주 기회 열리나",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375035"
+      "title": "'예금은 아쉽고 주식은 무섭고'…5.5% 발행어음 뭐길래?",
+      "url": "https://n.news.naver.com/mnews/article/374/0000534670"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26936.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 26939.37,
+      "change": 3.33,
+      "change_pct": 0.01
     },
     "usdkrw": {
-      "value": 1365.05,
-      "change": 14.69,
-      "change_pct": 1.09
+      "value": 1367.59,
+      "change": 5.09,
+      "change_pct": 0.37
     }
   },
   "gold": {
-    "price_usd": 4326.8,
-    "price_krw": 5906298,
-    "change": -49.6,
-    "change_pct": -1.13
+    "price_usd": 4309.2,
+    "price_krw": 5893219,
+    "change": -9.2,
+    "change_pct": -0.21
   },
-  "updated": "2026-09-24 08:26",
+  "updated": "2026-09-25 08:46",
   "error": null
 }
