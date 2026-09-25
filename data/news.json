@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "日 엔화 다시 급락…금리인상 사흘 만에 약발 끝났나",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335843"
+      "title": "“아빠랑 할머니가 각각 줬는데요?”…추석 용돈 ‘2000만원 공제’의 오해",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739924"
+    },
+    {
+      "title": "국세청, ‘탈세 유튜버’에 철퇴…17명에 239억 부과",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739903"
+    },
+    {
+      "title": "상장폐지 요건 강화에 주식병합 '러시'…14% 다시 '동전주'로",
+      "url": "https://n.news.naver.com/mnews/article/003/0014213250"
+    },
+    {
+      "title": "\"국평이 20억\"…반도체 품은 동탄, 올해 집값 전국 1위",
+      "url": "https://n.news.naver.com/mnews/article/003/0014214008"
+    },
+    {
+      "title": "네팔·중국 대홍수 한달…8천 명 사망·실종 속 막막한 피해 복구",
+      "url": "https://n.news.naver.com/mnews/article/056/0012263208"
+    },
+    {
+      "title": "명절 휴게소 편의점 인기 품목은…귀향엔 커피, 귀경 땐 과자",
+      "url": "https://n.news.naver.com/mnews/article/374/0000534787"
+    },
+    {
+      "title": "\"63만원 간다\" vs \"27만원 추락\"…삼성전자 목표주가 두고 증권가 '극과 극' 전망, 왜?",
+      "url": "https://n.news.naver.com/mnews/article/014/0005580780"
     },
     {
       "title": "전월세난도 서러운데… “전세대출 못 갚는 서민 급증”",
       "url": "https://n.news.naver.com/mnews/article/029/0003049788"
     },
     {
-      "title": "\"2년 뒤 출근\"...현대차 '비밀병기' 온다",
-      "url": "https://n.news.naver.com/mnews/article/050/0000111297"
+      "title": "추석에도 24시간…삼성·SK하닉 반도체, 수출 최전선 지킨다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375426"
     },
     {
-      "title": "국채금리와 연관성 거의 없는 비트코인, 왜 금리상승에 추락했나",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375382"
-    },
-    {
-      "title": "AIDC 냉각 ‘美친 성과’…LG전자, 엔비디아 전 카테고리 기술 입증",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049784"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002410882"
-    },
-    {
-      "title": "HLB, 담관암 치료제 '리픽투' 美 FDA 허가…4분기 출시",
-      "url": "https://n.news.naver.com/mnews/article/277/0005820709"
-    },
-    {
-      "title": "재계, 추석부터 내년 농사 짓는다…총수들 연휴에 ‘2027년 승부수’ 고심 [biz-플러스]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665118"
-    },
-    {
-      "title": "'주식은 무서워' 돈 다시 은행으로…얼마나 몰렸나",
-      "url": "https://n.news.naver.com/mnews/article/374/0000534685"
-    },
-    {
-      "title": "'예금은 아쉽고 주식은 무섭고'…5.5% 발행어음 뭐길래?",
-      "url": "https://n.news.naver.com/mnews/article/374/0000534670"
+      "title": "기름값 인하 여파...고속도로 휴게소 '유령정체' 극심",
+      "url": "https://n.news.naver.com/mnews/article/053/0000061756"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7080.92,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 63.01,
+      "change_pct": 0.9
     },
     "kosdaq": {
       "value": 844.48,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 10.1,
+      "change_pct": 1.21
     },
     "nasdaq": {
-      "value": 26939.37,
-      "change": 3.33,
-      "change_pct": 0.01
+      "value": 27068.72,
+      "change": 129.35,
+      "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1367.59,
-      "change": 5.09,
-      "change_pct": 0.37
+      "value": 1355.28,
+      "change": -7.22,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4309.2,
-    "price_krw": 5893219,
-    "change": -9.2,
-    "change_pct": -0.21
+    "price_usd": 4320.5,
+    "price_krw": 5855487,
+    "change": 22.5,
+    "change_pct": 0.52
   },
-  "updated": "2026-09-25 08:46",
+  "updated": "2026-09-26 08:51",
   "error": null
 }
