@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "‘뜨거운 감자’로 떠오른 가상자산 소득과세… 3번 유예 끝 내년 과세 시행에도 ‘유예론’ 지속 제기돼",
-      "url": "https://n.news.naver.com/mnews/article/022/0004161900"
+      "title": "제조업 경기심리 회복에도…기업 10곳中 6곳 \"영업익 목표 미달\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009193234"
     },
     {
-      "title": "[단독] 한국예탁결제원도 단일종목 레버리지 ETF 제안 안 했다",
-      "url": "https://n.news.naver.com/mnews/article/023/0004000449"
+      "title": "추석 지나 다시 시험대 오른 증시…美 물가·마이크론 실적 주목 [주간 증시 전망]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005581103"
     },
     {
-      "title": "“韓 금융 잡아라”…해외 블록체인 각축전 [도예리의 디지털자산 노트]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665447"
+      "title": "연휴 끝나면 '65만전자' 간다?…파격 근거 나왔다",
+      "url": "https://n.news.naver.com/mnews/article/030/0003469979"
     },
     {
-      "title": "\"코스피 7,000인데 내 종목은 왜\"…상한가 줄고 52주 신저가 속출",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267208"
+      "title": "연휴 끝낸 코스피, '7천피' 사수하며 상승 이어갈까[마켓뷰]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016339562"
     },
     {
-      "title": "삼성전자 3분기 실적 다음 달 발표…\"100조 원 넘어설 듯\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000909938"
+      "title": "역대 최대 초과세수에 내년 ‘미래대응기금’ 200조원 육박할 듯",
+      "url": "https://n.news.naver.com/mnews/article/028/0002824812"
     },
     {
-      "title": "한국산 ‘신규 수입규제 조사’ 10건→25건… 인도 6건 최다",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049875"
+      "title": "20여년 겉돌았던 ‘한국·멕시코 경제협정’ 새 물꼬 트나",
+      "url": "https://n.news.naver.com/mnews/article/032/0003472681"
     },
     {
-      "title": "평균 퇴직 53세...정년연장이 당신의 퇴직을 늦추지 않는다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005418431"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012263749"
     },
     {
-      "title": "\"악! 벌금 3000만원\"…추석 선물 마구 팔았다간 '날벼락'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005418581"
+      "title": "신라면, 멕시코 유통망 확 넓힌다…농심 ‘중남미 공략’ 속도",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375835"
     },
     {
-      "title": "\"예금으로 돌아가는 투자자 잡아라\"…증권가 발행어음 특판 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/421/0009191964"
+      "title": "계속되는 SK하이닉스 손자회사 美상장설...중복상장 논란 이유는",
+      "url": "https://n.news.naver.com/mnews/article/469/0000956188"
     },
     {
-      "title": "배달 단가 1300원대 역대급 추락…라이더는 '한숨', 자영업자는 '의문'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014215038"
+      "title": "“지금 쉬면 몇억 날아간다”…삼성전자·SK하이닉스 육아휴직 동반 첫 감소",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049926"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1354.4,
-      "change": -12.96,
-      "change_pct": -0.95
+      "value": 1354.89,
+      "change": -12.47,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4321.2,
-    "price_krw": 5852633,
-    "change": 23.2,
-    "change_pct": 0.54
+    "price_usd": 4296.8,
+    "price_krw": 5821691,
+    "change": -24.4,
+    "change_pct": -0.56
   },
-  "updated": "2026-09-27 08:23",
+  "updated": "2026-09-28 08:40",
   "error": null
 }
