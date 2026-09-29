@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "제조업 경기심리 회복에도…기업 10곳中 6곳 \"영업익 목표 미달\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009193234"
-    },
-    {
-      "title": "추석 지나 다시 시험대 오른 증시…美 물가·마이크론 실적 주목 [주간 증시 전망]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005581103"
-    },
-    {
-      "title": "연휴 끝나면 '65만전자' 간다?…파격 근거 나왔다",
-      "url": "https://n.news.naver.com/mnews/article/030/0003469979"
-    },
-    {
-      "title": "연휴 끝낸 코스피, '7천피' 사수하며 상승 이어갈까[마켓뷰]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016339562"
-    },
-    {
-      "title": "역대 최대 초과세수에 내년 ‘미래대응기금’ 200조원 육박할 듯",
-      "url": "https://n.news.naver.com/mnews/article/028/0002824812"
-    },
-    {
-      "title": "20여년 겉돌았던 ‘한국·멕시코 경제협정’ 새 물꼬 트나",
-      "url": "https://n.news.naver.com/mnews/article/032/0003472681"
+      "title": "삼성, 美 AI 인프라 기업 헬릭스에 10억달러 투자…반도체 넘어 데이터센터로",
+      "url": "https://n.news.naver.com/mnews/article/009/0005741104"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012263749"
+      "url": "https://n.news.naver.com/mnews/article/052/0002412212"
     },
     {
-      "title": "신라면, 멕시코 유통망 확 넓힌다…농심 ‘중남미 공략’ 속도",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375835"
+      "title": "\"비싼 돈 주고 가전을 왜 사요?\"…삼성·LG가 꺼내든 '승부수' [트렌드+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336685"
     },
     {
-      "title": "계속되는 SK하이닉스 손자회사 美상장설...중복상장 논란 이유는",
-      "url": "https://n.news.naver.com/mnews/article/469/0000956188"
+      "title": "반복 담합 5년 내 2번이면 영업정지…17개 업종 퇴출제 도입",
+      "url": "https://n.news.naver.com/mnews/article/119/0003136804"
     },
     {
-      "title": "“지금 쉬면 몇억 날아간다”…삼성전자·SK하이닉스 육아휴직 동반 첫 감소",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049926"
+      "title": "[단독] 삼성전기, AI 기판에 6.8조 '사상 최대 투자'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336753"
+    },
+    {
+      "title": "은행 점포 내년 4월부터 오전 9시 30분 개점…노사 잠정 합의",
+      "url": "https://n.news.naver.com/mnews/article/055/0001391618"
+    },
+    {
+      "title": "10월19일부터 보금자리론 '결혼 페널티' 없앤다…신혼부부 소득 완화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009195410"
+    },
+    {
+      "title": "수소버스 \"올해만 1800대 보급\"…최대 걸림돌, 가격 아닌 '인프라'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009194136"
+    },
+    {
+      "title": "美中보다 교역량 더 많은 CPTPP…가입 10년후 GDP 0.38%P 상승[Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666164"
+    },
+    {
+      "title": "기업 체감 경기 소폭 하락‥상승 추세는 여전",
+      "url": "https://n.news.naver.com/mnews/article/214/0001526254"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7080.92,
-      "change": 63.01,
-      "change_pct": 0.9
+      "value": 6875.19,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 844.48,
-      "change": 10.1,
-      "change_pct": 1.21
+      "value": 841.33,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27068.72,
-      "change": 129.35,
-      "change_pct": 0.48
+      "value": 26820.38,
+      "change": -248.34,
+      "change_pct": -0.92
     },
     "usdkrw": {
-      "value": 1354.89,
-      "change": -12.47,
-      "change_pct": -0.91
+      "value": 1360.08,
+      "change": 5.57,
+      "change_pct": 0.41
     }
   },
   "gold": {
-    "price_usd": 4296.8,
-    "price_krw": 5821691,
-    "change": -24.4,
-    "change_pct": -0.56
+    "price_usd": 4154.7,
+    "price_krw": 5650724,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-28 08:40",
+  "updated": "2026-09-29 09:49",
   "error": null
 }
