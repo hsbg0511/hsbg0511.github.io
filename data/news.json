@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성, 美 AI 인프라 기업 헬릭스에 10억달러 투자…반도체 넘어 데이터센터로",
-      "url": "https://n.news.naver.com/mnews/article/009/0005741104"
+      "title": "이재용·최태원, 젠슨 황 밴 플리트상 수상 축하‥파트너십 강조",
+      "url": "https://n.news.naver.com/mnews/article/214/0001526338"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002412212"
+      "title": "반도체서 데이터센터로…삼성 6개사, 美 AI 인프라 헬릭스에 10억달러 투자",
+      "url": "https://n.news.naver.com/mnews/article/015/0005337005"
     },
     {
-      "title": "\"비싼 돈 주고 가전을 왜 사요?\"…삼성·LG가 꺼내든 '승부수' [트렌드+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336685"
+      "title": "DS투자證, SK하이닉스 목표가 264만원으로 낮춰…\"내년 영업익 407조 전망”",
+      "url": "https://n.news.naver.com/mnews/article/003/0014219509"
     },
     {
-      "title": "반복 담합 5년 내 2번이면 영업정지…17개 업종 퇴출제 도입",
-      "url": "https://n.news.naver.com/mnews/article/119/0003136804"
+      "title": "대기업 절반, 하반기 채용계획 확정…공채 비중도 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376702"
     },
     {
-      "title": "[단독] 삼성전기, AI 기판에 6.8조 '사상 최대 투자'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336753"
+      "title": "美 국채금리 상승 속 뉴욕증시 하락 마감",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194891"
     },
     {
-      "title": "은행 점포 내년 4월부터 오전 9시 30분 개점…노사 잠정 합의",
-      "url": "https://n.news.naver.com/mnews/article/055/0001391618"
+      "title": "2년 막힌 호남 전력망 다시 연다…재생에너지 52GW '숨통'",
+      "url": "https://n.news.naver.com/mnews/article/030/0003470756"
     },
     {
-      "title": "10월19일부터 보금자리론 '결혼 페널티' 없앤다…신혼부부 소득 완화",
-      "url": "https://n.news.naver.com/mnews/article/421/0009195410"
+      "title": "美 국채금리, 인플레 우려 속 고점 경신 후 숨고르기",
+      "url": "https://n.news.naver.com/mnews/article/014/0005582572"
     },
     {
-      "title": "수소버스 \"올해만 1800대 보급\"…최대 걸림돌, 가격 아닌 '인프라'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009194136"
+      "title": "수도권 건축물 면적 70%가 아파트…빌라는 10%뿐 [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002703373"
     },
     {
-      "title": "美中보다 교역량 더 많은 CPTPP…가입 10년후 GDP 0.38%P 상승[Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666164"
+      "title": "비트코인, 차익실현·국제유가 상승에 8만2000달러선 후퇴 [크립토브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005582141"
     },
     {
-      "title": "기업 체감 경기 소폭 하락‥상승 추세는 여전",
-      "url": "https://n.news.naver.com/mnews/article/214/0001526254"
+      "title": "서울대 동아리가 ‘미공개정보 카르텔’로… 부당이득 200억 챙겨",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875747"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6875.19,
+      "value": 6870.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 841.33,
+      "value": 849.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26820.38,
-      "change": -248.34,
-      "change_pct": -0.92
+      "value": 26797.54,
+      "change": -22.84,
+      "change_pct": -0.09
     },
     "usdkrw": {
-      "value": 1360.08,
-      "change": 5.57,
-      "change_pct": 0.41
+      "value": 1351.53,
+      "change": -8.03,
+      "change_pct": -0.59
     }
   },
   "gold": {
-    "price_usd": 4154.7,
-    "price_krw": 5650724,
+    "price_usd": 4219.0,
+    "price_krw": 5702105,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-09-29 09:49",
+  "updated": "2026-09-30 09:04",
   "error": null
 }
