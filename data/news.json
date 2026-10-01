@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이재용·최태원, 젠슨 황 밴 플리트상 수상 축하‥파트너십 강조",
-      "url": "https://n.news.naver.com/mnews/article/214/0001526338"
+      "title": "'이자 부담 더 커졌다'..가계 대출금리 2년 9개월 만에 최고치",
+      "url": "https://n.news.naver.com/mnews/article/014/0005582896"
     },
     {
-      "title": "반도체서 데이터센터로…삼성 6개사, 美 AI 인프라 헬릭스에 10억달러 투자",
-      "url": "https://n.news.naver.com/mnews/article/015/0005337005"
+      "title": "아시아나, 日·中·동남아에 '마일리지 특별기' 73편 띄운다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009199759"
     },
     {
-      "title": "DS투자證, SK하이닉스 목표가 264만원으로 낮춰…\"내년 영업익 407조 전망”",
-      "url": "https://n.news.naver.com/mnews/article/003/0014219509"
+      "title": "국민성장펀드 2차 판매 시작, 이번에도 대박?..권대영 부위원장 가입",
+      "url": "https://n.news.naver.com/mnews/article/008/0005420123"
     },
     {
-      "title": "대기업 절반, 하반기 채용계획 확정…공채 비중도 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006376702"
+      "title": "서울 도심복합사업 후보지 11곳 선정…1만8000가구 공급 추진",
+      "url": "https://n.news.naver.com/mnews/article/119/0003137890"
     },
     {
-      "title": "美 국채금리 상승 속 뉴욕증시 하락 마감",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194891"
+      "title": "'청주-제주' 예약 어렵더라니‥대한항공 등 '좌석 수 유지' 위반",
+      "url": "https://n.news.naver.com/mnews/article/214/0001526532"
     },
     {
-      "title": "2년 막힌 호남 전력망 다시 연다…재생에너지 52GW '숨통'",
-      "url": "https://n.news.naver.com/mnews/article/030/0003470756"
+      "title": "뉴욕증시, 장기 국채 금리 부담에 혼조세",
+      "url": "https://n.news.naver.com/mnews/article/056/0012265991"
     },
     {
-      "title": "美 국채금리, 인플레 우려 속 고점 경신 후 숨고르기",
-      "url": "https://n.news.naver.com/mnews/article/014/0005582572"
+      "title": "명동선 피부상담, 공항선 맞춤 선물…롯데免, SK-II와 파트너십 체결",
+      "url": "https://n.news.naver.com/mnews/article/011/0004666999"
     },
     {
-      "title": "수도권 건축물 면적 70%가 아파트…빌라는 10%뿐 [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002703373"
+      "title": "KB·하나·우리, 은행장 인선 돌입",
+      "url": "https://n.news.naver.com/mnews/article/011/0004667042"
     },
     {
-      "title": "비트코인, 차익실현·국제유가 상승에 8만2000달러선 후퇴 [크립토브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005582141"
+      "title": "대미투자 원전 8기에 1200억달러 투자…미국땅에 한국형 원전 첫 진출",
+      "url": "https://n.news.naver.com/mnews/article/028/0002825453"
     },
     {
-      "title": "서울대 동아리가 ‘미공개정보 카르텔’로… 부당이득 200억 챙겨",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875747"
+      "title": "현대모비스, 1조원대 램프사업 물적분할…OP모빌리티에 전량 매각",
+      "url": "https://n.news.naver.com/mnews/article/123/0002391091"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6870.81,
+      "value": 6782.07,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 849.8,
+      "value": 853.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26797.54,
-      "change": -22.84,
-      "change_pct": -0.09
+      "value": 26861.06,
+      "change": 63.53,
+      "change_pct": 0.24
     },
     "usdkrw": {
-      "value": 1351.53,
-      "change": -8.03,
-      "change_pct": -0.59
+      "value": 1358.18,
+      "change": 7.68,
+      "change_pct": 0.57
     }
   },
   "gold": {
-    "price_usd": 4219.0,
-    "price_krw": 5702105,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4182.8,
+    "price_krw": 5680995,
+    "change": 3.1,
+    "change_pct": 0.07
   },
-  "updated": "2026-09-30 09:04",
+  "updated": "2026-10-01 09:22",
   "error": null
 }
