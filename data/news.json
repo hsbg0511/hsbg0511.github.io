@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'이자 부담 더 커졌다'..가계 대출금리 2년 9개월 만에 최고치",
-      "url": "https://n.news.naver.com/mnews/article/014/0005582896"
+      "title": "정부 \"최고가격제로 9월 물가상승률 0.6%p 낮춰…물가 압력 최소화\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014228950"
     },
     {
-      "title": "아시아나, 日·中·동남아에 '마일리지 특별기' 73편 띄운다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009199759"
+      "title": "서울 아파트 매매가격 최장기간 상승…오름폭은 5주째 둔화",
+      "url": "https://n.news.naver.com/mnews/article/055/0001392409"
     },
     {
-      "title": "국민성장펀드 2차 판매 시작, 이번에도 대박?..권대영 부위원장 가입",
-      "url": "https://n.news.naver.com/mnews/article/008/0005420123"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/057/0001971666"
     },
     {
-      "title": "서울 도심복합사업 후보지 11곳 선정…1만8000가구 공급 추진",
-      "url": "https://n.news.naver.com/mnews/article/119/0003137890"
+      "title": "현대차, 신형 투싼 국내 이어 美 뉴욕서 공개",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338431"
     },
     {
-      "title": "'청주-제주' 예약 어렵더라니‥대한항공 등 '좌석 수 유지' 위반",
-      "url": "https://n.news.naver.com/mnews/article/214/0001526532"
+      "title": "전남광주 온누리상품권 혜택↑…전통시장 최대 10%",
+      "url": "https://n.news.naver.com/mnews/article/003/0014225961"
     },
     {
-      "title": "뉴욕증시, 장기 국채 금리 부담에 혼조세",
-      "url": "https://n.news.naver.com/mnews/article/056/0012265991"
+      "title": "[속보]9월 수출액 1209억달러로 전년비 83.5% 증가…‘사상 최대’",
+      "url": "https://n.news.naver.com/mnews/article/018/0006378254"
     },
     {
-      "title": "명동선 피부상담, 공항선 맞춤 선물…롯데免, SK-II와 파트너십 체결",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666999"
+      "title": "마이크론 '메모리 슈퍼사이클' 재확인…삼전닉스 '훈풍' 계속",
+      "url": "https://n.news.naver.com/mnews/article/421/0009202324"
     },
     {
-      "title": "KB·하나·우리, 은행장 인선 돌입",
-      "url": "https://n.news.naver.com/mnews/article/011/0004667042"
+      "title": "500억불 투자 VS 미정…알래스카 LNG 대미투자 새 '뇌관'(종합2보)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016351392"
     },
     {
-      "title": "대미투자 원전 8기에 1200억달러 투자…미국땅에 한국형 원전 첫 진출",
-      "url": "https://n.news.naver.com/mnews/article/028/0002825453"
+      "title": "[속보] 신한은행장 “2만5000명 고객정보 유출…손해 전액 보상”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555076"
     },
     {
-      "title": "현대모비스, 1조원대 램프사업 물적분할…OP모빌리티에 전량 매각",
-      "url": "https://n.news.naver.com/mnews/article/123/0002391091"
+      "title": "이성훈 LH 사장 \"공급 시차 불가피…지금은 대출 규제 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014226613"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6782.07,
+      "value": 6952.31,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 853.88,
+      "value": 901.12,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26861.06,
-      "change": 63.53,
-      "change_pct": 0.24
+      "value": 26871.6,
+      "change": 10.54,
+      "change_pct": 0.04
     },
     "usdkrw": {
-      "value": 1358.18,
-      "change": 7.68,
-      "change_pct": 0.57
+      "value": 1356.84,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4182.8,
-    "price_krw": 5680995,
-    "change": 3.1,
-    "change_pct": 0.07
+    "price_usd": 4197.6,
+    "price_krw": 5695471,
+    "change": 10.9,
+    "change_pct": 0.26
   },
-  "updated": "2026-10-01 09:22",
+  "updated": "2026-10-02 09:32",
   "error": null
 }
