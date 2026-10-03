@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "한은 \"10월 물가상승률 3% 내외 높은 수준 예상\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001392625"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000513922"
     },
     {
-      "title": "장례비용 할인 업무협약 등[우리고장 반려동물]",
-      "url": "https://n.news.naver.com/mnews/article/662/0000105433"
+      "title": "\"계좌 안 보여요\"…대형 증권사 전산사고에 피해자만 2만명",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338830"
     },
     {
-      "title": "삼성전자, 자사주 매입 목표치 달성…수급 공백 불안감 [마켓시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004667737"
+      "title": "디티에스 등 4개사 수요예측…2개사 공모주 청약[IPO챗]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016355086"
     },
     {
-      "title": "예가람저축은행 고객 개인정보 유출…2금융권서 해킹",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338797"
-    },
-    {
-      "title": "美·英·佛 장기금리 수십년래 최고…글로벌 국채 투매 심화",
-      "url": "https://n.news.naver.com/mnews/article/016/0002704606"
-    },
-    {
-      "title": "“추석표 있나요?” 위장 접근한 코레일, 암표상 8명 잡았다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003752383"
-    },
-    {
-      "title": "최태원, SK 주식 팔아 재산분할 9440억 조달…지분율 변동 보니",
-      "url": "https://n.news.naver.com/mnews/article/008/0005421675"
+      "title": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
+      "url": "https://n.news.naver.com/mnews/article/001/0016356219"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414030"
+      "url": "https://n.news.naver.com/mnews/article/055/0001392791"
     },
     {
-      "title": "삼성바이오 노조 \"26일 2차 총파업\"…사측 \"영업익 15% 성과급 수용 어려워\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005421667"
+      "title": "경북 예천 소 농장서 구제역 추가 확인…전국 일주일 집중 소독",
+      "url": "https://n.news.naver.com/mnews/article/018/0006380171"
     },
     {
-      "title": "뉴욕 증시, 비농업 고용 지표 소화하며 상승 출발",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414198"
+      "title": "금융당국, 해킹 피해 확산에 내일 금융권 긴급소집",
+      "url": "https://n.news.naver.com/mnews/article/422/0000912338"
+    },
+    {
+      "title": "금리 더 오르겠어?…'지금이 기회' 2900억 뭉칫돈 몰린 곳 [투자톡]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338862"
+    },
+    {
+      "title": "영화 ‘암살자(들)’ 300억 투자 논란에…기업은행·산업은행 “외부 요청 없었다”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004163799"
+    },
+    {
+      "title": "美국채금리 5.3% 시대…비트코인, 하방 다지며 연말 랠리 시험대[금리 쇼크②]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014232418"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7003.74,
+      "change": 32.39,
+      "change_pct": 0.46
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 893.29,
+      "change": -1.0,
+      "change_pct": -0.11
     },
     "nasdaq": {
       "value": 27190.86,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4172.1,
-    "price_krw": 5601086,
-    "change": -30.2,
-    "change_pct": -0.72
+    "price_usd": 4162.3,
+    "price_krw": 5587929,
+    "change": -40.0,
+    "change_pct": -0.95
   },
-  "updated": "2026-10-03 09:10",
+  "updated": "2026-10-04 08:31",
   "error": null
 }
