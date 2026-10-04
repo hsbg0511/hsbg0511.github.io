@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000513922"
+      "title": "저축은행·캐피털·상호금융까지…해킹 공격 금융권 전방위로",
+      "url": "https://n.news.naver.com/mnews/article/586/0000139400"
     },
     {
-      "title": "\"계좌 안 보여요\"…대형 증권사 전산사고에 피해자만 2만명",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338830"
+      "title": "이억원, 금융권 해킹에 외부노출 IT자산 전수점검 주문…\"유사 사고 엄단\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824487"
     },
     {
-      "title": "디티에스 등 4개사 수요예측…2개사 공모주 청약[IPO챗]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016355086"
+      "title": "한국 금융, 두 달 된 중국산 AI에 뚫렸다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003474216"
     },
     {
-      "title": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
-      "url": "https://n.news.naver.com/mnews/article/001/0016356219"
+      "title": "최태원, ‘주주가치 최우선’ 바탕 지분 매각",
+      "url": "https://n.news.naver.com/mnews/article/022/0004164049"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001392791"
+      "title": "삼성전자, 용인 과학축제서 ‘반도체가 만드는 지역 미래’ 소개",
+      "url": "https://n.news.naver.com/mnews/article/022/0004163952"
     },
     {
-      "title": "경북 예천 소 농장서 구제역 추가 확인…전국 일주일 집중 소독",
-      "url": "https://n.news.naver.com/mnews/article/018/0006380171"
+      "title": "한전 직원 2만 4천여 명 개인정보 노출…\"고객 정보는 안전\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001393069"
     },
     {
-      "title": "금융당국, 해킹 피해 확산에 내일 금융권 긴급소집",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912338"
+      "title": "“컵밥 사먹기도 무섭네”…가공식품 26개 중 24개 가격 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/021/0002822981"
     },
     {
-      "title": "금리 더 오르겠어?…'지금이 기회' 2900억 뭉칫돈 몰린 곳 [투자톡]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338862"
+      "title": "알래스카 LNG 투자, 한미 안보 협의 새 변수로 부상",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705325"
     },
     {
-      "title": "영화 ‘암살자(들)’ 300억 투자 논란에…기업은행·산업은행 “외부 요청 없었다”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004163799"
+      "title": "제동 걸린 코스닥 '기업 솎아내기'…퇴출 피했지만 탈출도 막혔다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339081"
     },
     {
-      "title": "美국채금리 5.3% 시대…비트코인, 하방 다지며 연말 랠리 시험대[금리 쇼크②]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014232418"
+      "title": "민간아파트 부정청약 적발 5년간 1699건… 83%가 위장전입",
+      "url": "https://n.news.naver.com/mnews/article/469/0000957604"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1342.51,
-      "change": -14.33,
-      "change_pct": -1.06
+      "value": 1343.0,
+      "change": -17.59,
+      "change_pct": -1.29
     }
   },
   "gold": {
-    "price_usd": 4162.3,
-    "price_krw": 5587929,
-    "change": -40.0,
-    "change_pct": -0.95
+    "price_usd": 4174.0,
+    "price_krw": 5605682,
+    "change": 11.7,
+    "change_pct": 0.28
   },
-  "updated": "2026-10-04 08:31",
+  "updated": "2026-10-05 08:50",
   "error": null
 }
