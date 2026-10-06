@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "저축은행·캐피털·상호금융까지…해킹 공격 금융권 전방위로",
-      "url": "https://n.news.naver.com/mnews/article/586/0000139400"
+      "title": "이형일 부총리 \"민생 안정·잠재성장률 제고에 정책 역량 집중\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004195836"
     },
     {
-      "title": "이억원, 금융권 해킹에 외부노출 IT자산 전수점검 주문…\"유사 사고 엄단\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824487"
+      "title": "거제·통영 수해 소상공인, 최대 3억원 저금리 지원",
+      "url": "https://n.news.naver.com/mnews/article/029/0003051418"
     },
     {
-      "title": "한국 금융, 두 달 된 중국산 AI에 뚫렸다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003474216"
+      "title": "보험사 주담대 연체 악성화…'90일 이상' 연체액 절반 이상",
+      "url": "https://n.news.naver.com/mnews/article/001/0016358329"
     },
     {
-      "title": "최태원, ‘주주가치 최우선’ 바탕 지분 매각",
-      "url": "https://n.news.naver.com/mnews/article/022/0004164049"
+      "title": "\"수주 넘어 공동투자로\"…한·사우디 미래 첨단산업 파트너십 결속",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824904"
     },
     {
-      "title": "삼성전자, 용인 과학축제서 ‘반도체가 만드는 지역 미래’ 소개",
-      "url": "https://n.news.naver.com/mnews/article/022/0004163952"
+      "title": "“더 오를까” 비트코인 1억1600만원대…시장 심리는 ‘탐욕’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001876945"
     },
     {
-      "title": "한전 직원 2만 4천여 명 개인정보 노출…\"고객 정보는 안전\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001393069"
+      "title": "국민은행, 네이버페이·한국정보통신·이지샵과 업무협약",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339440"
     },
     {
-      "title": "“컵밥 사먹기도 무섭네”…가공식품 26개 중 24개 가격 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/021/0002822981"
+      "title": "KoAct 미국나스닥성장기업액티브, 나스닥 ETF 중 1개월 수익률 1위",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668409"
     },
     {
-      "title": "알래스카 LNG 투자, 한미 안보 협의 새 변수로 부상",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705325"
+      "title": "대우건설, '싱가포르 도시철도 프로젝트' 3개 부문 수상",
+      "url": "https://n.news.naver.com/mnews/article/014/0005585336"
     },
     {
-      "title": "제동 걸린 코스닥 '기업 솎아내기'…퇴출 피했지만 탈출도 막혔다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005339081"
+      "title": "NH증권 \"현대차, 4분기 실적 반등 기대…목표가는 하향\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016358469"
     },
     {
-      "title": "민간아파트 부정청약 적발 5년간 1699건… 83%가 위장전입",
-      "url": "https://n.news.naver.com/mnews/article/469/0000957604"
+      "title": "신라면 툼바, 떡볶이면 됐다…불닭·팔도도 라면 밖으로",
+      "url": "https://n.news.naver.com/mnews/article/022/0004164098"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7003.74,
-      "change": 32.39,
-      "change_pct": 0.46
+      "value": 6979.16,
+      "change": -24.58,
+      "change_pct": -0.35
     },
     "kosdaq": {
-      "value": 893.29,
-      "change": -1.0,
-      "change_pct": -0.11
+      "value": 911.66,
+      "change": 18.37,
+      "change_pct": 2.06
     },
     "nasdaq": {
-      "value": 27190.86,
-      "change": 319.26,
-      "change_pct": 1.19
+      "value": 27477.31,
+      "change": 286.45,
+      "change_pct": 1.05
     },
     "usdkrw": {
-      "value": 1343.0,
-      "change": -17.59,
-      "change_pct": -1.29
+      "value": 1344.58,
+      "change": 2.02,
+      "change_pct": 0.15
     }
   },
   "gold": {
-    "price_usd": 4174.0,
-    "price_krw": 5605682,
-    "change": 11.7,
-    "change_pct": 0.28
+    "price_usd": 4162.1,
+    "price_krw": 5596276,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-05 08:50",
+  "updated": "2026-10-06 10:40",
   "error": null
 }
