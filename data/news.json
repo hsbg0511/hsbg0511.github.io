@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이형일 부총리 \"민생 안정·잠재성장률 제고에 정책 역량 집중\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004195836"
+      "title": "'경자유전' 원칙이라는데…행안부 차관 모친 소유 땅 '농지법 위반'",
+      "url": "https://n.news.naver.com/mnews/article/088/0001032614"
     },
     {
-      "title": "거제·통영 수해 소상공인, 최대 3억원 저금리 지원",
-      "url": "https://n.news.naver.com/mnews/article/029/0003051418"
+      "title": "SK하이닉스가 아직 170만원대?...\"너무 저평가, 400만원 간다\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005585878"
     },
     {
-      "title": "보험사 주담대 연체 악성화…'90일 이상' 연체액 절반 이상",
-      "url": "https://n.news.naver.com/mnews/article/001/0016358329"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002415456"
     },
     {
-      "title": "\"수주 넘어 공동투자로\"…한·사우디 미래 첨단산업 파트너십 결속",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824904"
+      "title": "신세계 '유통·콘텐츠' 시너지",
+      "url": "https://n.news.naver.com/mnews/article/009/0005744787"
     },
     {
-      "title": "“더 오를까” 비트코인 1억1600만원대…시장 심리는 ‘탐욕’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001876945"
+      "title": "\"노조 기본은 연대\"…여야 모두에 질타받은 삼전 반도체 노조위원장",
+      "url": "https://n.news.naver.com/mnews/article/079/0004196189"
     },
     {
-      "title": "국민은행, 네이버페이·한국정보통신·이지샵과 업무협약",
-      "url": "https://n.news.naver.com/mnews/article/015/0005339440"
+      "title": "삼성바이오 노조, '2대 주주' 삼성전자에 첫 단체교섭 요구",
+      "url": "https://n.news.naver.com/mnews/article/422/0000913024"
     },
     {
-      "title": "KoAct 미국나스닥성장기업액티브, 나스닥 ETF 중 1개월 수익률 1위",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668409"
+      "title": "실적 기대에 뉴욕증시 상승…S&P500 첫 7800 돌파·나스닥도 최고치",
+      "url": "https://n.news.naver.com/mnews/article/023/0004002506"
     },
     {
-      "title": "대우건설, '싱가포르 도시철도 프로젝트' 3개 부문 수상",
-      "url": "https://n.news.naver.com/mnews/article/014/0005585336"
+      "title": "삼성전자 '꿈의 영업이익' 눈앞 … 100조 훌쩍 넘나, 살짝 넘나",
+      "url": "https://n.news.naver.com/mnews/article/009/0005744701"
     },
     {
-      "title": "NH증권 \"현대차, 4분기 실적 반등 기대…목표가는 하향\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016358469"
+      "title": "포스코퓨처엠, 삼성SDI에 LFP 양극재 6조원어치 공급",
+      "url": "https://n.news.naver.com/mnews/article/050/0000111703"
     },
     {
-      "title": "신라면 툼바, 떡볶이면 됐다…불닭·팔도도 라면 밖으로",
-      "url": "https://n.news.naver.com/mnews/article/022/0004164098"
+      "title": "DS증권, 삼성전기 목표가↑…\"MLCC·기판 동반 호조\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016361289"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6979.16,
-      "change": -24.58,
-      "change_pct": -0.35
+      "value": 6898.6,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 911.66,
-      "change": 18.37,
-      "change_pct": 2.06
+      "value": 918.72,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27477.31,
-      "change": 286.45,
-      "change_pct": 1.05
+      "value": 27599.89,
+      "change": 122.58,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1344.58,
-      "change": 2.02,
-      "change_pct": 0.15
+      "value": 1340.1,
+      "change": -3.65,
+      "change_pct": -0.27
     }
   },
   "gold": {
-    "price_usd": 4162.1,
-    "price_krw": 5596276,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4196.7,
+    "price_krw": 5623997,
+    "change": 39.9,
+    "change_pct": 0.96
   },
-  "updated": "2026-10-06 10:40",
+  "updated": "2026-10-07 09:22",
   "error": null
 }
