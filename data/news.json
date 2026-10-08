@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'경자유전' 원칙이라는데…행안부 차관 모친 소유 땅 '농지법 위반'",
-      "url": "https://n.news.naver.com/mnews/article/088/0001032614"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000514449"
     },
     {
-      "title": "SK하이닉스가 아직 170만원대?...\"너무 저평가, 400만원 간다\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005585878"
+      "title": "법원에 제동걸린 '시총 미달 상폐'…거래소 \"후속 상폐절차 유예\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016363952"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002415456"
+      "url": "https://n.news.naver.com/mnews/article/056/0012269433"
     },
     {
-      "title": "신세계 '유통·콘텐츠' 시너지",
-      "url": "https://n.news.naver.com/mnews/article/009/0005744787"
+      "title": "삼성證 \"3분기 어닝쇼크에도 신사업 기대…목표가 25만원↑\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014240538"
     },
     {
-      "title": "\"노조 기본은 연대\"…여야 모두에 질타받은 삼전 반도체 노조위원장",
-      "url": "https://n.news.naver.com/mnews/article/079/0004196189"
+      "title": "\"전쟁통에 기름값 왜 올랐나 했더니\"…'44조' 유가 담합 딱 걸렸다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268413"
     },
     {
-      "title": "삼성바이오 노조, '2대 주주' 삼성전자에 첫 단체교섭 요구",
-      "url": "https://n.news.naver.com/mnews/article/422/0000913024"
+      "title": "금융권 해킹범, 중국 사는 26살?...\"이름은 YY\" AI에 정보 남았다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005423676"
     },
     {
-      "title": "실적 기대에 뉴욕증시 상승…S&P500 첫 7800 돌파·나스닥도 최고치",
-      "url": "https://n.news.naver.com/mnews/article/023/0004002506"
+      "title": "HD현대 정기선號, 첫 사장단 인사",
+      "url": "https://n.news.naver.com/mnews/article/015/0005340275"
     },
     {
-      "title": "삼성전자 '꿈의 영업이익' 눈앞 … 100조 훌쩍 넘나, 살짝 넘나",
-      "url": "https://n.news.naver.com/mnews/article/009/0005744701"
+      "title": "뉴욕증시, 국채금리 고공행진에 하락 마감",
+      "url": "https://n.news.naver.com/mnews/article/052/0002416089"
     },
     {
-      "title": "포스코퓨처엠, 삼성SDI에 LFP 양극재 6조원어치 공급",
-      "url": "https://n.news.naver.com/mnews/article/050/0000111703"
+      "title": "포스코홀딩스, 아르헨 리튬 2공장 준공…연산 5만톤 규모",
+      "url": "https://n.news.naver.com/mnews/article/374/0000536606"
     },
     {
-      "title": "DS증권, 삼성전기 목표가↑…\"MLCC·기판 동반 호조\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016361289"
+      "title": "아마존서 '음성 AI' 개발하다가 '피지컬 AI' 로봇 회사 수장으로…보스턴다이내믹스 CEO 선임",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339973"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6898.6,
+      "value": 6780.91,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 918.72,
+      "value": 890.29,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27599.89,
-      "change": 122.58,
-      "change_pct": 0.45
+      "value": 27538.69,
+      "change": -61.1,
+      "change_pct": -0.22
     },
     "usdkrw": {
-      "value": 1340.1,
-      "change": -3.65,
-      "change_pct": -0.27
+      "value": 1337.98,
+      "change": -1.76,
+      "change_pct": -0.13
     }
   },
   "gold": {
-    "price_usd": 4196.7,
-    "price_krw": 5623997,
-    "change": 39.9,
-    "change_pct": 0.96
+    "price_usd": 4131.8,
+    "price_krw": 5528265,
+    "change": -55.3,
+    "change_pct": -1.32
   },
-  "updated": "2026-10-07 09:22",
+  "updated": "2026-10-08 09:43",
   "error": null
 }
