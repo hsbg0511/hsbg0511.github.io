@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "삼성전자, 분기 영업익 100조 돌파…국내 기업 사상 최초",
+      "url": "https://n.news.naver.com/mnews/article/656/0000188913"
+    },
+    {
+      "title": "개발 기대감에 ‘도로 지분 쪼개기’…서울 전역 토허구역 묶는다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006383413"
+    },
+    {
+      "title": "‘유가 담합 의혹’ SK에너지, 거래 관행 개선책 발표",
+      "url": "https://n.news.naver.com/mnews/article/366/0001196926"
+    },
+    {
+      "title": "주요 은행 탈탈 턴 해킹범은 1명? 26세 중국인 추정…신원 단서 포착",
+      "url": "https://n.news.naver.com/mnews/article/021/0002823801"
+    },
+    {
+      "title": "‘분기 최대 매출’ 호실적에 LG엔솔 3%대 상승 [줍줍리포트]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669334"
+    },
+    {
+      "title": "넥쏘, 日 판매량 쑥 … 깐깐한 택시 시장 공략 통했다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746147"
+    },
+    {
+      "title": "경상흑자 461억달러 '역대 2위'…한은 \"9월엔 더 좋을 것\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005423767"
+    },
+    {
+      "title": "홍지선 국토장관, 공공 이어 민간 주택현장 점검...착공 지원기구 출범 예고",
+      "url": "https://n.news.naver.com/mnews/article/014/0005586766"
+    },
+    {
+      "title": "\"단일ETF, 주식판을 바다이야기 시즌2로\"…\"여러 보호장치 도입했다\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424017"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000514449"
-    },
-    {
-      "title": "법원에 제동걸린 '시총 미달 상폐'…거래소 \"후속 상폐절차 유예\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016363952"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012269433"
-    },
-    {
-      "title": "삼성證 \"3분기 어닝쇼크에도 신사업 기대…목표가 25만원↑\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014240538"
-    },
-    {
-      "title": "\"전쟁통에 기름값 왜 올랐나 했더니\"…'44조' 유가 담합 딱 걸렸다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001268413"
-    },
-    {
-      "title": "금융권 해킹범, 중국 사는 26살?...\"이름은 YY\" AI에 정보 남았다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005423676"
-    },
-    {
-      "title": "HD현대 정기선號, 첫 사장단 인사",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340275"
-    },
-    {
-      "title": "뉴욕증시, 국채금리 고공행진에 하락 마감",
-      "url": "https://n.news.naver.com/mnews/article/052/0002416089"
-    },
-    {
-      "title": "포스코홀딩스, 아르헨 리튬 2공장 준공…연산 5만톤 규모",
-      "url": "https://n.news.naver.com/mnews/article/374/0000536606"
-    },
-    {
-      "title": "아마존서 '음성 AI' 개발하다가 '피지컬 AI' 로봇 회사 수장으로…보스턴다이내믹스 CEO 선임",
-      "url": "https://n.news.naver.com/mnews/article/015/0005339973"
+      "url": "https://n.news.naver.com/mnews/article/052/0002416376"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6780.91,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 890.29,
+      "value": 898.43,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27538.69,
-      "change": -61.1,
-      "change_pct": -0.22
+      "value": 27193.34,
+      "change": -345.35,
+      "change_pct": -1.25
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": -1.76,
-      "change_pct": -0.13
+      "value": 1344.9,
+      "change": 5.82,
+      "change_pct": 0.43
     }
   },
   "gold": {
-    "price_usd": 4131.8,
-    "price_krw": 5528265,
-    "change": -55.3,
-    "change_pct": -1.32
+    "price_usd": 4169.3,
+    "price_krw": 5607291,
+    "change": 28.6,
+    "change_pct": 0.69
   },
-  "updated": "2026-10-08 09:43",
+  "updated": "2026-10-09 09:59",
   "error": null
 }
