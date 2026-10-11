@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002416632"
+      "title": "'그림자 농부' 양지로 나오나…고령농·청년농 잇는 농지 개혁[농지, 다시 묻다②]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014244051"
     },
     {
-      "title": "뿔난 농민에 한발 더 뺀 농지 처분… CPTPP도 연내 가입 안 한다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003687400"
+      "title": "\"국세청 세법 개정 건의에 재경부 80% 퇴짜…재탕 174건\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016368184"
     },
     {
-      "title": "설익은 ‘부실 기업 상장폐지’, 법원이 제동… 애꿎은 개미 돈만 묶였다",
-      "url": "https://n.news.naver.com/mnews/article/023/0004002910"
+      "title": "해킹 후폭풍?…5대 은행 예치금 일주일새 20조 증발",
+      "url": "https://n.news.naver.com/mnews/article/005/0001877880"
     },
     {
-      "title": "전국 시장 120곳·점포 133곳 한자리에…공주가 '전통시장 축제장'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009219395"
+      "title": "“해킹 불안 커지는데”…보안예산 70%도 못 쓴 금융사들",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746559"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000514895"
+      "title": "이번 주 전국 휘발유 가격 소폭 하락…경유는 보합세",
+      "url": "https://n.news.naver.com/mnews/article/018/0006385006"
     },
     {
-      "title": "[2보] 최태원 \"호남권 반도체, 용인의 3분의 2 규모…최대한 빨리 짓겠다\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003141204"
+      "title": "최태원, 호남 반도체 부지 찾아 “전력·용수 늦어져도 착공부터”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003069"
     },
     {
-      "title": "2.3조 vs 54조… 레버리지 손실 추정액 23배 차이나는 까닭 [팩트체크]",
-      "url": "https://n.news.naver.com/mnews/article/005/0001877826"
+      "title": "美 국채금리 6%까지 치솟나…세계 최대 채권운용사 핌코 경고",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424334"
     },
     {
-      "title": "금융권 해외발 해킹 18건… 이 중 16건은 누가 했는지 모른다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000958567"
+      "title": "'예정대로 과세'에서 '의견수렴'으로…'가상자산 과세' 미묘한 기류 변화",
+      "url": "https://n.news.naver.com/mnews/article/079/0004197367"
     },
     {
-      "title": "AI 타고 고도화된 해킹…상반기 사이버보험료 26% 껑충",
-      "url": "https://n.news.naver.com/mnews/article/003/0014243089"
+      "title": "당장 10억이 어디 있나요…요즘 사람들 청약통장 깨는 이유 있었다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669881"
     },
     {
-      "title": "전기차 캐즘 끝나나…LG엔솔, 9.6조 최대 매출",
-      "url": "https://n.news.naver.com/mnews/article/025/0003556744"
+      "title": "한국 금융권 해킹 공격에 쓰인 '아르텍스', 공개 중단",
+      "url": "https://n.news.naver.com/mnews/article/437/0000515035"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.02,
-      "change": 0.94,
-      "change_pct": 0.07
+      "value": 1340.9,
+      "change": -2.09,
+      "change_pct": -0.16
     }
   },
   "gold": {
-    "price_usd": 4220.3,
-    "price_krw": 5655286,
-    "change": 63.3,
-    "change_pct": 1.52
+    "price_usd": 4216.3,
+    "price_krw": 5653636,
+    "change": 59.3,
+    "change_pct": 1.43
   },
-  "updated": "2026-10-10 09:29",
+  "updated": "2026-10-11 09:05",
   "error": null
 }
