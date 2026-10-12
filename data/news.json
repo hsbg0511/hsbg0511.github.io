@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "'그림자 농부' 양지로 나오나…고령농·청년농 잇는 농지 개혁[농지, 다시 묻다②]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014244051"
+      "title": "셀트리온 영업익 첫 5000억 돌파…서정진 목표 적중",
+      "url": "https://n.news.naver.com/mnews/article/417/0001160564"
     },
     {
-      "title": "\"국세청 세법 개정 건의에 재경부 80% 퇴짜…재탕 174건\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016368184"
+      "title": "‘탱크데이’ 논란 5개월 만에···스타벅스, 투썸 제치고 1위 탈환",
+      "url": "https://n.news.naver.com/mnews/article/032/0003475473"
     },
     {
-      "title": "해킹 후폭풍?…5대 은행 예치금 일주일새 20조 증발",
-      "url": "https://n.news.naver.com/mnews/article/005/0001877880"
+      "title": "'금융사 좀비 추심' 제동...李 \"죽을 때까지 10배, 20배 빚 늘어\" 직격",
+      "url": "https://n.news.naver.com/mnews/article/014/0005587556"
     },
     {
-      "title": "“해킹 불안 커지는데”…보안예산 70%도 못 쓴 금융사들",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746559"
+      "title": "메리츠증권, SK하이닉스 목표가↑…\"3분기 영업익 80조원 전망\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016369732"
     },
     {
-      "title": "이번 주 전국 휘발유 가격 소폭 하락…경유는 보합세",
-      "url": "https://n.news.naver.com/mnews/article/018/0006385006"
+      "title": "HLB, 미국 FDA에 간암 신약 허가 재신청",
+      "url": "https://n.news.naver.com/mnews/article/001/0016369752"
     },
     {
-      "title": "최태원, 호남 반도체 부지 찾아 “전력·용수 늦어져도 착공부터”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003069"
+      "title": "\"앤트로픽, 아이렌과 클라우드 계약\"…데이터센터 확보 속도전",
+      "url": "https://n.news.naver.com/mnews/article/001/0016369680"
     },
     {
-      "title": "美 국채금리 6%까지 치솟나…세계 최대 채권운용사 핌코 경고",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424334"
+      "title": "한은·국책은행도 해킹 시도 급증…올해만 100만건 넘어",
+      "url": "https://n.news.naver.com/mnews/article/001/0016368599"
     },
     {
-      "title": "'예정대로 과세'에서 '의견수렴'으로…'가상자산 과세' 미묘한 기류 변화",
-      "url": "https://n.news.naver.com/mnews/article/079/0004197367"
+      "title": "\"로봇 D램 수요 20배 폭증\"…삼전닉스 주식 아직 팔지마?",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424487"
     },
     {
-      "title": "당장 10억이 어디 있나요…요즘 사람들 청약통장 깨는 이유 있었다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669881"
+      "title": "LH, 서울서 매입임대 2만 가구 공급 …수도권 4만 가구 연내 착공",
+      "url": "https://n.news.naver.com/mnews/article/448/0000644175"
     },
     {
-      "title": "한국 금융권 해킹 공격에 쓰인 '아르텍스', 공개 중단",
-      "url": "https://n.news.naver.com/mnews/article/437/0000515035"
+      "title": "현대차는 ‘데스 밸리’ 진입… “앞으로 2년 힘겹게 버텨야”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003248"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6625.93,
-      "change": -177.97,
-      "change_pct": -2.62
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 892.27,
-      "change": -6.16,
-      "change_pct": -0.69
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 27366.17,
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.9,
-      "change": -2.09,
-      "change_pct": -0.16
+      "value": 1337.94,
+      "change": -5.05,
+      "change_pct": -0.38
     }
   },
   "gold": {
-    "price_usd": 4216.3,
-    "price_krw": 5653636,
-    "change": 59.3,
-    "change_pct": 1.43
+    "price_usd": 4217.0,
+    "price_krw": 5642092,
+    "change": 0.7,
+    "change_pct": 0.02
   },
-  "updated": "2026-10-11 09:05",
+  "updated": "2026-10-12 09:14",
   "error": null
 }
