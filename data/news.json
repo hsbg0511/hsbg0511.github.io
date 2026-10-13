@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "셀트리온 영업익 첫 5000억 돌파…서정진 목표 적중",
-      "url": "https://n.news.naver.com/mnews/article/417/0001160564"
+      "title": "LH 사장 \"집값 급락 가능성…지금 집 안사도 손해 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000914775"
     },
     {
-      "title": "‘탱크데이’ 논란 5개월 만에···스타벅스, 투썸 제치고 1위 탈환",
-      "url": "https://n.news.naver.com/mnews/article/032/0003475473"
+      "title": "롯데쇼핑, 대기업 첫 ‘주주 우대 제도’… 주식 1주만 있어도 할인",
+      "url": "https://n.news.naver.com/mnews/article/366/0001197501"
     },
     {
-      "title": "'금융사 좀비 추심' 제동...李 \"죽을 때까지 10배, 20배 빚 늘어\" 직격",
-      "url": "https://n.news.naver.com/mnews/article/014/0005587556"
+      "title": "코스피, 장중 4%대 급락…약 2달만 ‘매도 사이드카’ 발동",
+      "url": "https://n.news.naver.com/mnews/article/081/0003688349"
     },
     {
-      "title": "메리츠증권, SK하이닉스 목표가↑…\"3분기 영업익 80조원 전망\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016369732"
+      "title": "서울신라호텔, 5년 연속 '라 리스트' 세계 1000대 레스토랑 4곳 선정",
+      "url": "https://n.news.naver.com/mnews/article/277/0005827541"
     },
     {
-      "title": "HLB, 미국 FDA에 간암 신약 허가 재신청",
-      "url": "https://n.news.naver.com/mnews/article/001/0016369752"
+      "title": "서울 정비사업 현황 한눈에 본다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005587723"
     },
     {
-      "title": "\"앤트로픽, 아이렌과 클라우드 계약\"…데이터센터 확보 속도전",
-      "url": "https://n.news.naver.com/mnews/article/001/0016369680"
+      "title": "FIU, 쿠코인ㆍMEXC 등 불법 가상자산 사이트 27건 접속 차단",
+      "url": "https://n.news.naver.com/mnews/article/366/0001197550"
     },
     {
-      "title": "한은·국책은행도 해킹 시도 급증…올해만 100만건 넘어",
-      "url": "https://n.news.naver.com/mnews/article/001/0016368599"
+      "title": "셀트리온 3분기 영업이익 5,100억 원…69.2% 늘며 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/422/0000914658"
     },
     {
-      "title": "\"로봇 D램 수요 20배 폭증\"…삼전닉스 주식 아직 팔지마?",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424487"
+      "title": "이노션, ‘시네마바이브랜드’ 첫 공개…김정아 대표 “광고역량, 영화로 확장”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004670578"
     },
     {
-      "title": "LH, 서울서 매입임대 2만 가구 공급 …수도권 4만 가구 연내 착공",
-      "url": "https://n.news.naver.com/mnews/article/448/0000644175"
+      "title": "북극항로 왕복 성공, 경제성은 '숙제'…운항 결과 검증 요구",
+      "url": "https://n.news.naver.com/mnews/article/629/0000541308"
     },
     {
-      "title": "현대차는 ‘데스 밸리’ 진입… “앞으로 2년 힘겹게 버텨야”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003248"
+      "title": "최태원 호남 반도체 팹 철회설 진화에…호남 기반株 이틀째 강세",
+      "url": "https://n.news.naver.com/mnews/article/008/0005425336"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6625.93,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 5982.09,
+      "change": -402.15,
+      "change_pct": -6.3
     },
     "kosdaq": {
-      "value": 892.27,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 810.29,
+      "change": -38.9,
+      "change_pct": -4.58
     },
     "nasdaq": {
-      "value": 27366.17,
-      "change": 172.83,
-      "change_pct": 0.64
+      "value": 27245.9,
+      "change": -120.27,
+      "change_pct": -0.44
     },
     "usdkrw": {
-      "value": 1337.94,
-      "change": -5.05,
-      "change_pct": -0.38
+      "value": 1338.88,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4217.0,
-    "price_krw": 5642092,
-    "change": 0.7,
-    "change_pct": 0.02
+    "price_usd": 4190.1,
+    "price_krw": 5610041,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-12 09:14",
+  "updated": "2026-10-13 11:25",
   "error": null
 }
