@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LH 사장 \"집값 급락 가능성…지금 집 안사도 손해 아냐\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000914775"
+      "title": "‘반도체 대표’ 필리 지수 5거래일 연속 하락…7월말 이후 처음",
+      "url": "https://n.news.naver.com/mnews/article/056/0012273214"
     },
     {
-      "title": "롯데쇼핑, 대기업 첫 ‘주주 우대 제도’… 주식 1주만 있어도 할인",
-      "url": "https://n.news.naver.com/mnews/article/366/0001197501"
+      "title": "롯데쇼핑 1주만 있어도 할인 쿠폰…1000주 넘으면 백화점 라운지",
+      "url": "https://n.news.naver.com/mnews/article/028/0002827185"
     },
     {
-      "title": "코스피, 장중 4%대 급락…약 2달만 ‘매도 사이드카’ 발동",
-      "url": "https://n.news.naver.com/mnews/article/081/0003688349"
+      "title": "이재용, 홍라희 삼성전자 주식 2.6조 증여받는다…증여세만 1조 넘어",
+      "url": "https://n.news.naver.com/mnews/article/016/0002708819"
     },
     {
-      "title": "서울신라호텔, 5년 연속 '라 리스트' 세계 1000대 레스토랑 4곳 선정",
-      "url": "https://n.news.naver.com/mnews/article/277/0005827541"
+      "title": "석달만에 … IMF, 올 韓성장률 3.3%로 상향",
+      "url": "https://n.news.naver.com/mnews/article/009/0005748033"
     },
     {
-      "title": "서울 정비사업 현황 한눈에 본다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005587723"
+      "title": "새마을금고도 뚫렸다…'계좌번호·잔액' 등 400여명 고객정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/003/0014250842"
     },
     {
-      "title": "FIU, 쿠코인ㆍMEXC 등 불법 가상자산 사이트 27건 접속 차단",
-      "url": "https://n.news.naver.com/mnews/article/366/0001197550"
+      "title": "中반도체 D램 승부수에 삼전닉스 '휘청'…\"이익률 하락할 수도\" [이슈+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005342106"
     },
     {
-      "title": "셀트리온 3분기 영업이익 5,100억 원…69.2% 늘며 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/422/0000914658"
+      "title": "中 반도체 추격·은행 실적 실망에 3대 지수 일제 하락 [뉴욕증시 브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005342236"
     },
     {
-      "title": "이노션, ‘시네마바이브랜드’ 첫 공개…김정아 대표 “광고역량, 영화로 확장”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004670578"
+      "title": "코레일 사장 “내년 KTX 요금, 물가상승률 만큼 인상 고민”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001197719"
     },
     {
-      "title": "북극항로 왕복 성공, 경제성은 '숙제'…운항 결과 검증 요구",
-      "url": "https://n.news.naver.com/mnews/article/629/0000541308"
+      "title": "임광현 \"가상자산 과세 고시 다음 달로 준비\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001395150"
     },
     {
-      "title": "최태원 호남 반도체 팹 철회설 진화에…호남 기반株 이틀째 강세",
-      "url": "https://n.news.naver.com/mnews/article/008/0005425336"
+      "title": "“3기 신도시 용적률 높여 6.4만가구 더…수도권 주택 공급·이주 수요 동시에 해결”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005748075"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5982.09,
-      "change": -402.15,
-      "change_pct": -6.3
-    },
-    "kosdaq": {
-      "value": 810.29,
-      "change": -38.9,
-      "change_pct": -4.58
-    },
-    "nasdaq": {
-      "value": 27245.9,
-      "change": -120.27,
-      "change_pct": -0.44
-    },
-    "usdkrw": {
-      "value": 1338.88,
+      "value": 6035.35,
       "change": 0.0,
       "change_pct": 0.0
+    },
+    "kosdaq": {
+      "value": 837.03,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "nasdaq": {
+      "value": 27204.38,
+      "change": -41.52,
+      "change_pct": -0.15
+    },
+    "usdkrw": {
+      "value": 1339.19,
+      "change": 5.06,
+      "change_pct": 0.38
     }
   },
   "gold": {
-    "price_usd": 4190.1,
-    "price_krw": 5610041,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4178.3,
+    "price_krw": 5595537,
+    "change": -12.3,
+    "change_pct": -0.29
   },
-  "updated": "2026-10-13 11:25",
+  "updated": "2026-10-14 09:09",
   "error": null
 }
