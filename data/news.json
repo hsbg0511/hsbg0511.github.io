@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "‘반도체 대표’ 필리 지수 5거래일 연속 하락…7월말 이후 처음",
-      "url": "https://n.news.naver.com/mnews/article/056/0012273214"
+      "title": "SK 등 국내 대기업, 美 웨스팅하우스 지분 인수 검토",
+      "url": "https://n.news.naver.com/mnews/article/366/0001197992"
     },
     {
-      "title": "롯데쇼핑 1주만 있어도 할인 쿠폰…1000주 넘으면 백화점 라운지",
-      "url": "https://n.news.naver.com/mnews/article/028/0002827185"
+      "title": "신세계百, 도쿄서 K-브랜드 팝업…\"푸드·패션기업 해외 진출 지원\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000537864"
     },
     {
-      "title": "이재용, 홍라희 삼성전자 주식 2.6조 증여받는다…증여세만 1조 넘어",
-      "url": "https://n.news.naver.com/mnews/article/016/0002708819"
+      "title": "조현범 회장, 바텀업 혁신 강조…\"구성원이 문제 찾고 해결해야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009227361"
     },
     {
-      "title": "석달만에 … IMF, 올 韓성장률 3.3%로 상향",
-      "url": "https://n.news.naver.com/mnews/article/009/0005748033"
+      "title": "\"더 잘하겠습니다\"… K반도체 '양강' 출동",
+      "url": "https://n.news.naver.com/mnews/article/008/0005426483"
     },
     {
-      "title": "새마을금고도 뚫렸다…'계좌번호·잔액' 등 400여명 고객정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/003/0014250842"
+      "title": "농지은행 매입 대기 3300ha 달해…\"지역별 예산 불균형·임차농 보호책 시급\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004198822"
     },
     {
-      "title": "中반도체 D램 승부수에 삼전닉스 '휘청'…\"이익률 하락할 수도\" [이슈+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005342106"
+      "title": "LG+애플 ‘AI 스마트홈 기기’ 7종 공개, 도어락·온도조절기…",
+      "url": "https://n.news.naver.com/mnews/article/028/0002827369"
     },
     {
-      "title": "中 반도체 추격·은행 실적 실망에 3대 지수 일제 하락 [뉴욕증시 브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005342236"
+      "title": "22년만 세계철강협회 총회 서울 개최 따냈다",
+      "url": "https://n.news.naver.com/mnews/article/029/0003053018"
     },
     {
-      "title": "코레일 사장 “내년 KTX 요금, 물가상승률 만큼 인상 고민”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001197719"
+      "title": "취임 6주년 정의선 \"인도서 자동차 넘어 인프라·에너지 투자\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016377667"
     },
     {
-      "title": "임광현 \"가상자산 과세 고시 다음 달로 준비\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001395150"
+      "title": "[속보] 당국 \"금융사 침해사고 발생 총 16곳…약 10만건 유출\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005342429"
     },
     {
-      "title": "“3기 신도시 용적률 높여 6.4만가구 더…수도권 주택 공급·이주 수요 동시에 해결”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005748075"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000915497"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27204.38,
-      "change": -41.52,
-      "change_pct": -0.15
+      "value": 26692.87,
+      "change": -511.51,
+      "change_pct": -1.88
     },
     "usdkrw": {
-      "value": 1339.19,
-      "change": 5.06,
-      "change_pct": 0.38
+      "value": 1341.14,
+      "change": 0.83,
+      "change_pct": 0.06
     }
   },
   "gold": {
-    "price_usd": 4178.3,
-    "price_krw": 5595537,
-    "change": -12.3,
-    "change_pct": -0.29
+    "price_usd": 4123.9,
+    "price_krw": 5530727,
+    "change": -53.4,
+    "change_pct": -1.28
   },
-  "updated": "2026-10-14 09:09",
+  "updated": "2026-10-15 08:43",
   "error": null
 }
