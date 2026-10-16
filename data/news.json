@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"AI 슈퍼사이클 벌써 끝났나\"…나흘 만에 시총 1조달러 증발",
-      "url": "https://n.news.naver.com/mnews/article/015/0005343166"
+      "title": "신진창 금융위 부위원장 “증시 변동성·금융사 해킹 등 금융 안정이 중요”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198465"
     },
     {
-      "title": "이마트 노브랜드, 캐릭터 '오리덕후' 협업 상품 16종 출시",
-      "url": "https://n.news.naver.com/mnews/article/421/0009231092"
+      "title": "강호동 농협중앙회장 \"중앙회장 선거 조합원 직선제 수용...개혁 속도\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002419578"
     },
     {
-      "title": "주담대 변동금리 또 오른다…코픽스 3년 10개월 만 최대폭 상승",
-      "url": "https://n.news.naver.com/mnews/article/055/0001395753"
+      "title": "주택공급 총력전…정부, 착공·분양·입주 상황판 가동",
+      "url": "https://n.news.naver.com/mnews/article/374/0000538264"
     },
     {
-      "title": "부동산원장 “주간 아파트값 통계 유의미”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004167019"
+      "title": "한국 주식 200배 레버리지 선물에 금융당국 “보호 안돼” 경고",
+      "url": "https://n.news.naver.com/mnews/article/081/0003689762"
     },
     {
-      "title": "고리 3·4호기 사고관리계획서 승인…계속운전 허가는 보류",
-      "url": "https://n.news.naver.com/mnews/article/082/0001402727"
+      "title": "두산에너빌리티, '재무통' 박상현 부회장 전진배치…'엔지니어 출신' 송용진 사장 COO 맡아",
+      "url": "https://n.news.naver.com/mnews/article/003/0014258974"
     },
     {
-      "title": "5일 만에 완판되더니 무슨 일?…2차 국민참여성장펀드, 목표액 미달",
-      "url": "https://n.news.naver.com/mnews/article/016/0002709987"
+      "title": "한미 2+2 재무·통화 수장 사상 첫 회동…태국서 4자면담",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829653"
     },
     {
-      "title": "한국산 비만약 '개봉박두', 언제 출시되고 얼마나 저렴할까",
-      "url": "https://n.news.naver.com/mnews/article/243/0000104267"
+      "title": "국제선 유류할증료 3개월 연속 상승…뉴욕 왕복 9만1천원↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016380924"
     },
     {
-      "title": "코스닥 이어 코스피도 1단계 서킷브레이커 발동",
-      "url": "https://n.news.naver.com/mnews/article/660/0000119122"
+      "title": "“픽업·반납? 알아서 갈게요!”…기아, 판교서 PV5 카셰어링 실증",
+      "url": "https://n.news.naver.com/mnews/article/009/0005749421"
     },
     {
-      "title": "\"한미 전략투자 이젠 실행\" \"약속 지킨다\" 양국 정·재계, 투자 이행 한 목소리",
-      "url": "https://n.news.naver.com/mnews/article/014/0005589646"
+      "title": "'1000명 해고' 넷플릭스…'오겜' '웬즈데이' 만든 임원도 해고",
+      "url": "https://n.news.naver.com/mnews/article/008/0005427324"
     },
     {
-      "title": "젠슨 황 발언에 AI 낙폭 축소…일제히 상승 마감[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005829220"
+      "title": "울산 9월 고용률 61.1%…취업자 1만2명 증가",
+      "url": "https://n.news.naver.com/mnews/article/003/0014257681"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6008.81,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 823.88,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26713.03,
-      "change": 20.16,
-      "change_pct": 0.08
+      "value": 26140.03,
+      "change": -573.0,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1340.55,
-      "change": 1.2,
-      "change_pct": 0.09
+      "value": 1334.2,
+      "change": -6.75,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4184.4,
-    "price_krw": 5609397,
-    "change": 76.5,
-    "change_pct": 1.86
+    "price_usd": 4186.7,
+    "price_krw": 5585895,
+    "change": 16.6,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-16 08:32",
+  "updated": "2026-10-17 08:15",
   "error": null
 }
