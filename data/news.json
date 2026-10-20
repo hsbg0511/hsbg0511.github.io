@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "부모 됐더니…가사·돌봄 4시간, 미혼 친구의 4배",
-      "url": "https://n.news.naver.com/mnews/article/025/0003559021"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012277525"
     },
     {
-      "title": "1330원 코앞에서 멈춘 원-달러 환율…더 안 떨어지는 이유는?",
-      "url": "https://n.news.naver.com/mnews/article/028/0002828103"
+      "title": "이소영 장관 \"국가 성장 프로젝트 中企 주도적 역할 찾겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005831141"
     },
     {
-      "title": "바코드 찍으면 요리가 된다…CU, 편의점에 푸드테크 도입",
-      "url": "https://n.news.naver.com/mnews/article/277/0005830672"
+      "title": "“솔리다임 美 상장 막으라”는 정치권…우리 정부에 저지 권한 있나",
+      "url": "https://n.news.naver.com/mnews/article/023/0004004866"
     },
     {
-      "title": "빅테크에 반도체 기판…삼성전기 3600억 수주",
-      "url": "https://n.news.naver.com/mnews/article/015/0005344208"
+      "title": "\"건보료 더 내라고?\"…394만세대 추가 납부 3조3000억 전망",
+      "url": "https://n.news.naver.com/mnews/article/015/0005344278"
     },
     {
-      "title": "5대 은행장 '해킹 국감'서 줄사과…\"피해 재발 막겠다\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016386804"
+      "title": "중앙일보 매각은 속도…JTBC는 매각 공고 11월로 연기",
+      "url": "https://n.news.naver.com/mnews/article/001/0016387120"
     },
     {
-      "title": "SK하이닉스 협력사에 2조 상생금융…정부 \"반도체분야 5조 이상 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005591210"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001396780"
     },
     {
-      "title": "내년 사업계획 점검하는 구광모…빅테크와 ‘AI 협력’ 중점",
-      "url": "https://n.news.naver.com/mnews/article/025/0003559008"
+      "title": "아파트도 ‘전세의 월세화’…무주택자, 보편형 공공임대 노려볼 만",
+      "url": "https://n.news.naver.com/mnews/article/028/0002828331"
     },
     {
-      "title": "기술주 강세에 나스닥 1.1% ↑…혼조 마감[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005830631"
+      "title": "삼성바이오로직스 노조, 26일 2차 총파업 연기",
+      "url": "https://n.news.naver.com/mnews/article/011/0004673231"
     },
     {
-      "title": "취업 준비에 월평균 58만원… 구직 청년 등골 빼먹는 ‘취업비’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001879564"
+      "title": "청약 10조 몰렸는데 \"AI 불안\"...'엘리스' 상장 첫날 28% 급락",
+      "url": "https://n.news.naver.com/mnews/article/008/0005428774"
     },
     {
-      "title": "MS, 영국 데이터센터서 발 뺐다…엔비디아 투자사 타격",
-      "url": "https://n.news.naver.com/mnews/article/018/0006391135"
+      "title": "K-방산 성장 엔진 거듭나는 두산에너빌리티…LIG D&A와 ‘유도무기’ 개발 협력",
+      "url": "https://n.news.naver.com/mnews/article/020/0003756336"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26430.89,
-      "change": 290.86,
-      "change_pct": 1.11
+      "value": 26424.82,
+      "change": -6.07,
+      "change_pct": -0.02
     },
     "usdkrw": {
-      "value": 1327.14,
-      "change": -6.29,
-      "change_pct": -0.47
+      "value": 1325.54,
+      "change": -4.46,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4151.3,
-    "price_krw": 5509356,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4135.7,
+    "price_krw": 5482036,
+    "change": -24.4,
+    "change_pct": -0.59
   },
-  "updated": "2026-10-20 09:06",
+  "updated": "2026-10-21 08:38",
   "error": null
 }
