@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012277525"
+      "title": "'2026 삼성행복대상' 수상자에 서은국 연세대 교수 등 선정",
+      "url": "https://n.news.naver.com/mnews/article/469/0000960714"
     },
     {
-      "title": "이소영 장관 \"국가 성장 프로젝트 中企 주도적 역할 찾겠다\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005831141"
+      "title": "SK하이닉스, 솔리다임 상장 앞두고 '3% 지분 매각'…외국인 이탈에 주주권 논쟁도",
+      "url": "https://n.news.naver.com/mnews/article/123/0002392341"
     },
     {
-      "title": "“솔리다임 美 상장 막으라”는 정치권…우리 정부에 저지 권한 있나",
-      "url": "https://n.news.naver.com/mnews/article/023/0004004866"
+      "title": "테슬라, 3분기 매출 37조원…자율주행 SW 채택률 증가(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016392807"
     },
     {
-      "title": "\"건보료 더 내라고?\"…394만세대 추가 납부 3조3000억 전망",
-      "url": "https://n.news.naver.com/mnews/article/015/0005344278"
+      "title": "삼성바이오로직스 3분기 매출 1조4903억원…CDMO 역대 최대 분기 실적",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005127"
     },
     {
-      "title": "중앙일보 매각은 속도…JTBC는 매각 공고 11월로 연기",
-      "url": "https://n.news.naver.com/mnews/article/001/0016387120"
+      "title": "비정규직 숫자도 비율도 역대 최고",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005263"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001396780"
+      "title": "SK하이닉스, 40조 자사주 매입 종료…증시 ‘수급 공백’ 우려",
+      "url": "https://n.news.naver.com/mnews/article/366/0001199465"
     },
     {
-      "title": "아파트도 ‘전세의 월세화’…무주택자, 보편형 공공임대 노려볼 만",
-      "url": "https://n.news.naver.com/mnews/article/028/0002828331"
+      "title": "이마트, ‘1000원 숍’ 와우샵 본격 출점… 다이소 정조준",
+      "url": "https://n.news.naver.com/mnews/article/366/0001199458"
     },
     {
-      "title": "삼성바이오로직스 노조, 26일 2차 총파업 연기",
-      "url": "https://n.news.naver.com/mnews/article/011/0004673231"
+      "title": "“마침내 이날이 왔다” 테슬라 합병 소식에 ‘8%’ 불기둥…스페이스X 주가 훨훨 [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002712561"
     },
     {
-      "title": "청약 10조 몰렸는데 \"AI 불안\"...'엘리스' 상장 첫날 28% 급락",
-      "url": "https://n.news.naver.com/mnews/article/008/0005428774"
+      "title": "서울 아파트 1년 새 15.5% 상승…거래는 3000건 아래로 [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002712640"
     },
     {
-      "title": "K-방산 성장 엔진 거듭나는 두산에너빌리티…LIG D&A와 ‘유도무기’ 개발 협력",
-      "url": "https://n.news.naver.com/mnews/article/020/0003756336"
+      "title": "대한항공, 인천 도서지역 UAM 실증 성공",
+      "url": "https://n.news.naver.com/mnews/article/138/0002245474"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5768.01,
+      "value": 5552.74,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 808.89,
+      "value": 781.97,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26424.82,
-      "change": -6.07,
-      "change_pct": -0.02
+      "value": 26702.86,
+      "change": 278.04,
+      "change_pct": 1.05
     },
     "usdkrw": {
-      "value": 1325.54,
-      "change": -4.46,
-      "change_pct": -0.34
+      "value": 1326.07,
+      "change": 2.13,
+      "change_pct": 0.16
     }
   },
   "gold": {
-    "price_usd": 4135.7,
-    "price_krw": 5482036,
-    "change": -24.4,
-    "change_pct": -0.59
+    "price_usd": 4141.3,
+    "price_krw": 5491653,
+    "change": -1.3,
+    "change_pct": -0.03
   },
-  "updated": "2026-10-21 08:38",
+  "updated": "2026-10-22 08:54",
   "error": null
 }
