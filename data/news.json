@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'2026 삼성행복대상' 수상자에 서은국 연세대 교수 등 선정",
-      "url": "https://n.news.naver.com/mnews/article/469/0000960714"
+      "title": "한국은행, 기준금리 연 3.00% 동결⋯긴축 속도 조절[뉴스1 PICK]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009244156"
     },
     {
-      "title": "SK하이닉스, 솔리다임 상장 앞두고 '3% 지분 매각'…외국인 이탈에 주주권 논쟁도",
-      "url": "https://n.news.naver.com/mnews/article/123/0002392341"
+      "title": "김정관 \"CPTPP 꼭 가입, 52시간 예외 반드시\"… 농어민·노동계 반발에도 '뚝심'",
+      "url": "https://n.news.naver.com/mnews/article/469/0000961106"
     },
     {
-      "title": "테슬라, 3분기 매출 37조원…자율주행 SW 채택률 증가(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016392807"
+      "title": "美 국채 금리 1개월 만에 5% 아래...안전자산 수요 급증",
+      "url": "https://n.news.naver.com/mnews/article/014/0005593379"
     },
     {
-      "title": "삼성바이오로직스 3분기 매출 1조4903억원…CDMO 역대 최대 분기 실적",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005127"
+      "title": "테슬라 3분기 실적, 예상 상회…\"FSD 구독 늘고 옵티머스 생산 시작\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005429890"
     },
     {
-      "title": "비정규직 숫자도 비율도 역대 최고",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005263"
+      "title": "이재용, UAE 찾아 중동사업 현장 경영",
+      "url": "https://n.news.naver.com/mnews/article/015/0005345498"
     },
     {
-      "title": "SK하이닉스, 40조 자사주 매입 종료…증시 ‘수급 공백’ 우려",
-      "url": "https://n.news.naver.com/mnews/article/366/0001199465"
+      "title": "SK하이닉스 “솔리다임, IPO 검토 중단 결정” 공시",
+      "url": "https://n.news.naver.com/mnews/article/056/0012279395"
     },
     {
-      "title": "이마트, ‘1000원 숍’ 와우샵 본격 출점… 다이소 정조준",
-      "url": "https://n.news.naver.com/mnews/article/366/0001199458"
+      "title": "\"가상자산 과세 유예\" 지적에…이억원 \"여러상황 고려해야\"[2026국감]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005832078"
     },
     {
-      "title": "“마침내 이날이 왔다” 테슬라 합병 소식에 ‘8%’ 불기둥…스페이스X 주가 훨훨 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002712561"
+      "title": "이억원 \"가계부채 리스크에 총량 규제 필요‥방법 보완 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001530811"
     },
     {
-      "title": "서울 아파트 1년 새 15.5% 상승…거래는 3000건 아래로 [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002712640"
+      "title": "8월 은행 연체율 0.69%로 두 달 연속 올라…신용대출 연체 부담 ↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0009245337"
     },
     {
-      "title": "대한항공, 인천 도서지역 UAM 실증 성공",
-      "url": "https://n.news.naver.com/mnews/article/138/0002245474"
+      "title": "국세청, 신세계 계열사 세무조사…‘특혜 거래 의혹’ 여행사도 조사",
+      "url": "https://n.news.naver.com/mnews/article/032/0003477947"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5552.74,
+      "value": 5735.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 781.97,
+      "value": 792.76,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26702.86,
-      "change": 278.04,
-      "change_pct": 1.05
+      "value": 26008.86,
+      "change": -694.0,
+      "change_pct": -2.6
     },
     "usdkrw": {
-      "value": 1326.07,
-      "change": 2.13,
-      "change_pct": 0.16
+      "value": 1326.08,
+      "change": 0.49,
+      "change_pct": 0.04
     }
   },
   "gold": {
-    "price_usd": 4141.3,
-    "price_krw": 5491653,
-    "change": -1.3,
-    "change_pct": -0.03
+    "price_usd": 4039.4,
+    "price_krw": 5356567,
+    "change": -110.6,
+    "change_pct": -2.67
   },
-  "updated": "2026-10-22 08:54",
+  "updated": "2026-10-23 08:53",
   "error": null
 }
