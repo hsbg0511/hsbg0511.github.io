@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한국은행, 기준금리 연 3.00% 동결⋯긴축 속도 조절[뉴스1 PICK]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009244156"
+      "title": "정용진 회장, 13년 만에 이마트 대표로...유통 살리고, 신사업 키운다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005430651"
     },
     {
-      "title": "김정관 \"CPTPP 꼭 가입, 52시간 예외 반드시\"… 농어민·노동계 반발에도 '뚝심'",
-      "url": "https://n.news.naver.com/mnews/article/469/0000961106"
+      "title": "HD현대, 美 현지 첫 조선소 짓는다…\"2029년 본격 가동\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014273523"
     },
     {
-      "title": "美 국채 금리 1개월 만에 5% 아래...안전자산 수요 급증",
-      "url": "https://n.news.naver.com/mnews/article/014/0005593379"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001397864"
     },
     {
-      "title": "테슬라 3분기 실적, 예상 상회…\"FSD 구독 늘고 옵티머스 생산 시작\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005429890"
+      "title": "삼성 이건희 선대회장 6주기…'반도체 초격차·문화강국 기틀' 다진 위대한 유산 재조명",
+      "url": "https://n.news.naver.com/mnews/article/003/0014274635"
     },
     {
-      "title": "이재용, UAE 찾아 중동사업 현장 경영",
-      "url": "https://n.news.naver.com/mnews/article/015/0005345498"
+      "title": "우리금융, 3분기 순익 1조492억원…기업대출 성장 영향",
+      "url": "https://n.news.naver.com/mnews/article/277/0005832767"
     },
     {
-      "title": "SK하이닉스 “솔리다임, IPO 검토 중단 결정” 공시",
-      "url": "https://n.news.naver.com/mnews/article/056/0012279395"
-    },
-    {
-      "title": "\"가상자산 과세 유예\" 지적에…이억원 \"여러상황 고려해야\"[2026국감]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832078"
-    },
-    {
-      "title": "이억원 \"가계부채 리스크에 총량 규제 필요‥방법 보완 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001530811"
+      "title": "핀다저축은행 초대 대표, 토스뱅크 출신 박연현",
+      "url": "https://n.news.naver.com/mnews/article/016/0002713359"
     },
     {
       "title": "8월 은행 연체율 0.69%로 두 달 연속 올라…신용대출 연체 부담 ↑",
       "url": "https://n.news.naver.com/mnews/article/421/0009245337"
     },
     {
-      "title": "국세청, 신세계 계열사 세무조사…‘특혜 거래 의혹’ 여행사도 조사",
-      "url": "https://n.news.naver.com/mnews/article/032/0003477947"
+      "title": "고려아연, 1.1조원대 손배소 잇단 승소…MBK·영풍 공방 '변수'",
+      "url": "https://n.news.naver.com/mnews/article/586/0000140762"
+    },
+    {
+      "title": "'1000원 못 넘겼다' 뉴인텍 등 동전주 5개사 상폐 위기",
+      "url": "https://n.news.naver.com/mnews/article/003/0014273218"
+    },
+    {
+      "title": "한솔아이원스, 1260억 규모 시설투자 결정",
+      "url": "https://n.news.naver.com/mnews/article/003/0014273928"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5735.66,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 792.76,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26008.86,
-      "change": -694.0,
-      "change_pct": -2.6
+      "value": 25955.34,
+      "change": -53.52,
+      "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1326.08,
-      "change": 0.49,
-      "change_pct": 0.04
+      "value": 1323.66,
+      "change": -1.93,
+      "change_pct": -0.15
     }
   },
   "gold": {
-    "price_usd": 4039.4,
-    "price_krw": 5356567,
-    "change": -110.6,
-    "change_pct": -2.67
+    "price_usd": 4010.0,
+    "price_krw": 5307876,
+    "change": -50.4,
+    "change_pct": -1.24
   },
-  "updated": "2026-10-23 08:53",
+  "updated": "2026-10-24 08:45",
   "error": null
 }
