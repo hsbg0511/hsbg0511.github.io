@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "정용진 회장, 13년 만에 이마트 대표로...유통 살리고, 신사업 키운다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005430651"
+      "title": "대한항공 고객 정보 유출…“협력사 해킹”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003692042"
     },
     {
-      "title": "HD현대, 美 현지 첫 조선소 짓는다…\"2029년 본격 가동\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014273523"
+      "title": "신세계그룹 '쓱데이' 개봉박두…18개 계열사 총출동",
+      "url": "https://n.news.naver.com/mnews/article/014/0005593854"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001397864"
+      "title": "솔리다임 상장 접자 '환호'…SK하이닉스, 하루 만에 '급반등' [종목+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005345995"
     },
     {
-      "title": "삼성 이건희 선대회장 6주기…'반도체 초격차·문화강국 기틀' 다진 위대한 유산 재조명",
-      "url": "https://n.news.naver.com/mnews/article/003/0014274635"
+      "title": "PHP 취약점 노린 글로벌 해킹 준비 정황…北 연계 가능성 제기",
+      "url": "https://n.news.naver.com/mnews/article/421/0009247445"
     },
     {
-      "title": "우리금융, 3분기 순익 1조492억원…기업대출 성장 영향",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832767"
+      "title": "주유소 기름값 23주 연속 하락…휘발유·경유 1,800원대",
+      "url": "https://n.news.naver.com/mnews/article/055/0001397872"
     },
     {
-      "title": "핀다저축은행 초대 대표, 토스뱅크 출신 박연현",
-      "url": "https://n.news.naver.com/mnews/article/016/0002713359"
+      "title": "정용진, 이마트 직접 이끈다… 13년 만에 대표이사 복귀",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005683"
     },
     {
-      "title": "8월 은행 연체율 0.69%로 두 달 연속 올라…신용대출 연체 부담 ↑",
-      "url": "https://n.news.naver.com/mnews/article/421/0009245337"
+      "title": "반도체 증설의 숨은 수혜주…삼성E&A, 목표가 잇단 상향[종목현미경]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009247323"
     },
     {
-      "title": "고려아연, 1.1조원대 손배소 잇단 승소…MBK·영풍 공방 '변수'",
-      "url": "https://n.news.naver.com/mnews/article/586/0000140762"
+      "title": "AI 데이터센터 곳곳서 주민 반발…정부 “상생 가이드라인 준비중”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006395129"
     },
     {
-      "title": "'1000원 못 넘겼다' 뉴인텍 등 동전주 5개사 상폐 위기",
-      "url": "https://n.news.naver.com/mnews/article/003/0014273218"
+      "title": "포스코 노사 임금협상 결렬…노조, 내달 2일 무기한 파업 예고",
+      "url": "https://n.news.naver.com/mnews/article/018/0006395208"
     },
     {
-      "title": "한솔아이원스, 1260억 규모 시설투자 결정",
-      "url": "https://n.news.naver.com/mnews/article/003/0014273928"
+      "title": "\"퇴직연금 어디에 맡길까?\"…NH투자증권 수익률 1위",
+      "url": "https://n.news.naver.com/mnews/article/119/0003146638"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5550.3,
+      "change": 16.53,
+      "change_pct": 0.3
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 751.69,
+      "change": -12.41,
+      "change_pct": -1.62
     },
     "nasdaq": {
       "value": 25955.34,
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1323.66,
-      "change": -1.93,
-      "change_pct": -0.15
+      "value": 1325.4,
+      "change": -0.59,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4010.0,
-    "price_krw": 5307876,
-    "change": -50.4,
-    "change_pct": -1.24
+    "price_usd": 4007.9,
+    "price_krw": 5312070,
+    "change": -52.5,
+    "change_pct": -1.29
   },
-  "updated": "2026-10-24 08:45",
+  "updated": "2026-10-25 07:54",
   "error": null
 }
