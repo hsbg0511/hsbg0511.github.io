@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "40억→9000억 시장됐다…밥상 풍경 바꾼 즉석밥 시대",
-      "url": "https://n.news.naver.com/mnews/article/025/0003560351"
+      "title": "동물학대범 최대 5년 동물 사육 금지…동물보호법 개정안 공포",
+      "url": "https://n.news.naver.com/mnews/article/056/0012280742"
     },
     {
-      "title": "상하위 20% 집값 격차 290배로 상승…다주택 등 포함시 더 확대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016399414"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002424027"
     },
     {
-      "title": "[단독] 롯데 쿠폰 발행사 고객정보 유출…이름·계좌번호까지 털렸다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753475"
+      "title": "KB국민은행, 해킹 사고 피해 더 있었다…2091명 추가 확인",
+      "url": "https://n.news.naver.com/mnews/article/079/0004203101"
     },
     {
-      "title": "\"오늘 바로 300만원 드립니다\" 달콤한 이 말...고수익 알바 '함정'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005431374"
+      "title": "목표가 4.4만→3.6만원...NH증권, 증시 부진에 실적 축소 불가피-키움",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431997"
     },
     {
-      "title": "스페이스X 0주 사태 제재 착수…'책무구조도' 적용할까",
-      "url": "https://n.news.naver.com/mnews/article/422/0000919215"
+      "title": "3분기 경제성장률 1.0%…한은 전망치 3배 넘어",
+      "url": "https://n.news.naver.com/mnews/article/056/0012281369"
     },
     {
-      "title": "한국 경상흑자, '제조업 대국' 독·일 합계보다 많아…사상 처음",
-      "url": "https://n.news.naver.com/mnews/article/001/0016398353"
+      "title": "하이닉스 ‘키옥시아 차익 활용’ 검토… 커지는 주주환원 기대감",
+      "url": "https://n.news.naver.com/mnews/article/081/0003692708"
     },
     {
-      "title": "서울아파트 월세 비중, 중형 상승폭 소형 2배",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757605"
+      "title": "국민성장펀드 첫 성적표…3개월 수익률 0.5%",
+      "url": "https://n.news.naver.com/mnews/article/015/0005346705"
     },
     {
-      "title": "롯대百 잠실점 식품관 3천400평으로…10년만에 새단장",
-      "url": "https://n.news.naver.com/mnews/article/374/0000539655"
+      "title": "‘40년간 나눔 실천’ 홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈",
+      "url": "https://n.news.naver.com/mnews/article/016/0002714503"
     },
     {
-      "title": "해외 IPO 막힐라 … 현대차·LG·두산 '난처'",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753614"
+      "title": "판매 2.5배 늘어도… 정부 지원 축소에 역풍 맞는 '韓 수소차' [안방 파고드는 중국車, 내우외환 겪는 한국車 (중)]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005594685"
     },
     {
-      "title": "삼전닉스·美빅테크 실적 발표가 반등 변수 [주간 증시 전망]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005594099"
+      "title": "청년고용 부진, ‘양’ 아닌 ‘질’이 문제…한은 “임시·일용직 늘었다”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002829156"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5550.3,
-      "change": 16.53,
-      "change_pct": 0.3
+      "value": 5469.47,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 751.69,
-      "change": -12.41,
-      "change_pct": -1.62
+      "value": 727.21,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25955.34,
-      "change": -53.52,
-      "change_pct": -0.21
+      "value": 26169.38,
+      "change": 214.04,
+      "change_pct": 0.82
     },
     "usdkrw": {
-      "value": 1323.4,
-      "change": -2.59,
-      "change_pct": -0.2
+      "value": 1324.29,
+      "change": 2.53,
+      "change_pct": 0.19
     }
   },
   "gold": {
-    "price_usd": 4016.2,
-    "price_krw": 5315039,
-    "change": 8.3,
-    "change_pct": 0.21
+    "price_usd": 4019.3,
+    "price_krw": 5322718,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-26 08:01",
+  "updated": "2026-10-27 09:14",
   "error": null
 }
