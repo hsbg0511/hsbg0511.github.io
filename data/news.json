@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동물학대범 최대 5년 동물 사육 금지…동물보호법 개정안 공포",
-      "url": "https://n.news.naver.com/mnews/article/056/0012280742"
+      "title": "이재용 회장 취임 4주년…별도 행사 없이 로봇사업 현장 점검",
+      "url": "https://n.news.naver.com/mnews/article/020/0003758087"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002424027"
+      "url": "https://n.news.naver.com/mnews/article/056/0012282172"
     },
     {
-      "title": "KB국민은행, 해킹 사고 피해 더 있었다…2091명 추가 확인",
-      "url": "https://n.news.naver.com/mnews/article/079/0004203101"
+      "title": "“와” “어” 취향 갈리겠네···국내 상륙한 지커 7X “편의 최고·주행 갸웃”[타보니]",
+      "url": "https://n.news.naver.com/mnews/article/032/0003478977"
     },
     {
-      "title": "목표가 4.4만→3.6만원...NH증권, 증시 부진에 실적 축소 불가피-키움",
-      "url": "https://n.news.naver.com/mnews/article/008/0005431997"
+      "title": "올해 오너일가 222명 주식 지분변동…5조원 취득한 이재용 1위",
+      "url": "https://n.news.naver.com/mnews/article/001/0016404731"
     },
     {
-      "title": "3분기 경제성장률 1.0%…한은 전망치 3배 넘어",
-      "url": "https://n.news.naver.com/mnews/article/056/0012281369"
+      "title": "SK하이닉스, 3분기 영업익 76조 전망…실적 넘어 주주환원 시험대",
+      "url": "https://n.news.naver.com/mnews/article/029/0003055420"
     },
     {
-      "title": "하이닉스 ‘키옥시아 차익 활용’ 검토… 커지는 주주환원 기대감",
-      "url": "https://n.news.naver.com/mnews/article/081/0003692708"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002424575"
     },
     {
-      "title": "국민성장펀드 첫 성적표…3개월 수익률 0.5%",
-      "url": "https://n.news.naver.com/mnews/article/015/0005346705"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000517735"
     },
     {
-      "title": "‘40년간 나눔 실천’ 홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈",
-      "url": "https://n.news.naver.com/mnews/article/016/0002714503"
+      "title": "LG이노텍, 3분기 매출 첫 6조 돌파…영업익 53% 감소",
+      "url": "https://n.news.naver.com/mnews/article/215/0001270663"
     },
     {
-      "title": "판매 2.5배 늘어도… 정부 지원 축소에 역풍 맞는 '韓 수소차' [안방 파고드는 중국車, 내우외환 겪는 한국車 (중)]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005594685"
+      "title": "3분기 GDP 1.0% ‘깜짝 성장’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004170208"
     },
     {
-      "title": "청년고용 부진, ‘양’ 아닌 ‘질’이 문제…한은 “임시·일용직 늘었다”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002829156"
+      "title": "윤상현 “K뷰티 지속성장 가능성 100% 확신”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003560959"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5469.47,
+      "value": 5638.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 727.21,
+      "value": 743.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26169.38,
-      "change": 214.04,
-      "change_pct": 0.82
+      "value": 26477.81,
+      "change": 308.43,
+      "change_pct": 1.18
     },
     "usdkrw": {
-      "value": 1324.29,
-      "change": 2.53,
-      "change_pct": 0.19
+      "value": 1327.18,
+      "change": 2.41,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 4019.3,
-    "price_krw": 5322718,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4078.8,
+    "price_krw": 5413301,
+    "change": 40.4,
+    "change_pct": 1.0
   },
-  "updated": "2026-10-27 09:14",
+  "updated": "2026-10-28 09:15",
   "error": null
 }
