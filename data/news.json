@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전기 “2027년 1분기부터 매 분기 큰 폭 성장…역대 최대 실적 전망”[컨콜]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001200905"
+      "title": "대우건설 컨소, 체코 원전 하도급 협상 결렬 반발…\"재협상 촉구\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003148885"
     },
     {
-      "title": "당정 \"2030년 전 사업장 퇴직금 사외적립 의무화...체불 위험 줄일 것\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002425302"
+      "title": "김포·구리·하남 등 수도권 6곳에 7.67만호 공급…2030년 착공 목표(종합)",
+      "url": "https://n.news.naver.com/mnews/article/031/0001070412"
     },
     {
-      "title": "출생아 26개월째 증가 ‘역대 최장’… 절반 이상 수도권 쏠려",
-      "url": "https://n.news.naver.com/mnews/article/005/0001881531"
+      "title": "추가 주주환원 기대 컸나…역대급 실적에도 삼전 주가 하락",
+      "url": "https://n.news.naver.com/mnews/article/079/0004204548"
     },
     {
-      "title": "주당 2만원 쏜 날, 하이닉스 11% 날았다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003561309"
+      "title": "석달만에 돌아온 '트리플 증가'...생산, 15년 반 만에 최대폭↑",
+      "url": "https://n.news.naver.com/mnews/article/215/0001271047"
     },
     {
-      "title": "LG화학, LG엔솔 지분 2.5조원 매각…3000억원 자사주 소각",
-      "url": "https://n.news.naver.com/mnews/article/277/0005834808"
+      "title": "신세계, 롯데百 부산센텀시티점 인수",
+      "url": "https://n.news.naver.com/mnews/article/022/0004170993"
     },
     {
-      "title": "故 이건희 삼성 선대회장 6주기 추모 음악회 열려…이재용 회장 참석",
-      "url": "https://n.news.naver.com/mnews/article/011/0004676292"
+      "title": "\"마운자로 반값이네\"…'첫 달 13만원' 국산 비만약 출격",
+      "url": "https://n.news.naver.com/mnews/article/015/0005348270"
     },
     {
-      "title": "코스피, 6.6% 급등해 6,000대 회복…코스닥 3.7% 상승",
-      "url": "https://n.news.naver.com/mnews/article/448/0000647528"
+      "title": "“믿었던 알파벳마저” 시총 5000억달러 증발…뉴욕증시 일제히 하락[투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002716448"
     },
     {
-      "title": "하이닉스 '100조원' 환원 카드…배당 늘리고 자사주 소각한다",
-      "url": "https://n.news.naver.com/mnews/article/088/0001036886"
+      "title": "현대차, 3Q 판매 줄었지만 영업익 5.5%↑…연간 목표 하향(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009258304"
     },
     {
-      "title": "LG전자, 3분기 영업익 7819억…TV '반등'·전장 '역대 최대'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005834732"
+      "title": "9월 수도권 주택 인허가·착공·분양 동반 감소…착공 43% 급감",
+      "url": "https://n.news.naver.com/mnews/article/421/0009259709"
     },
     {
-      "title": "미래운용, 웹 시스템 보안 조치 완료…고객정보 유출 없어",
-      "url": "https://n.news.naver.com/mnews/article/119/0003148137"
+      "title": "삼성전자, 3분기 영업익 107.4조원 '사상 최대'…4개 분기 연속 신기록",
+      "url": "https://n.news.naver.com/mnews/article/277/0005835117"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6054.37,
+      "value": 5712.91,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 763.91,
+      "value": 730.69,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26549.85,
-      "change": 72.04,
-      "change_pct": 0.27
+      "value": 26184.72,
+      "change": -365.12,
+      "change_pct": -1.38
     },
     "usdkrw": {
-      "value": 1336.28,
-      "change": 9.47,
-      "change_pct": 0.71
+      "value": 1339.17,
+      "change": -1.17,
+      "change_pct": -0.09
     }
   },
   "gold": {
-    "price_usd": 4059.1,
-    "price_krw": 5424094,
-    "change": -15.5,
-    "change_pct": -0.38
+    "price_usd": 4023.3,
+    "price_krw": 5387882,
+    "change": -28.3,
+    "change_pct": -0.7
   },
-  "updated": "2026-10-29 09:36",
+  "updated": "2026-10-30 09:37",
   "error": null
 }
