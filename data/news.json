@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "대우건설 컨소, 체코 원전 하도급 협상 결렬 반발…\"재협상 촉구\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003148885"
+      "title": "원·달러 환율, 0.7원 오른 1337.5원",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201439"
     },
     {
-      "title": "김포·구리·하남 등 수도권 6곳에 7.67만호 공급…2030년 착공 목표(종합)",
-      "url": "https://n.news.naver.com/mnews/article/031/0001070412"
+      "title": "‘탱크데이’ 불매운동 이후…스타벅스, 광주 대형매장 첫 폐점",
+      "url": "https://n.news.naver.com/mnews/article/020/0003758954"
     },
     {
-      "title": "추가 주주환원 기대 컸나…역대급 실적에도 삼전 주가 하락",
-      "url": "https://n.news.naver.com/mnews/article/079/0004204548"
+      "title": "﻿유진이엔티, 방미통위에 YTN 변경승인처분 취소 절차 보류 요청",
+      "url": "https://n.news.naver.com/mnews/article/015/0005348584"
     },
     {
-      "title": "석달만에 돌아온 '트리플 증가'...생산, 15년 반 만에 최대폭↑",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271047"
+      "title": "GS건설 아파트 커뮤니티 시스템 해킹… 입주민 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/081/0003694373"
     },
     {
-      "title": "신세계, 롯데百 부산센텀시티점 인수",
-      "url": "https://n.news.naver.com/mnews/article/022/0004170993"
+      "title": "27조 체코 원전 수주 해놓고… 공사비에 갈라진 ‘팀 코리아’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001881845"
     },
     {
-      "title": "\"마운자로 반값이네\"…'첫 달 13만원' 국산 비만약 출격",
-      "url": "https://n.news.naver.com/mnews/article/015/0005348270"
+      "title": "\"벌써 크리스마스\"…백화점 3사, 빛·마켓·뉴욕 거리로 집객 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/421/0009261266"
     },
     {
-      "title": "“믿었던 알파벳마저” 시총 5000억달러 증발…뉴욕증시 일제히 하락[투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002716448"
+      "title": "LS전선, 구미에 3500억 투입...희토류 영구자석 생산기지 만든다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004677006"
     },
     {
-      "title": "현대차, 3Q 판매 줄었지만 영업익 5.5%↑…연간 목표 하향(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009258304"
+      "title": "9월 산업 생산·소비·투자 3개월 만에 ‘동반 증가’… 설비투자 5.3% 늘어",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201409"
     },
     {
-      "title": "9월 수도권 주택 인허가·착공·분양 동반 감소…착공 43% 급감",
-      "url": "https://n.news.naver.com/mnews/article/421/0009259709"
+      "title": "삼성전자 창립 57주년…전영현 \"자축보다 현실 냉정히 돌아봐야\"",
+      "url": "https://n.news.naver.com/mnews/article/586/0000141199"
     },
     {
-      "title": "삼성전자, 3분기 영업익 107.4조원 '사상 최대'…4개 분기 연속 신기록",
-      "url": "https://n.news.naver.com/mnews/article/277/0005835117"
+      "title": "보유·소득세도 벅찬데 월세까지 치솟아…“거주 이전 족쇄될 판”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004677171"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5712.91,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 730.69,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26184.72,
-      "change": -365.12,
-      "change_pct": -1.38
+      "value": 25437.0,
+      "change": -747.72,
+      "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1339.17,
-      "change": -1.17,
-      "change_pct": -0.09
+      "value": 1337.98,
+      "change": -2.36,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 4023.3,
-    "price_krw": 5387882,
-    "change": -28.3,
-    "change_pct": -0.7
+    "price_usd": 3884.9,
+    "price_krw": 5197918,
+    "change": -146.5,
+    "change_pct": -3.63
   },
-  "updated": "2026-10-30 09:37",
+  "updated": "2026-10-31 09:25",
   "error": null
 }
