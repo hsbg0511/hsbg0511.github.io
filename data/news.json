@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "원·달러 환율, 0.7원 오른 1337.5원",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201439"
+      "title": "포스코 노사, 임금 2.6% 인상 잠정 합의…3차 파업 위기 넘겼다",
+      "url": "https://n.news.naver.com/mnews/article/002/0002463659"
     },
     {
-      "title": "‘탱크데이’ 불매운동 이후…스타벅스, 광주 대형매장 첫 폐점",
-      "url": "https://n.news.naver.com/mnews/article/020/0003758954"
+      "title": "'퇴직금 체불' 8천억에 연금 의무화…영세기업·사각지대 보완은 '과제'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014292409"
     },
     {
-      "title": "﻿유진이엔티, 방미통위에 YTN 변경승인처분 취소 절차 보류 요청",
-      "url": "https://n.news.naver.com/mnews/article/015/0005348584"
+      "title": "SK 최태원 회장, 샘 올트먼과 석 달 만에 다시 만났다…서울서 오찬 회동",
+      "url": "https://n.news.naver.com/mnews/article/119/0003149691"
     },
     {
-      "title": "GS건설 아파트 커뮤니티 시스템 해킹… 입주민 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/081/0003694373"
+      "title": "“매출은 줄어드는데 이자는 계속 불어나고”…은행 부실채권 8년 반 만에 최대[머니뭐니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002717084"
     },
     {
-      "title": "27조 체코 원전 수주 해놓고… 공사비에 갈라진 ‘팀 코리아’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001881845"
+      "title": "도요타, 혼다, 닛산 '中 좋은 시절 끝났다'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000540943"
     },
     {
-      "title": "\"벌써 크리스마스\"…백화점 3사, 빛·마켓·뉴욕 거리로 집객 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/421/0009261266"
+      "title": "롯데온, 블프 맞아 '블랙온세일' 개최…8일까지 최대 92% 할인",
+      "url": "https://n.news.naver.com/mnews/article/421/0009262337"
     },
     {
-      "title": "LS전선, 구미에 3500억 투입...희토류 영구자석 생산기지 만든다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004677006"
+      "title": "LG전자, 휴머노이드 직접 만든다…부품 내재화로 경쟁력↑",
+      "url": "https://n.news.naver.com/mnews/article/092/0002443275"
     },
     {
-      "title": "9월 산업 생산·소비·투자 3개월 만에 ‘동반 증가’… 설비투자 5.3% 늘어",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201409"
+      "title": "게임·애니 캐릭터 백화점에서 만난다…팝업 풍성[위클리 쇼핑]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014291819"
     },
     {
-      "title": "삼성전자 창립 57주년…전영현 \"자축보다 현실 냉정히 돌아봐야\"",
-      "url": "https://n.news.naver.com/mnews/article/586/0000141199"
+      "title": "'코리아 그랜드 페스티벌' 안동서 공식 개막…소비 촉진",
+      "url": "https://n.news.naver.com/mnews/article/001/0016413359"
     },
     {
-      "title": "보유·소득세도 벅찬데 월세까지 치솟아…“거주 이전 족쇄될 판”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004677171"
+      "title": "바이낸스 해킹 의심 자금, 이더리움으로 이동…디파이 시장도 멈췄다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014291740"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5730.74,
+      "change": -206.92,
+      "change_pct": -3.48
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 724.38,
+      "change": -28.85,
+      "change_pct": -3.83
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": -2.36,
-      "change_pct": -0.18
+      "value": 1335.1,
+      "change": -2.88,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 3884.9,
-    "price_krw": 5197918,
-    "change": -146.5,
-    "change_pct": -3.63
+    "price_usd": 3898.9,
+    "price_krw": 5205421,
+    "change": -132.5,
+    "change_pct": -3.29
   },
-  "updated": "2026-10-31 09:25",
+  "updated": "2026-11-01 08:57",
   "error": null
 }
