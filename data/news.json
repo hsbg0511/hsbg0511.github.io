@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "포스코 노사, 임금 2.6% 인상 잠정 합의…3차 파업 위기 넘겼다",
-      "url": "https://n.news.naver.com/mnews/article/002/0002463659"
+      "title": "예정처 \"미래대응기금 핵심 재원인 추가세수, 2029년엔 끊길 것\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009263509"
     },
     {
-      "title": "'퇴직금 체불' 8천억에 연금 의무화…영세기업·사각지대 보완은 '과제'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014292409"
+      "title": "블록체인은 안전하다는데…내 코인은 왜 털릴까",
+      "url": "https://n.news.naver.com/mnews/article/001/0016413632"
     },
     {
-      "title": "SK 최태원 회장, 샘 올트먼과 석 달 만에 다시 만났다…서울서 오찬 회동",
-      "url": "https://n.news.naver.com/mnews/article/119/0003149691"
+      "title": "쿠팡, 와우 멤버스데이 개최…37만여개 상품 최대 70% 할인",
+      "url": "https://n.news.naver.com/mnews/article/003/0014293730"
     },
     {
-      "title": "“매출은 줄어드는데 이자는 계속 불어나고”…은행 부실채권 8년 반 만에 최대[머니뭐니]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002717084"
+      "title": "현대차, 美하이브리드·신차·금융으로 '중국차 반란'에 맞선다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005597584"
     },
     {
-      "title": "도요타, 혼다, 닛산 '中 좋은 시절 끝났다'",
-      "url": "https://n.news.naver.com/mnews/article/374/0000540943"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012284945"
     },
     {
-      "title": "롯데온, 블프 맞아 '블랙온세일' 개최…8일까지 최대 92% 할인",
-      "url": "https://n.news.naver.com/mnews/article/421/0009262337"
+      "title": "‘낮은 주가 꼬리표’ 붙는 저PBR 기업 151곳 공개…한화생명·이마트 등",
+      "url": "https://n.news.naver.com/mnews/article/020/0003759158"
     },
     {
-      "title": "LG전자, 휴머노이드 직접 만든다…부품 내재화로 경쟁력↑",
-      "url": "https://n.news.naver.com/mnews/article/092/0002443275"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000648355"
     },
     {
-      "title": "게임·애니 캐릭터 백화점에서 만난다…팝업 풍성[위클리 쇼핑]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014291819"
+      "title": "세븐일레븐, '요즘'과 요거트 디저트 선봬…모찌롤·마카롱 구성",
+      "url": "https://n.news.naver.com/mnews/article/001/0016413660"
     },
     {
-      "title": "'코리아 그랜드 페스티벌' 안동서 공식 개막…소비 촉진",
-      "url": "https://n.news.naver.com/mnews/article/001/0016413359"
+      "title": "자산·소득 하위 20% 생계형 신용대출 역대 최대…생활비도 빚으로",
+      "url": "https://n.news.naver.com/mnews/article/654/0000208780"
     },
     {
-      "title": "바이낸스 해킹 의심 자금, 이더리움으로 이동…디파이 시장도 멈췄다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014291740"
+      "title": "롯데몰 하노이, 3년 만에 누적 매출 1조… 韓 백화점 해외 점포 첫 기록",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201843"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 5730.74,
-      "change": -206.92,
-      "change_pct": -3.48
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 724.38,
-      "change": -28.85,
-      "change_pct": -3.83
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1335.1,
-      "change": -2.88,
-      "change_pct": -0.22
+      "value": 1334.38,
+      "change": -3.6,
+      "change_pct": -0.27
     }
   },
   "gold": {
-    "price_usd": 3898.9,
-    "price_krw": 5205421,
-    "change": -132.5,
-    "change_pct": -3.29
+    "price_usd": 3911.1,
+    "price_krw": 5218893,
+    "change": 12.2,
+    "change_pct": 0.31
   },
-  "updated": "2026-11-01 08:57",
+  "updated": "2026-11-02 09:17",
   "error": null
 }
