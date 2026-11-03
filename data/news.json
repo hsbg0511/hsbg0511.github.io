@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "예정처 \"미래대응기금 핵심 재원인 추가세수, 2029년엔 끊길 것\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009263509"
+      "title": "조원태 vs 호반 '한진칼 지분확보戰'",
+      "url": "https://n.news.naver.com/mnews/article/009/0005757880"
     },
     {
-      "title": "블록체인은 안전하다는데…내 코인은 왜 털릴까",
-      "url": "https://n.news.naver.com/mnews/article/001/0016413632"
+      "title": "유가 급락도 소용 없다…뉴욕증시, ‘AI 버블 우려’ 기술주 매도세",
+      "url": "https://n.news.naver.com/mnews/article/005/0001882587"
     },
     {
-      "title": "쿠팡, 와우 멤버스데이 개최…37만여개 상품 최대 70% 할인",
-      "url": "https://n.news.naver.com/mnews/article/003/0014293730"
+      "title": "뉴욕 찍고 파리까지 '북적'…에이피알 팝업에 1만5000명 몰렸다",
+      "url": "https://n.news.naver.com/mnews/article/123/0002393176"
     },
     {
-      "title": "현대차, 美하이브리드·신차·금융으로 '중국차 반란'에 맞선다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005597584"
+      "title": "GC녹십자 \"국민성장펀드 자금조달 승인 … 미국향 20% SCIG 개발 속도\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005349503"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284945"
+      "title": "한은 “11월 물가도 2%대 후반”… 근원물가 상승세 지속",
+      "url": "https://n.news.naver.com/mnews/article/081/0003695204"
     },
     {
-      "title": "‘낮은 주가 꼬리표’ 붙는 저PBR 기업 151곳 공개…한화생명·이마트 등",
-      "url": "https://n.news.naver.com/mnews/article/020/0003759158"
+      "title": "[속보] 한양증권에서도 해킹…고객정보 15건 등 일부 정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/011/0004678032"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000648355"
+      "title": "AI 상시백신 검토·ASF 백신 개발…최초 신고 보상금 최대 100%",
+      "url": "https://n.news.naver.com/mnews/article/008/0005435744"
     },
     {
-      "title": "세븐일레븐, '요즘'과 요거트 디저트 선봬…모찌롤·마카롱 구성",
-      "url": "https://n.news.naver.com/mnews/article/001/0016413660"
+      "title": "李가 사업 재개 지시한 서울~양평 고속도로...국토부 “내년 하반기 노선안 마련”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001202179"
     },
     {
-      "title": "자산·소득 하위 20% 생계형 신용대출 역대 최대…생활비도 빚으로",
-      "url": "https://n.news.naver.com/mnews/article/654/0000208780"
+      "title": "현대차 울산공장, 노사갈등에 제네시스 생산 중단",
+      "url": "https://n.news.naver.com/mnews/article/014/0005598197"
     },
     {
-      "title": "롯데몰 하노이, 3년 만에 누적 매출 1조… 韓 백화점 해외 점포 첫 기록",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201843"
+      "title": "효성굿스프링스, 데이터센터 맞춤형 고효율 펌프 앞세워 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/031/0001071667"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5730.74,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 5721.67,
+      "change": -137.41,
+      "change_pct": -2.35
     },
     "kosdaq": {
-      "value": 724.38,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 717.4,
+      "change": -16.96,
+      "change_pct": -2.31
     },
     "nasdaq": {
-      "value": 25437.0,
-      "change": -747.72,
-      "change_pct": -2.86
+      "value": 25164.36,
+      "change": -272.64,
+      "change_pct": -1.07
     },
     "usdkrw": {
-      "value": 1334.38,
-      "change": -3.6,
-      "change_pct": -0.27
+      "value": 1340.51,
+      "change": 14.99,
+      "change_pct": 1.13
     }
   },
   "gold": {
-    "price_usd": 3911.1,
-    "price_krw": 5218893,
-    "change": 12.2,
-    "change_pct": 0.31
+    "price_usd": 3954.4,
+    "price_krw": 5300912,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-02 09:17",
+  "updated": "2026-11-03 11:46",
   "error": null
 }
