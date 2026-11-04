@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "조원태 vs 호반 '한진칼 지분확보戰'",
-      "url": "https://n.news.naver.com/mnews/article/009/0005757880"
+      "title": "한국항공우주산업 3분기 매출 1조643억원…\"연간 매출 목표 순항\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000922468"
     },
     {
-      "title": "유가 급락도 소용 없다…뉴욕증시, ‘AI 버블 우려’ 기술주 매도세",
-      "url": "https://n.news.naver.com/mnews/article/005/0001882587"
+      "title": "금감원, 베트남·인니 보험감독당국 초청…보험사 해외진출 지원",
+      "url": "https://n.news.naver.com/mnews/article/003/0014299892"
     },
     {
-      "title": "뉴욕 찍고 파리까지 '북적'…에이피알 팝업에 1만5000명 몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/123/0002393176"
+      "title": "한진칼, 경영권 분쟁 가능성에 상한가…남은 변수 3가지",
+      "url": "https://n.news.naver.com/mnews/article/015/0005349833"
     },
     {
-      "title": "GC녹십자 \"국민성장펀드 자금조달 승인 … 미국향 20% SCIG 개발 속도\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005349503"
+      "title": "10년 부은 국민연금, 기초연금보다 적다? “단순비교는 부적절”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002830518"
     },
     {
-      "title": "한은 “11월 물가도 2%대 후반”… 근원물가 상승세 지속",
-      "url": "https://n.news.naver.com/mnews/article/081/0003695204"
+      "title": "LG엔솔, 글로벌 사업 법률 리스크 관리 강화…계약·법률 대응 해외변호사 모집",
+      "url": "https://n.news.naver.com/mnews/article/003/0014299529"
     },
     {
-      "title": "[속보] 한양증권에서도 해킹…고객정보 15건 등 일부 정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/011/0004678032"
+      "title": "10월 전남광주 소비자물가 2.8% 상승",
+      "url": "https://n.news.naver.com/mnews/article/417/0001163021"
     },
     {
-      "title": "AI 상시백신 검토·ASF 백신 개발…최초 신고 보상금 최대 100%",
-      "url": "https://n.news.naver.com/mnews/article/008/0005435744"
+      "title": "캐나다에도 K뷰티 바람…메디큐브, 북미 공략 속도",
+      "url": "https://n.news.naver.com/mnews/article/015/0005350006"
     },
     {
-      "title": "李가 사업 재개 지시한 서울~양평 고속도로...국토부 “내년 하반기 노선안 마련”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001202179"
+      "title": "이찬진 “보안 뚫리면 CEO까지 문책”…금융권 전수점검",
+      "url": "https://n.news.naver.com/mnews/article/215/0001271506"
     },
     {
-      "title": "현대차 울산공장, 노사갈등에 제네시스 생산 중단",
-      "url": "https://n.news.naver.com/mnews/article/014/0005598197"
+      "title": "카카오뱅크, 3분기 누적순이익 4698억…수신 잔액도 70조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/018/0006403307"
     },
     {
-      "title": "효성굿스프링스, 데이터센터 맞춤형 고효율 펌프 앞세워 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/031/0001071667"
+      "title": "외환보유액 두 달 만에 증가…국가별 순위는 9위로 상승",
+      "url": "https://n.news.naver.com/mnews/article/023/0004007667"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5721.67,
-      "change": -137.41,
-      "change_pct": -2.35
+      "value": 5694.35,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 717.4,
-      "change": -16.96,
-      "change_pct": -2.31
+      "value": 699.5,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25164.36,
-      "change": -272.64,
-      "change_pct": -1.07
+      "value": 25372.01,
+      "change": 207.7,
+      "change_pct": 0.83
     },
     "usdkrw": {
-      "value": 1340.51,
-      "change": 14.99,
-      "change_pct": 1.13
+      "value": 1343.38,
+      "change": -1.43,
+      "change_pct": -0.11
     }
   },
   "gold": {
-    "price_usd": 3954.4,
-    "price_krw": 5300912,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3936.8,
+    "price_krw": 5288618,
+    "change": -32.8,
+    "change_pct": -0.83
   },
-  "updated": "2026-11-03 11:46",
+  "updated": "2026-11-04 10:03",
   "error": null
 }
