@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "김범석 쿠팡 의장 “와우 멤버십 역대 최대…내년 수익성 회복 자신”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006403305"
+      "title": "최태원 \"美 중간 선거에 주가 와장창…롤러코스터 계속\"",
+      "url": "https://n.news.naver.com/mnews/article/660/0000120690"
     },
     {
-      "title": "넥센타이어, 3분기 영업익 181억원…전년비 61% 감소",
-      "url": "https://n.news.naver.com/mnews/article/015/0005350240"
+      "title": "‘블루웨이브 쇼크’에 코스피 급락…삼전 7%↓·하닉 9%↓",
+      "url": "https://n.news.naver.com/mnews/article/028/0002830887"
     },
     {
-      "title": "중앙일보 측 \"조속한 정상화에 힘쓸 것\"…다우·CJ컨소시엄, 최대 주주 등극",
-      "url": "https://n.news.naver.com/mnews/article/421/0009270697"
+      "title": "코스피 장중 5천선 붕괴…8%대 폭락에 서킷브레이커 발동",
+      "url": "https://n.news.naver.com/mnews/article/079/0004207100"
     },
     {
-      "title": "[속보] 1조4000억서 3712억으로…홍콩 ELS 과징금 최종 확정",
-      "url": "https://n.news.naver.com/mnews/article/009/0005758920"
+      "title": "LG, AI로 산업현장 안전관리 혁신… 계열사 우수사례 공유",
+      "url": "https://n.news.naver.com/mnews/article/029/0003057287"
     },
     {
-      "title": "현대차그룹, 수소사업 통합 승부수[WHE 2026]",
-      "url": "https://n.news.naver.com/mnews/article/020/0003759965"
+      "title": "가상자산 과세 4번째 유예…정부 \"2년 유예 후 2029년 시행\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005437203"
     },
     {
-      "title": "美 증시 올랐지만 '삼전닉스'는 또 파란불…코스피 2%대 하락",
-      "url": "https://n.news.naver.com/mnews/article/629/0000548904"
+      "title": "9월 경상흑자 '사상 최대'…사상 첫 600억달러 돌파",
+      "url": "https://n.news.naver.com/mnews/article/422/0000923038"
     },
     {
-      "title": "9월 경상흑자 600억 달러 사상 첫 돌파…반도체 수출 260%↑",
-      "url": "https://n.news.naver.com/mnews/article/055/0001400803"
+      "title": "\"6억이면 집 산다\" 들썩…저가 아파트 수요 몰린 '이 동네'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005350655"
     },
     {
-      "title": "삼성D, 中 PC방 10곳 ‘QD-OLED’ 인증…연말까지 60곳으로 확대",
-      "url": "https://n.news.naver.com/mnews/article/016/0002719072"
+      "title": "KT&G, 3분기 매출·영업익 '사상 최대'…주주환원 `5조+α` 푼다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006404534"
     },
     {
-      "title": "한진칼 최대주주, 조원태 회장에서 호반건설로 변경",
-      "url": "https://n.news.naver.com/mnews/article/030/0003482294"
+      "title": "삼성전자 노조 난립...6노조 설립 추진",
+      "url": "https://n.news.naver.com/mnews/article/374/0000541909"
     },
     {
-      "title": "미국 증시, 민주당 의회 장악에 급등…빅테크 웃고 AI 데이터센터주 울었다",
-      "url": "https://n.news.naver.com/mnews/article/138/0002247343"
+      "title": "지난해 혼인의 8.9%·출생아의 5.2%가 다문화",
+      "url": "https://n.news.naver.com/mnews/article/052/0002428711"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5464.33,
+      "value": 4930.55,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 691.65,
+      "value": 631.05,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25736.51,
-      "change": 364.5,
-      "change_pct": 1.44
+      "value": 24315.0,
+      "change": -1421.51,
+      "change_pct": -5.52
     },
     "usdkrw": {
-      "value": 1338.59,
-      "change": -4.31,
-      "change_pct": -0.32
+      "value": 1354.78,
+      "change": 14.71,
+      "change_pct": 1.1
     }
   },
   "gold": {
-    "price_usd": 4099.0,
-    "price_krw": 5486880,
-    "change": 158.6,
-    "change_pct": 4.02
+    "price_usd": 4104.0,
+    "price_krw": 5560017,
+    "change": 31.0,
+    "change_pct": 0.76
   },
-  "updated": "2026-11-05 10:18",
+  "updated": "2026-11-06 10:22",
   "error": null
 }
