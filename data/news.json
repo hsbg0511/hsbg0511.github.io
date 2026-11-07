@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "최태원 \"美 중간 선거에 주가 와장창…롤러코스터 계속\"",
-      "url": "https://n.news.naver.com/mnews/article/660/0000120690"
+      "title": "‘블루웨이브’ 여파로 원·달러 환율 한달 만에 1360원대 터치",
+      "url": "https://n.news.naver.com/mnews/article/032/0003481154"
     },
     {
-      "title": "‘블루웨이브 쇼크’에 코스피 급락…삼전 7%↓·하닉 9%↓",
-      "url": "https://n.news.naver.com/mnews/article/028/0002830887"
+      "title": "은마 4.6억 재초환 통지…재건축 단지 53곳 비상",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760240"
     },
     {
-      "title": "코스피 장중 5천선 붕괴…8%대 폭락에 서킷브레이커 발동",
-      "url": "https://n.news.naver.com/mnews/article/079/0004207100"
+      "title": "주유소 기름값 25주 연속 하락…1천800원대서 사실상 횡보",
+      "url": "https://n.news.naver.com/mnews/article/001/0016427585"
     },
     {
-      "title": "LG, AI로 산업현장 안전관리 혁신… 계열사 우수사례 공유",
-      "url": "https://n.news.naver.com/mnews/article/029/0003057287"
+      "title": "중국 증시 꺾이니 반도체까지 발목…YMTC, 6.6조 IPO 보류",
+      "url": "https://n.news.naver.com/mnews/article/025/0003563218"
     },
     {
-      "title": "가상자산 과세 4번째 유예…정부 \"2년 유예 후 2029년 시행\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437203"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542138"
     },
     {
-      "title": "9월 경상흑자 '사상 최대'…사상 첫 600억달러 돌파",
-      "url": "https://n.news.naver.com/mnews/article/422/0000923038"
+      "title": "고팍스, 해킹 협박 메일 받고 매매·출금 중단…코인 전량 콜드월렛으로",
+      "url": "https://n.news.naver.com/mnews/article/421/0009275238"
     },
     {
-      "title": "\"6억이면 집 산다\" 들썩…저가 아파트 수요 몰린 '이 동네'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005350655"
+      "title": "\"고점 대비 90% 빠졌다\"…레버리지 개미들 손실 '날벼락'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001271948"
     },
     {
-      "title": "KT&G, 3분기 매출·영업익 '사상 최대'…주주환원 `5조+α` 푼다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006404534"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002429302"
     },
     {
-      "title": "삼성전자 노조 난립...6노조 설립 추진",
-      "url": "https://n.news.naver.com/mnews/article/374/0000541909"
+      "title": "SK네트웍스, 3Q 영업익 201억..전년 대비 9.9%↓",
+      "url": "https://n.news.naver.com/mnews/article/008/0005437796"
     },
     {
-      "title": "지난해 혼인의 8.9%·출생아의 5.2%가 다문화",
-      "url": "https://n.news.naver.com/mnews/article/052/0002428711"
+      "title": "신세계, 백화점부문장에 이석구 사장 선임",
+      "url": "https://n.news.naver.com/mnews/article/081/0003696529"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4930.55,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 631.05,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 24315.0,
-      "change": -1421.51,
-      "change_pct": -5.52
+      "value": 24579.42,
+      "change": 264.42,
+      "change_pct": 1.09
     },
     "usdkrw": {
-      "value": 1354.78,
-      "change": 14.71,
-      "change_pct": 1.1
+      "value": 1356.34,
+      "change": 16.27,
+      "change_pct": 1.21
     }
   },
   "gold": {
-    "price_usd": 4104.0,
-    "price_krw": 5560017,
-    "change": 31.0,
-    "change_pct": 0.76
+    "price_usd": 4079.5,
+    "price_krw": 5533189,
+    "change": -34.0,
+    "change_pct": -0.83
   },
-  "updated": "2026-11-06 10:22",
+  "updated": "2026-11-07 09:38",
   "error": null
 }
