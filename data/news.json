@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "title": "‘블루웨이브’ 여파로 원·달러 환율 한달 만에 1360원대 터치",
-      "url": "https://n.news.naver.com/mnews/article/032/0003481154"
+      "title": "미래에셋증권도 뚫렸다…고객·임직원 3만9000명 정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/437/0000519603"
     },
     {
-      "title": "은마 4.6억 재초환 통지…재건축 단지 53곳 비상",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760240"
+      "title": "월가 헤지펀드도 美증시 급락에 직격탄···투자 철수·감원 나섰다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760368"
     },
     {
-      "title": "주유소 기름값 25주 연속 하락…1천800원대서 사실상 횡보",
-      "url": "https://n.news.naver.com/mnews/article/001/0016427585"
+      "title": "“기초연금 받는 어르신도 몰랐다”…노령연금과 뭐가 다를까 [연금술사]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405434"
     },
     {
-      "title": "중국 증시 꺾이니 반도체까지 발목…YMTC, 6.6조 IPO 보류",
-      "url": "https://n.news.naver.com/mnews/article/025/0003563218"
+      "title": "MS, 오라클과 클라우드 계약 단계적 종료…AI 열기 식나",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405437"
+    },
+    {
+      "title": "한수원, 체코 프라하서 ‘원자력 청정수소 기반 연구 성과 공유회‘ 개최",
+      "url": "https://n.news.naver.com/mnews/article/016/0002720166"
+    },
+    {
+      "title": "'블루웨이브 쇼크'에 세계시총 4,800조 원 증발...삼전닉스도 3,000조 원 감소",
+      "url": "https://n.news.naver.com/mnews/article/660/0000120811"
+    },
+    {
+      "title": "\"평생 모은 5억 주식으로 4.5억 날려, 살맛 안 난다\"…레버리지 투자 공포",
+      "url": "https://n.news.naver.com/mnews/article/421/0009275556"
+    },
+    {
+      "title": "3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405395"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000542138"
+      "url": "https://n.news.naver.com/mnews/article/052/0002429640"
     },
     {
-      "title": "고팍스, 해킹 협박 메일 받고 매매·출금 중단…코인 전량 콜드월렛으로",
-      "url": "https://n.news.naver.com/mnews/article/421/0009275238"
-    },
-    {
-      "title": "\"고점 대비 90% 빠졌다\"…레버리지 개미들 손실 '날벼락'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271948"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002429302"
-    },
-    {
-      "title": "SK네트웍스, 3Q 영업익 201억..전년 대비 9.9%↓",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437796"
-    },
-    {
-      "title": "신세계, 백화점부문장에 이석구 사장 선임",
-      "url": "https://n.news.naver.com/mnews/article/081/0003696529"
+      "title": "\"코스피 1만 간다\"…증시 급락에도 목표치 안 바꾼 노무라",
+      "url": "https://n.news.naver.com/mnews/article/014/0005600753"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5059.69,
+      "change": -324.11,
+      "change_pct": -6.02
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 644.27,
+      "change": -34.14,
+      "change_pct": -5.03
     },
     "nasdaq": {
-      "value": 24579.42,
-      "change": 264.42,
+      "value": 24579.43,
+      "change": 264.43,
       "change_pct": 1.09
     },
     "usdkrw": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4079.5,
-    "price_krw": 5533189,
-    "change": -34.0,
-    "change_pct": -0.83
+    "price_usd": 4074.9,
+    "price_krw": 5526949,
+    "change": -38.6,
+    "change_pct": -0.94
   },
-  "updated": "2026-11-07 09:38",
+  "updated": "2026-11-08 09:13",
   "error": null
 }
