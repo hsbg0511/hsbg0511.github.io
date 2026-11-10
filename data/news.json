@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전자·SK하이닉스, 프리마켓서 2% 동반 상승",
-      "url": "https://n.news.naver.com/mnews/article/003/0014309627"
+      "title": "HD건설기계, 북미서 발전용 엔진 수주…1600억 규모",
+      "url": "https://n.news.naver.com/mnews/article/119/0003153341"
     },
     {
-      "title": "이재용·정의선 한자리…삼성·현대차 첫 그룹 교류 행사",
-      "url": "https://n.news.naver.com/mnews/article/654/0000209972"
+      "title": "美약가 인하 우려에…알테오젠 16% 급락",
+      "url": "https://n.news.naver.com/mnews/article/015/0005351944"
     },
     {
-      "title": "\"롯데쇼핑, 증시 하락發 자산효과 약화 우려…목표가↓\"-키움",
-      "url": "https://n.news.naver.com/mnews/article/015/0005351648"
+      "title": "㈜두산, 영업익 1년 새 2배 점프",
+      "url": "https://n.news.naver.com/mnews/article/014/0005601587"
     },
     {
-      "title": "美 반도체주 반등…韓 증시도 낙폭 만회 시도할까[굿모닝증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839684"
+      "title": "삼성SDI, 'AI 데이터센터용 배터리' CES 혁신상…3년 연속 수상",
+      "url": "https://n.news.naver.com/mnews/article/119/0003153227"
     },
     {
-      "title": "“돈 있으면 연금도 먼저”… 퇴직 후 소득 공백기 양극화 심각",
-      "url": "https://n.news.naver.com/mnews/article/666/0000131168"
+      "title": "은행연합회, 차기 회장 인선 착수…13일 후보군 윤곽",
+      "url": "https://n.news.naver.com/mnews/article/003/0014312475"
     },
     {
-      "title": "구미라면축제, 갓 튀긴 라면 이틀 매출 5억원…지난해 사흘 실적 넘어",
-      "url": "https://n.news.naver.com/mnews/article/018/0006406303"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000650025"
     },
     {
-      "title": "삼양식품, 3분기 영업익 50% 급증…내년 해외 판매 35% 증가 전망 [주가동향]",
-      "url": "https://n.news.naver.com/mnews/article/123/0002393582"
+      "title": "멈췄던 가덕도신공항 재시동…‘2035년 개항’ 목표 실시설계 착수",
+      "url": "https://n.news.naver.com/mnews/article/011/0004680200"
     },
     {
-      "title": "\"전 세계인 70%가 신라면 알아\"…바닷가 '라면의 심장'이 뛰기 시작했다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005351462"
+      "title": "엔비디아만 쏙 빼고…가슴 졸인 개미, '블루쓰나미' 고비 넘겼다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001272211"
     },
     {
-      "title": "번개장터·뮤직카우…한때 인기였던 플랫폼 투자, 회수는 '난항'[PE는 지금]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839667"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001401907"
     },
     {
-      "title": "수요 꺾이고 적자 누적…수소 모빌리티, 충전 잔혹사 끊어낼까 [K수소, 녹색성장의 판을 바꾸다]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014308622"
+      "title": "제네시스 GV90 국내 출시…1억4000만원부터, 네오룬 최고 2억4000만원 [여車저車]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002721219"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5042.68,
-      "change": -17.01,
-      "change_pct": -0.34
+      "value": 5236.69,
+      "change": 217.84,
+      "change_pct": 4.34
     },
     "kosdaq": {
-      "value": 639.34,
-      "change": -4.93,
-      "change_pct": -0.77
+      "value": 664.04,
+      "change": 25.07,
+      "change_pct": 3.92
     },
     "nasdaq": {
-      "value": 24579.43,
-      "change": 264.43,
-      "change_pct": 1.09
+      "value": 25253.14,
+      "change": 673.71,
+      "change_pct": 2.74
     },
     "usdkrw": {
-      "value": 1360.18,
-      "change": 3.84,
-      "change_pct": 0.28
+      "value": 1346.08,
+      "change": -16.62,
+      "change_pct": -1.22
     }
   },
   "gold": {
-    "price_usd": 4080.0,
-    "price_krw": 5549534,
-    "change": 5.1,
-    "change_pct": 0.13
+    "price_usd": 4122.1,
+    "price_krw": 5548676,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-09 09:34",
+  "updated": "2026-11-10 12:11",
   "error": null
 }
