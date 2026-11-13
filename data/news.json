@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "은행지주CEO 연임 요건 강화…당정 “추천위 전원 독립이사”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001884675"
+      "title": "인천 강화 산란계 농장서 H5형 조류인플루엔자 항원 확인",
+      "url": "https://n.news.naver.com/mnews/article/001/0016438369"
     },
     {
-      "title": "K-뷰티 호황에 ODM 3사 최대 매출…영업익은 코스맥스만 '깜짝 성장'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009284509"
+      "title": "제바협, '바이오 유럽' 통해 'K제약' 글로벌 협력 지원",
+      "url": "https://n.news.naver.com/mnews/article/119/0003154726"
     },
     {
-      "title": "삼양식품, 베트남에 생산 공장 설립[기업]",
-      "url": "https://n.news.naver.com/mnews/article/052/0002431491"
+      "title": "\"삼성 우승하면 에버랜드 가자~\" 강민호 약속 현실로... 팬 2000명 무료 초청",
+      "url": "https://n.news.naver.com/mnews/article/469/0000965252"
     },
     {
-      "title": "현대로템, ESG 평가 3년 연속 최고등급 'A+'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005841536"
+      "title": "한수원·체코 발주사, 두코바니 원전 합동 점검…내년 4월 건설허가 신청",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409349"
     },
     {
-      "title": "'국고채 담합' 금융사에 내려진 과징금 폭탄…증권가 영향은?",
-      "url": "https://n.news.naver.com/mnews/article/088/0001039860"
+      "title": "국토장관 \"재초환, 집값 안정 효과 있지만 재산권 침해도\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016438418"
     },
     {
-      "title": "“이익도 안 나는데, 차라리 입찰 포기”…PD사 집단 반발하자 재경부도 당혹",
-      "url": "https://n.news.naver.com/mnews/article/011/0004681159"
+      "title": "GS25, 와인·위스키 할인전…1만원대부터 프리미엄 주류까지",
+      "url": "https://n.news.naver.com/mnews/article/001/0016439906"
     },
     {
-      "title": "최재락 세왕섬유 회장, 섬유의 날 금탑산업훈장 수상",
-      "url": "https://n.news.naver.com/mnews/article/015/0005352805"
+      "title": "“강북 전세도 10억”…내년에도 전세 오른다, 전국 연간 4.5% 상승 전망",
+      "url": "https://n.news.naver.com/mnews/article/025/0003564790"
     },
     {
-      "title": "메리츠증권, 3분기 순이익 2064억원…전년比 3.2% 증가",
-      "url": "https://n.news.naver.com/mnews/article/366/0001204115"
+      "title": "10월 수출 물가 환율 하락에도 ‘상승 전환’…반도체 가격 상승 영향",
+      "url": "https://n.news.naver.com/mnews/article/056/0012293062"
     },
     {
-      "title": "교보증권, ESG 평가 통합 A등급 첫 획득",
-      "url": "https://n.news.naver.com/mnews/article/018/0006408718"
+      "title": "李대통령 “韓증시 여전히 저평가”…오늘 증시 체질개선 해법 찾는다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004681778"
     },
     {
-      "title": "'본업집중' 이마트, 분기매출 첫 5조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/008/0005439922"
+      "title": "BBQ, 남아공 요하네스버그에 1호점… 아프리카 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/366/0001204486"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5399.43,
+      "value": 5475.02,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 702.85,
+      "value": 723.6,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25466.19,
-      "change": 400.32,
-      "change_pct": 1.6
+      "value": 25366.09,
+      "change": -100.1,
+      "change_pct": -0.39
     },
     "usdkrw": {
-      "value": 1333.18,
-      "change": -8.73,
-      "change_pct": -0.65
+      "value": 1331.26,
+      "change": -5.0,
+      "change_pct": -0.37
     }
   },
   "gold": {
-    "price_usd": 3987.9,
-    "price_krw": 5316588,
-    "change": -42.3,
-    "change_pct": -1.05
+    "price_usd": 3918.2,
+    "price_krw": 5216142,
+    "change": -82.3,
+    "change_pct": -2.06
   },
-  "updated": "2026-11-12 11:07",
+  "updated": "2026-11-13 10:41",
   "error": null
 }
