@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "인천 강화 산란계 농장서 H5형 조류인플루엔자 항원 확인",
-      "url": "https://n.news.naver.com/mnews/article/001/0016438369"
+      "title": "SC제일은행 3분기 누적 순익 5천62억원…작년보다 67%↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016441148"
     },
     {
-      "title": "제바협, '바이오 유럽' 통해 'K제약' 글로벌 협력 지원",
-      "url": "https://n.news.naver.com/mnews/article/119/0003154726"
+      "title": "한 총리 \"미사용 카드포인트 2.1조, 지역화폐 전환 추진…골목상권 활력 최선\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014320602"
     },
     {
-      "title": "\"삼성 우승하면 에버랜드 가자~\" 강민호 약속 현실로... 팬 2000명 무료 초청",
-      "url": "https://n.news.naver.com/mnews/article/469/0000965252"
+      "title": "“하루 600도 벌었는데…”누적거래 100억 단타할머니",
+      "url": "https://n.news.naver.com/mnews/article/021/0002832664"
     },
     {
-      "title": "한수원·체코 발주사, 두코바니 원전 합동 점검…내년 4월 건설허가 신청",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409349"
+      "title": "'모두의 창업' 참여 AI기업 해킹…창업자 818명 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/030/0003485507"
     },
     {
-      "title": "국토장관 \"재초환, 집값 안정 효과 있지만 재산권 침해도\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016438418"
+      "title": "한국씨티은행 3분기 누적 당기순이익 4452억원…역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/016/0002723256"
     },
     {
-      "title": "GS25, 와인·위스키 할인전…1만원대부터 프리미엄 주류까지",
-      "url": "https://n.news.naver.com/mnews/article/001/0016439906"
+      "title": "법원 “고려아연 신주발행 적법”…항소심서 영풍 패소로 뒤집혀",
+      "url": "https://n.news.naver.com/mnews/article/081/0003699191"
     },
     {
-      "title": "“강북 전세도 10억”…내년에도 전세 오른다, 전국 연간 4.5% 상승 전망",
-      "url": "https://n.news.naver.com/mnews/article/025/0003564790"
+      "title": "구글에 길 터준 韓지도…애플 등 해외 빅테크 '도미노' 촉각",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409552"
     },
     {
-      "title": "10월 수출 물가 환율 하락에도 ‘상승 전환’…반도체 가격 상승 영향",
-      "url": "https://n.news.naver.com/mnews/article/056/0012293062"
+      "title": "농식품부, 김치·배추·무 수출 확대 추진…비축 배추 할인 공급",
+      "url": "https://n.news.naver.com/mnews/article/001/0016441087"
     },
     {
-      "title": "李대통령 “韓증시 여전히 저평가”…오늘 증시 체질개선 해법 찾는다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004681778"
+      "title": "현대해상, 3분기 누적 순익 7808억원…전년비 23.1% 증가",
+      "url": "https://n.news.naver.com/mnews/article/003/0014320860"
     },
     {
-      "title": "BBQ, 남아공 요하네스버그에 1호점… 아프리카 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/366/0001204486"
+      "title": "지방공항 살리기, 순서부터 바꿔야 하는 이유[전문가 칼럼]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409213"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5475.02,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 723.6,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25366.09,
-      "change": -100.1,
-      "change_pct": -0.39
+      "value": 25136.27,
+      "change": -229.82,
+      "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1331.26,
-      "change": -5.0,
-      "change_pct": -0.37
+      "value": 1333.78,
+      "change": -2.48,
+      "change_pct": -0.19
     }
   },
   "gold": {
-    "price_usd": 3918.2,
-    "price_krw": 5216142,
-    "change": -82.3,
-    "change_pct": -2.06
+    "price_usd": 3887.6,
+    "price_krw": 5185203,
+    "change": 2.3,
+    "change_pct": 0.06
   },
-  "updated": "2026-11-13 10:41",
+  "updated": "2026-11-14 10:17",
   "error": null
 }
