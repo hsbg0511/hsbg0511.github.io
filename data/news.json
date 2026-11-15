@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "SC제일은행 3분기 누적 순익 5천62억원…작년보다 67%↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016441148"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000520693"
     },
     {
-      "title": "한 총리 \"미사용 카드포인트 2.1조, 지역화폐 전환 추진…골목상권 활력 최선\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014320602"
+      "title": "퇴직연금 수익률 뚝…3분기 DC형 원금비보장 수익률 ¼로",
+      "url": "https://n.news.naver.com/mnews/article/422/0000926257"
     },
     {
-      "title": "“하루 600도 벌었는데…”누적거래 100억 단타할머니",
-      "url": "https://n.news.naver.com/mnews/article/021/0002832664"
+      "title": "작년 전세보증금 6년 전보다 35% 올라…보증금 대출은 53%↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442035"
     },
     {
-      "title": "'모두의 창업' 참여 AI기업 해킹…창업자 818명 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/030/0003485507"
+      "title": "55만원 순금 케이크부터 1만원대까지…호텔가 성탄절 디저트 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682173"
     },
     {
-      "title": "한국씨티은행 3분기 누적 당기순이익 4452억원…역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/016/0002723256"
+      "title": "암 환자 낙인 인식 개선…유전자 검사 알리겠다는 응답 65%→80%",
+      "url": "https://n.news.naver.com/mnews/article/366/0001204807"
     },
     {
-      "title": "법원 “고려아연 신주발행 적법”…항소심서 영풍 패소로 뒤집혀",
-      "url": "https://n.news.naver.com/mnews/article/081/0003699191"
+      "title": "노란우산 고객정보 유출 가능성…중기중앙회 \"피해 범위 확인 중\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000926171"
     },
     {
-      "title": "구글에 길 터준 韓지도…애플 등 해외 빅테크 '도미노' 촉각",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409552"
+      "title": "한국, 중국 수입시장 6개월째 1위...미국서는 6위",
+      "url": "https://n.news.naver.com/mnews/article/052/0002432819"
     },
     {
-      "title": "농식품부, 김치·배추·무 수출 확대 추진…비축 배추 할인 공급",
-      "url": "https://n.news.naver.com/mnews/article/001/0016441087"
+      "title": "머스크, 축구장 57개 규모 부지에 초지능 거점 세운다 [김기혁의 테슬라월드]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682202"
     },
     {
-      "title": "현대해상, 3분기 누적 순익 7808억원…전년비 23.1% 증가",
-      "url": "https://n.news.naver.com/mnews/article/003/0014320860"
+      "title": "\"집 팔고 나가라는 거냐\"…은마 '4.6억 청구서'에 부글부글 [이슬기의 새집다오]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005353805"
     },
     {
-      "title": "지방공항 살리기, 순서부터 바꿔야 하는 이유[전문가 칼럼]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409213"
+      "title": "엔비디아 또, '스캔들 이후 13% 급락' 시총 4조달러 아래로",
+      "url": "https://n.news.naver.com/mnews/article/243/0000105666"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5290.53,
+      "change": -52.2,
+      "change_pct": -0.98
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 699.66,
+      "change": 3.13,
+      "change_pct": 0.45
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1333.78,
-      "change": -2.48,
-      "change_pct": -0.19
+      "value": 1336.2,
+      "change": 2.42,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 3887.6,
-    "price_krw": 5185203,
-    "change": 2.3,
-    "change_pct": 0.06
+    "price_usd": 3886.3,
+    "price_krw": 5192874,
+    "change": 1.0,
+    "change_pct": 0.03
   },
-  "updated": "2026-11-14 10:17",
+  "updated": "2026-11-15 09:47",
   "error": null
 }
