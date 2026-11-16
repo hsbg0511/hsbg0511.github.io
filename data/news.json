@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000520693"
+      "title": "5대 은행지주 사외이사 ‘포용금융 전문가’는 단 한 명뿐",
+      "url": "https://n.news.naver.com/mnews/article/016/0002723495"
     },
     {
-      "title": "퇴직연금 수익률 뚝…3분기 DC형 원금비보장 수익률 ¼로",
-      "url": "https://n.news.naver.com/mnews/article/422/0000926257"
+      "title": "삼성SDI, 5%대 상승…美 ESS 기업과 배터리 공급 계약 체결",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441432"
     },
     {
-      "title": "작년 전세보증금 6년 전보다 35% 올라…보증금 대출은 53%↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016442035"
+      "title": "\"올해는 김장 할 만 하겠네\"...2020년대 들어 '최저'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001272850"
     },
     {
-      "title": "55만원 순금 케이크부터 1만원대까지…호텔가 성탄절 디저트 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/011/0004682173"
+      "title": "제주항공, ESG 평가 4년 연속 통합 A등급 획득",
+      "url": "https://n.news.naver.com/mnews/article/629/0000552091"
     },
     {
-      "title": "암 환자 낙인 인식 개선…유전자 검사 알리겠다는 응답 65%→80%",
-      "url": "https://n.news.naver.com/mnews/article/366/0001204807"
+      "title": "CU, 이번엔 '리센느 굿즈' 선보여…리트와 메트 캐릭터 활용",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442987"
     },
     {
-      "title": "노란우산 고객정보 유출 가능성…중기중앙회 \"피해 범위 확인 중\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000926171"
+      "title": "맘스터치, 우즈베키스탄 타슈켄트에 MF 1호점 오픈",
+      "url": "https://n.news.naver.com/mnews/article/421/0009290439"
     },
     {
-      "title": "한국, 중국 수입시장 6개월째 1위...미국서는 6위",
-      "url": "https://n.news.naver.com/mnews/article/052/0002432819"
+      "title": "메리츠證, \"SK오션플랜트 목표가 48%↓…경영 불확실성 존재\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009290528"
     },
     {
-      "title": "머스크, 축구장 57개 규모 부지에 초지능 거점 세운다 [김기혁의 테슬라월드]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004682202"
+      "title": "LH, 남양주왕숙·고양창릉 등 공공주택 9000가구 민참사업 공모",
+      "url": "https://n.news.naver.com/mnews/article/018/0006410272"
     },
     {
-      "title": "\"집 팔고 나가라는 거냐\"…은마 '4.6억 청구서'에 부글부글 [이슬기의 새집다오]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353805"
+      "title": "NH농협금융, 기금형 퇴직연금 시장 진출 준비…계열사 공동 TF 가동",
+      "url": "https://n.news.naver.com/mnews/article/016/0002723833"
     },
     {
-      "title": "엔비디아 또, '스캔들 이후 13% 급락' 시총 4조달러 아래로",
-      "url": "https://n.news.naver.com/mnews/article/243/0000105666"
+      "title": "韓 1000대 기업 여성 CEO 3.3%뿐…3명 중 2명은 오너 일가",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682436"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5290.53,
-      "change": -52.2,
-      "change_pct": -0.98
+      "value": 5284.3,
+      "change": -6.23,
+      "change_pct": -0.12
     },
     "kosdaq": {
-      "value": 699.66,
-      "change": 3.13,
-      "change_pct": 0.45
+      "value": 694.65,
+      "change": -5.01,
+      "change_pct": -0.72
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1336.2,
-      "change": 2.42,
-      "change_pct": 0.18
+      "value": 1333.68,
+      "change": -0.1,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 3886.3,
-    "price_krw": 5192874,
-    "change": 1.0,
-    "change_pct": 0.03
+    "price_usd": 3890.3,
+    "price_krw": 5188415,
+    "change": 4.0,
+    "change_pct": 0.1
   },
-  "updated": "2026-11-15 09:47",
+  "updated": "2026-11-16 09:46",
   "error": null
 }
