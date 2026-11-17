@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "5대 은행지주 사외이사 ‘포용금융 전문가’는 단 한 명뿐",
-      "url": "https://n.news.naver.com/mnews/article/016/0002723495"
+      "title": "“수험생 듣기평가 방해 없도록”…전국 공항 항공기 35분간 ‘이착륙 금지’",
+      "url": "https://n.news.naver.com/mnews/article/666/0000132402"
     },
     {
-      "title": "삼성SDI, 5%대 상승…美 ESS 기업과 배터리 공급 계약 체결",
-      "url": "https://n.news.naver.com/mnews/article/008/0005441432"
+      "title": "LS일렉트릭, 베트남 박닌 공장 증설…수주 물량도 확보",
+      "url": "https://n.news.naver.com/mnews/article/079/0004210517"
     },
     {
-      "title": "\"올해는 김장 할 만 하겠네\"...2020년대 들어 '최저'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001272850"
+      "title": "아리바이오의 먹는 치매약, 글로벌 임상 3상에서 1차 목표 달성",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010035"
     },
     {
-      "title": "제주항공, ESG 평가 4년 연속 통합 A등급 획득",
-      "url": "https://n.news.naver.com/mnews/article/629/0000552091"
+      "title": "韓 OLED, 중국 제치고 출하량도 세계 1위 탈환",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682982"
     },
     {
-      "title": "CU, 이번엔 '리센느 굿즈' 선보여…리트와 메트 캐릭터 활용",
-      "url": "https://n.news.naver.com/mnews/article/001/0016442987"
+      "title": "CJ, 올리브영 성장세 주춤…“내년 美 진출 효과 본격화”-SK",
+      "url": "https://n.news.naver.com/mnews/article/018/0006410817"
     },
     {
-      "title": "맘스터치, 우즈베키스탄 타슈켄트에 MF 1호점 오픈",
-      "url": "https://n.news.naver.com/mnews/article/421/0009290439"
+      "title": "공동주택 리모델링 동의율 75%→70%…주택법 시행령 개정안",
+      "url": "https://n.news.naver.com/mnews/article/056/0012295399"
     },
     {
-      "title": "메리츠證, \"SK오션플랜트 목표가 48%↓…경영 불확실성 존재\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009290528"
+      "title": "셀트리온 ‘허쥬마’ 브라질 정부 입찰 7년 연속 수주…후속 제품도 출격",
+      "url": "https://n.news.naver.com/mnews/article/018/0006410970"
     },
     {
-      "title": "LH, 남양주왕숙·고양창릉 등 공공주택 9000가구 민참사업 공모",
-      "url": "https://n.news.naver.com/mnews/article/018/0006410272"
+      "title": "\"음식에만 집중\"…배민, 리뷰 평가 방식 분리한다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014326696"
     },
     {
-      "title": "NH농협금융, 기금형 퇴직연금 시장 진출 준비…계열사 공동 TF 가동",
-      "url": "https://n.news.naver.com/mnews/article/016/0002723833"
+      "title": "집이 알아서 조명·냉난방 조절...GS건설, 'AI 아파트' 청사진 제시",
+      "url": "https://n.news.naver.com/mnews/article/022/0004175762"
     },
     {
-      "title": "韓 1000대 기업 여성 CEO 3.3%뿐…3명 중 2명은 오너 일가",
-      "url": "https://n.news.naver.com/mnews/article/011/0004682436"
+      "title": "악재에 악재 하락세 지속하는 '비트코인'[크립토 레이더]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005843102"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5284.3,
-      "change": -6.23,
-      "change_pct": -0.12
+      "value": 5043.48,
+      "change": -57.02,
+      "change_pct": -1.12
     },
     "kosdaq": {
-      "value": 694.65,
-      "change": -5.01,
-      "change_pct": -0.72
+      "value": 658.94,
+      "change": -6.71,
+      "change_pct": -1.01
     },
     "nasdaq": {
-      "value": 25136.27,
-      "change": -229.82,
-      "change_pct": -0.91
+      "value": 24509.76,
+      "change": -626.51,
+      "change_pct": -2.49
     },
     "usdkrw": {
-      "value": 1333.68,
-      "change": -0.1,
-      "change_pct": -0.01
+      "value": 1339.18,
+      "change": 5.93,
+      "change_pct": 0.44
     }
   },
   "gold": {
-    "price_usd": 3890.3,
-    "price_krw": 5188415,
-    "change": 4.0,
-    "change_pct": 0.1
+    "price_usd": 3875.8,
+    "price_krw": 5190393,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-16 09:46",
+  "updated": "2026-11-17 12:25",
   "error": null
 }
