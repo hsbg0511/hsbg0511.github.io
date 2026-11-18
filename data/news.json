@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“수험생 듣기평가 방해 없도록”…전국 공항 항공기 35분간 ‘이착륙 금지’",
-      "url": "https://n.news.naver.com/mnews/article/666/0000132402"
+      "title": "주변부 시스템까지 전수 보안점검…대형사 평가 연 1회→2회",
+      "url": "https://n.news.naver.com/mnews/article/001/0016447765"
     },
     {
-      "title": "LS일렉트릭, 베트남 박닌 공장 증설…수주 물량도 확보",
-      "url": "https://n.news.naver.com/mnews/article/079/0004210517"
+      "title": "호반건설, 2년 연속 지역사회공헌 인정기업  A+등급",
+      "url": "https://n.news.naver.com/mnews/article/003/0014328932"
     },
     {
-      "title": "아리바이오의 먹는 치매약, 글로벌 임상 3상에서 1차 목표 달성",
-      "url": "https://n.news.naver.com/mnews/article/023/0004010035"
+      "title": "[속보]뉴욕증시 일제히 하락 마감…S&P500 1.03% ↓",
+      "url": "https://n.news.naver.com/mnews/article/277/0005844047"
     },
     {
-      "title": "韓 OLED, 중국 제치고 출하량도 세계 1위 탈환",
-      "url": "https://n.news.naver.com/mnews/article/011/0004682982"
+      "title": "보스턴다이나믹스 '아틀라스', 반도체 공장 투입…'글로벌파운드리'서 실증",
+      "url": "https://n.news.naver.com/mnews/article/003/0014328858"
     },
     {
-      "title": "CJ, 올리브영 성장세 주춤…“내년 美 진출 효과 본격화”-SK",
-      "url": "https://n.news.naver.com/mnews/article/018/0006410817"
+      "title": "LG 올인원 의류 관리 설루션, 인간공학디자인상 최고상 수상",
+      "url": "https://n.news.naver.com/mnews/article/001/0016448213"
     },
     {
-      "title": "공동주택 리모델링 동의율 75%→70%…주택법 시행령 개정안",
-      "url": "https://n.news.naver.com/mnews/article/056/0012295399"
+      "title": "SK바이오팜, 英서 뇌전증약 세노바메이트 소개…“처방 환자 30만명”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001205574"
     },
     {
-      "title": "셀트리온 ‘허쥬마’ 브라질 정부 입찰 7년 연속 수주…후속 제품도 출격",
-      "url": "https://n.news.naver.com/mnews/article/018/0006410970"
+      "title": "최태원 “자본주의 유인체계, 사회문제 해결에 활용해야”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003059776"
     },
     {
-      "title": "\"음식에만 집중\"…배민, 리뷰 평가 방식 분리한다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014326696"
+      "title": "하나증권, 이지스운용·딜로이트 안진과 MOU",
+      "url": "https://n.news.naver.com/mnews/article/277/0005844134"
     },
     {
-      "title": "집이 알아서 조명·냉난방 조절...GS건설, 'AI 아파트' 청사진 제시",
-      "url": "https://n.news.naver.com/mnews/article/022/0004175762"
+      "title": "금감원, 자산운용사 '해킹 침해사고 대응' 간담회",
+      "url": "https://n.news.naver.com/mnews/article/008/0005442766"
     },
     {
-      "title": "악재에 악재 하락세 지속하는 '비트코인'[크립토 레이더]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005843102"
+      "title": "KDB생명 일곱 번째 매각 시도 실패…한투 인수 안 한다",
+      "url": "https://n.news.naver.com/mnews/article/374/0000544396"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5043.48,
-      "change": -57.02,
-      "change_pct": -1.12
+      "value": 4975.27,
+      "change": 6.79,
+      "change_pct": 0.14
     },
     "kosdaq": {
-      "value": 658.94,
-      "change": -6.71,
-      "change_pct": -1.01
+      "value": 649.87,
+      "change": -0.19,
+      "change_pct": -0.03
     },
     "nasdaq": {
-      "value": 24509.76,
-      "change": -626.51,
-      "change_pct": -2.49
+      "value": 24328.38,
+      "change": -181.38,
+      "change_pct": -0.74
     },
     "usdkrw": {
-      "value": 1339.18,
-      "change": 5.93,
-      "change_pct": 0.44
+      "value": 1329.38,
+      "change": -6.29,
+      "change_pct": -0.47
     }
   },
   "gold": {
-    "price_usd": 3875.8,
-    "price_krw": 5190393,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3806.7,
+    "price_krw": 5060550,
+    "change": -46.3,
+    "change_pct": -1.2
   },
-  "updated": "2026-11-17 12:25",
+  "updated": "2026-11-18 11:44",
   "error": null
 }
