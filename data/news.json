@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "주변부 시스템까지 전수 보안점검…대형사 평가 연 1회→2회",
-      "url": "https://n.news.naver.com/mnews/article/001/0016447765"
+      "title": "한한령 완화 기대에 엔터주 들썩…K팝 공연 재개는 여전히 안갯속",
+      "url": "https://n.news.naver.com/mnews/article/014/0005606522"
     },
     {
-      "title": "호반건설, 2년 연속 지역사회공헌 인정기업  A+등급",
-      "url": "https://n.news.naver.com/mnews/article/003/0014328932"
+      "title": "하이브, 3000만장 판 일본 걸그룹 품었다…키홀더 인수",
+      "url": "https://n.news.naver.com/mnews/article/015/0005355479"
     },
     {
-      "title": "[속보]뉴욕증시 일제히 하락 마감…S&P500 1.03% ↓",
-      "url": "https://n.news.naver.com/mnews/article/277/0005844047"
+      "title": "현대글로비스, 美서 물류 영토 넓힌다…항만부터 내륙까지 [비즈360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002725514"
     },
     {
-      "title": "보스턴다이나믹스 '아틀라스', 반도체 공장 투입…'글로벌파운드리'서 실증",
-      "url": "https://n.news.naver.com/mnews/article/003/0014328858"
+      "title": "신동빈·신유열 나란히 송도에…롯데, 바이오 승부수",
+      "url": "https://n.news.naver.com/mnews/article/025/0003566197"
     },
     {
-      "title": "LG 올인원 의류 관리 설루션, 인간공학디자인상 최고상 수상",
-      "url": "https://n.news.naver.com/mnews/article/001/0016448213"
+      "title": "현대건설, 협력사 차세대 경영인 키운다…상생 프로그램 운영",
+      "url": "https://n.news.naver.com/mnews/article/016/0002725568"
     },
     {
-      "title": "SK바이오팜, 英서 뇌전증약 세노바메이트 소개…“처방 환자 30만명”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001205574"
+      "title": "국토부, 이혜훈 배우자 ‘40억 로또’ 아파트 분양계약 취소 요청",
+      "url": "https://n.news.naver.com/mnews/article/025/0003566133"
     },
     {
-      "title": "최태원 “자본주의 유인체계, 사회문제 해결에 활용해야”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003059776"
+      "title": "[단독] 투썸플레이스, ‘시중가 최대 4배’ 물품·장비 강매 의혹... 공정위 조사 착수",
+      "url": "https://n.news.naver.com/mnews/article/366/0001205804"
     },
     {
-      "title": "하나증권, 이지스운용·딜로이트 안진과 MOU",
-      "url": "https://n.news.naver.com/mnews/article/277/0005844134"
+      "title": "금융권 투자한 해외 부동산 ‘부실 우려’ 반년 새 27% 늘어",
+      "url": "https://n.news.naver.com/mnews/article/032/0003483675"
     },
     {
-      "title": "금감원, 자산운용사 '해킹 침해사고 대응' 간담회",
-      "url": "https://n.news.naver.com/mnews/article/008/0005442766"
+      "title": "기아 노사, 전국 복지시설·학교 36곳에 레이 22대·1억1300만원 기부",
+      "url": "https://n.news.naver.com/mnews/article/030/0003487473"
     },
     {
-      "title": "KDB생명 일곱 번째 매각 시도 실패…한투 인수 안 한다",
-      "url": "https://n.news.naver.com/mnews/article/374/0000544396"
+      "title": "펩트론, '월 1회' 비만치료제 국내 1상 계획 승인",
+      "url": "https://n.news.naver.com/mnews/article/003/0014331940"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4975.27,
-      "change": 6.79,
-      "change_pct": 0.14
+      "value": 5031.95,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 649.87,
-      "change": -0.19,
-      "change_pct": -0.03
+      "value": 659.31,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24328.38,
-      "change": -181.38,
-      "change_pct": -0.74
+      "value": 24429.88,
+      "change": 101.5,
+      "change_pct": 0.42
     },
     "usdkrw": {
-      "value": 1329.38,
-      "change": -6.29,
-      "change_pct": -0.47
+      "value": 1330.08,
+      "change": -2.93,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 3806.7,
-    "price_krw": 5060550,
-    "change": -46.3,
-    "change_pct": -1.2
+    "price_usd": 3747.1,
+    "price_krw": 4983942,
+    "change": -117.1,
+    "change_pct": -3.03
   },
-  "updated": "2026-11-18 11:44",
+  "updated": "2026-11-19 11:17",
   "error": null
 }
