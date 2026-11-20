@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한한령 완화 기대에 엔터주 들썩…K팝 공연 재개는 여전히 안갯속",
-      "url": "https://n.news.naver.com/mnews/article/014/0005606522"
+      "title": "앤트로픽 성공적 상장에도 투심 불안…4%대 급락, 또 '5천피' 밑으로(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016453696"
     },
     {
-      "title": "하이브, 3000만장 판 일본 걸그룹 품었다…키홀더 인수",
-      "url": "https://n.news.naver.com/mnews/article/015/0005355479"
+      "title": "中 관영 매체 “韓 1조달러 수출, 반도체 덕분…새 도전 맞을 것”",
+      "url": "https://n.news.naver.com/mnews/article/003/0014335100"
     },
     {
-      "title": "현대글로비스, 美서 물류 영토 넓힌다…항만부터 내륙까지 [비즈360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002725514"
+      "title": "LG디스플레이, 3조 OLED 투자 7년 만에 철회",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684121"
     },
     {
-      "title": "신동빈·신유열 나란히 송도에…롯데, 바이오 승부수",
-      "url": "https://n.news.naver.com/mnews/article/025/0003566197"
+      "title": "백승태 LG전자 HS사업본부장 사장[프로필]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005443805"
     },
     {
-      "title": "현대건설, 협력사 차세대 경영인 키운다…상생 프로그램 운영",
-      "url": "https://n.news.naver.com/mnews/article/016/0002725568"
+      "title": "한국·노르웨이, 방산·에너지로 협력 확대…공동사업 발굴",
+      "url": "https://n.news.naver.com/mnews/article/001/0016453545"
     },
     {
-      "title": "국토부, 이혜훈 배우자 ‘40억 로또’ 아파트 분양계약 취소 요청",
-      "url": "https://n.news.naver.com/mnews/article/025/0003566133"
+      "title": "앤스로픽 공모가 83弗…스페이스X 넘어 최대",
+      "url": "https://n.news.naver.com/mnews/article/014/0005607104"
     },
     {
-      "title": "[단독] 투썸플레이스, ‘시중가 최대 4배’ 물품·장비 강매 의혹... 공정위 조사 착수",
-      "url": "https://n.news.naver.com/mnews/article/366/0001205804"
+      "title": "bhc, 몽골 진출…10년간 15개 매장 출점 목표",
+      "url": "https://n.news.naver.com/mnews/article/001/0016453687"
     },
     {
-      "title": "금융권 투자한 해외 부동산 ‘부실 우려’ 반년 새 27% 늘어",
-      "url": "https://n.news.naver.com/mnews/article/032/0003483675"
+      "title": "질병청, 희귀질환 특수식 생산공장 방문…\"안정공급 지원\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014334271"
     },
     {
-      "title": "기아 노사, 전국 복지시설·학교 36곳에 레이 22대·1억1300만원 기부",
-      "url": "https://n.news.naver.com/mnews/article/030/0003487473"
+      "title": "앤스로픽 상장하자 기존 기술주 팔아치웠다…美증시 급락",
+      "url": "https://n.news.naver.com/mnews/article/020/0003763884"
     },
     {
-      "title": "펩트론, '월 1회' 비만치료제 국내 1상 계획 승인",
-      "url": "https://n.news.naver.com/mnews/article/003/0014331940"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012297795"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5031.95,
+      "value": 4911.55,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 659.31,
+      "value": 655.7,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24429.88,
-      "change": 101.5,
-      "change_pct": 0.42
+      "value": 23879.2,
+      "change": -550.68,
+      "change_pct": -2.25
     },
     "usdkrw": {
-      "value": 1330.08,
-      "change": -2.93,
-      "change_pct": -0.22
+      "value": 1337.28,
+      "change": 6.88,
+      "change_pct": 0.52
     }
   },
   "gold": {
-    "price_usd": 3747.1,
-    "price_krw": 4983942,
-    "change": -117.1,
-    "change_pct": -3.03
+    "price_usd": 3565.8,
+    "price_krw": 4768473,
+    "change": -176.1,
+    "change_pct": -4.71
   },
-  "updated": "2026-11-19 11:17",
+  "updated": "2026-11-20 11:01",
   "error": null
 }
