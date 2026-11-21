@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "앤트로픽 성공적 상장에도 투심 불안…4%대 급락, 또 '5천피' 밑으로(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016453696"
+      "title": "엔트로픽 상장 직후 韓에 '검은 금요일'…코스피 4900선 붕괴",
+      "url": "https://n.news.naver.com/mnews/article/079/0004212212"
     },
     {
-      "title": "中 관영 매체 “韓 1조달러 수출, 반도체 덕분…새 도전 맞을 것”",
-      "url": "https://n.news.naver.com/mnews/article/003/0014335100"
-    },
-    {
-      "title": "LG디스플레이, 3조 OLED 투자 7년 만에 철회",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684121"
-    },
-    {
-      "title": "백승태 LG전자 HS사업본부장 사장[프로필]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005443805"
-    },
-    {
-      "title": "한국·노르웨이, 방산·에너지로 협력 확대…공동사업 발굴",
-      "url": "https://n.news.naver.com/mnews/article/001/0016453545"
-    },
-    {
-      "title": "앤스로픽 공모가 83弗…스페이스X 넘어 최대",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607104"
-    },
-    {
-      "title": "bhc, 몽골 진출…10년간 15개 매장 출점 목표",
-      "url": "https://n.news.naver.com/mnews/article/001/0016453687"
-    },
-    {
-      "title": "질병청, 희귀질환 특수식 생산공장 방문…\"안정공급 지원\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014334271"
-    },
-    {
-      "title": "앤스로픽 상장하자 기존 기술주 팔아치웠다…美증시 급락",
-      "url": "https://n.news.naver.com/mnews/article/020/0003763884"
+      "title": "양종희 회장의 마지막 당부 “고객 앞에선 하나의 KB”",
+      "url": "https://n.news.naver.com/mnews/article/138/0002249422"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012297795"
+      "url": "https://n.news.naver.com/mnews/article/052/0002435984"
+    },
+    {
+      "title": "테슬라, FSD 특례 신청에 서류 5장만 이메일 제출…국토부 \"안전 자료 없어 검토 불가\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005845801"
+    },
+    {
+      "title": "고려아연·영풍 영업익 격차 확대…3분기 누적 1조5000억원 육박",
+      "url": "https://n.news.naver.com/mnews/article/138/0002249385"
+    },
+    {
+      "title": "포스코 노사, 1차 합의안 부결 13일 만에 임금교섭 잠정합의(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016455333"
+    },
+    {
+      "title": "엔비디아 134조 투자 멈추나…임시 CEO “투자 꼼꼼하게 따져볼 것”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684395"
+    },
+    {
+      "title": "“미국인들, 삼전닉스 왜 팔죠?”…외국인 두 달 간 국내 주식 45조 순매도",
+      "url": "https://n.news.naver.com/mnews/article/009/0005766522"
+    },
+    {
+      "title": "\"흔들리는 삼성·하이닉스, 팔아야 할까?…내년 실적 '역대급 반전' 예고한 결정적 이유",
+      "url": "https://n.news.naver.com/mnews/article/014/0005607579"
+    },
+    {
+      "title": "올리브영, AI 경쟁력 강화...“국내서 쌓은 옴니채널 기술 글로벌로”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684217"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4911.55,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 655.7,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 23879.2,
-      "change": -550.68,
-      "change_pct": -2.25
+      "value": 22617.73,
+      "change": -1261.47,
+      "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1337.28,
-      "change": 6.88,
-      "change_pct": 0.52
+      "value": 1334.79,
+      "change": 4.39,
+      "change_pct": 0.33
     }
   },
   "gold": {
-    "price_usd": 3565.8,
-    "price_krw": 4768473,
-    "change": -176.1,
-    "change_pct": -4.71
+    "price_usd": 3539.0,
+    "price_krw": 4723821,
+    "change": -146.5,
+    "change_pct": -3.98
   },
-  "updated": "2026-11-20 11:01",
+  "updated": "2026-11-21 10:58",
   "error": null
 }
