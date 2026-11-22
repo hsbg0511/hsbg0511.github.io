@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "엔트로픽 상장 직후 韓에 '검은 금요일'…코스피 4900선 붕괴",
-      "url": "https://n.news.naver.com/mnews/article/079/0004212212"
+      "title": "집값 급등에 ‘시세 17억원’ 주택 보유 30대, 1.8만명…1년새 70%↑",
+      "url": "https://n.news.naver.com/mnews/article/016/0002726639"
     },
     {
-      "title": "양종희 회장의 마지막 당부 “고객 앞에선 하나의 KB”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002249422"
+      "title": "MBK, 日 디지털 펜 강자 와콤 1조1600억원에 인수 추진",
+      "url": "https://n.news.naver.com/mnews/article/016/0002726552"
+    },
+    {
+      "title": "비트코인, 4개월 만에 6만 달러 붕괴…ETF 자금 이탈에 '휘청'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009302465"
+    },
+    {
+      "title": "최태원 “AI 방향 이끌 인재 키워야…새 거버넌스 필요”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003060368"
+    },
+    {
+      "title": "공시가 현실화율 69% 동결에도...집값 급등에 보유세 부담",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684577"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002435984"
+      "url": "https://n.news.naver.com/mnews/article/056/0012298685"
     },
     {
-      "title": "테슬라, FSD 특례 신청에 서류 5장만 이메일 제출…국토부 \"안전 자료 없어 검토 불가\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005845801"
+      "title": "삼성전자 7% 폭락에 개미 1.5조 쓸어담았다…목표가도 줄하향 [숫자 뒤의 진실]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004176893"
     },
     {
-      "title": "고려아연·영풍 영업익 격차 확대…3분기 누적 1조5000억원 육박",
-      "url": "https://n.news.naver.com/mnews/article/138/0002249385"
+      "title": "2027년까지 성장률 전망치 크게 올랐지만…“추가 통화 긴축 필요”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004177039"
     },
     {
-      "title": "포스코 노사, 1차 합의안 부결 13일 만에 임금교섭 잠정합의(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016455333"
+      "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016455447"
     },
     {
-      "title": "엔비디아 134조 투자 멈추나…임시 CEO “투자 꼼꼼하게 따져볼 것”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684395"
-    },
-    {
-      "title": "“미국인들, 삼전닉스 왜 팔죠?”…외국인 두 달 간 국내 주식 45조 순매도",
-      "url": "https://n.news.naver.com/mnews/article/009/0005766522"
-    },
-    {
-      "title": "\"흔들리는 삼성·하이닉스, 팔아야 할까?…내년 실적 '역대급 반전' 예고한 결정적 이유",
-      "url": "https://n.news.naver.com/mnews/article/014/0005607579"
-    },
-    {
-      "title": "올리브영, AI 경쟁력 강화...“국내서 쌓은 옴니채널 기술 글로벌로”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684217"
+      "title": "한 돈 100만원 넘게 주고 샀는데 “나 어떡해”…올해 무려 37% 폭락한 금값, 대체 왜?",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684621"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 4869.96,
+      "change": -267.93,
+      "change_pct": -5.21
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 645.68,
+      "change": -39.13,
+      "change_pct": -5.71
     },
     "nasdaq": {
       "value": 22617.73,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 3539.0,
-    "price_krw": 4723821,
-    "change": -146.5,
-    "change_pct": -3.98
+    "price_usd": 3515.4,
+    "price_krw": 4692320,
+    "change": -170.1,
+    "change_pct": -4.62
   },
-  "updated": "2026-11-21 10:58",
+  "updated": "2026-11-22 09:58",
   "error": null
 }
