@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "집값 급등에 ‘시세 17억원’ 주택 보유 30대, 1.8만명…1년새 70%↑",
-      "url": "https://n.news.naver.com/mnews/article/016/0002726639"
+      "title": "\"또 털렸다\" 이번엔 한전…150만명 개인정보 유출, 주민번호·카드번호까지",
+      "url": "https://n.news.naver.com/mnews/article/008/0005444653"
     },
     {
-      "title": "MBK, 日 디지털 펜 강자 와콤 1조1600억원에 인수 추진",
-      "url": "https://n.news.naver.com/mnews/article/016/0002726552"
+      "title": "카드대란·리먼사태 때 등판… 현재 증안펀드 10조7600억 조성",
+      "url": "https://n.news.naver.com/mnews/article/005/0001886717"
     },
     {
-      "title": "비트코인, 4개월 만에 6만 달러 붕괴…ETF 자금 이탈에 '휘청'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009302465"
+      "title": "반도체 294% 폭증에… 이달 중순 수출 774억 달러 '역대 최대'",
+      "url": "https://n.news.naver.com/mnews/article/656/0000193244"
     },
     {
-      "title": "최태원 “AI 방향 이끌 인재 키워야…새 거버넌스 필요”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003060368"
+      "title": "정부, 국가 대규모 프로젝트에 中企 참여 확대…양극화 해소 나선다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002726894"
     },
     {
-      "title": "공시가 현실화율 69% 동결에도...집값 급등에 보유세 부담",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684577"
+      "title": "‘윤종규 대세론’ 흔드는 KB 견제론… 차기 은행연합회장 막판 변수는",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206446"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012298685"
+      "title": "여성이 남성보다 급여 27.8% 적어…임금 양극화 OECD 최고수준",
+      "url": "https://n.news.naver.com/mnews/article/029/0003060536"
     },
     {
-      "title": "삼성전자 7% 폭락에 개미 1.5조 쓸어담았다…목표가도 줄하향 [숫자 뒤의 진실]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004176893"
+      "title": "키움증권 \"코스피 최악 땐 4,200선…낙폭 과대에 반등 가능성도\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016457176"
     },
     {
-      "title": "2027년까지 성장률 전망치 크게 올랐지만…“추가 통화 긴축 필요”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004177039"
+      "title": "이억원 \"변호사·회계사·세무사에 자금세탁방지 의무 부과\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003158188"
     },
     {
-      "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016455447"
+      "title": "쌍용건설, 2천381억원 규모 부산 거제2구역 재건축 수주",
+      "url": "https://n.news.naver.com/mnews/article/001/0016457454"
     },
     {
-      "title": "한 돈 100만원 넘게 주고 샀는데 “나 어떡해”…올해 무려 37% 폭락한 금값, 대체 왜?",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684621"
+      "title": "LS전선, 미국 전력망 '7천억 잭팟'…역대 최대 대미 수출",
+      "url": "https://n.news.naver.com/mnews/article/215/0001273580"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4869.96,
-      "change": -267.93,
-      "change_pct": -5.21
+      "value": 4676.2,
+      "change": -193.76,
+      "change_pct": -3.98
     },
     "kosdaq": {
-      "value": 645.68,
-      "change": -39.13,
-      "change_pct": -5.71
+      "value": 630.47,
+      "change": -15.21,
+      "change_pct": -2.36
     },
     "nasdaq": {
       "value": 22617.73,
@@ -58,17 +58,17 @@
       "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1334.79,
-      "change": 4.39,
-      "change_pct": 0.33
+      "value": 1345.18,
+      "change": 10.39,
+      "change_pct": 0.78
     }
   },
   "gold": {
-    "price_usd": 3515.4,
-    "price_krw": 4692320,
-    "change": -170.1,
-    "change_pct": -4.62
+    "price_usd": 3613.1,
+    "price_krw": 4860269,
+    "change": 97.7,
+    "change_pct": 2.78
   },
-  "updated": "2026-11-22 09:58",
+  "updated": "2026-11-23 10:24",
   "error": null
 }
