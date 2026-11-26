@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "중부발전, 용인 반도체클러스터 열병합발전소 건설 속도…EPC 계약 체결",
-      "url": "https://n.news.naver.com/mnews/article/014/0005608991"
+      "title": "포용금융 막던 건전성 규제 푼다…소진공 보증 위험가중치 '0%'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009311138"
     },
     {
-      "title": "금호타이어, ‘대한민국 지속가능성대회’ KSI 4년 연속 1위",
-      "url": "https://n.news.naver.com/mnews/article/016/0002728165"
+      "title": "한은 기준금리 3.25%로 상향…고성장·고물가에 유동성 고삐 죘다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004178280"
     },
     {
-      "title": "전주역 일대 AI 혁신도시 조성…도심융합특구 후보지 선정",
-      "url": "https://n.news.naver.com/mnews/article/277/0005847279"
+      "title": "서울디자인페스티벌 26일 코엑스서 개막…올해 주제는 '막, Creative'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005609532"
     },
     {
-      "title": "대기업 이익잉여금 2년 새 560조원 늘어… 삼성전자·SK하이닉스가 70% 견인",
-      "url": "https://n.news.naver.com/mnews/article/023/0004011619"
+      "title": "해외직구 겨울용품 안전기준 '미달'…어린이제품서 유해물질",
+      "url": "https://n.news.naver.com/mnews/article/422/0000930066"
     },
     {
-      "title": "울산시, 샤힌 프로젝트 준공 계기로 후속 투자 유치 추진",
-      "url": "https://n.news.naver.com/mnews/article/001/0016462181"
+      "title": "홈플러스, 27일부터 전국 67개점 영업 중단…인수의향서 접수",
+      "url": "https://n.news.naver.com/mnews/article/030/0003490046"
     },
     {
-      "title": "고려아연 \"MBK·영풍, 허위 주장 반복…사모펀드 경영권 확보시 국부 유출\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014344272"
+      "title": "한화오션, 특수선 협력사와 '원팀'…글로벌 방산 경쟁력 강화",
+      "url": "https://n.news.naver.com/mnews/article/277/0005847953"
     },
     {
-      "title": "노동장관 \"메가 반도체팹 속도전 핵심은 건설인력…적기 인력 공급 지원\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005609463"
+      "title": "삼성전자서비스, 서비스 기술경진대회 개최…AI 활용 역량 평가",
+      "url": "https://n.news.naver.com/mnews/article/018/0006415704"
     },
     {
-      "title": "10월 주택담보대출 금리 5% 근접…14년7개월 만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/028/0002833870"
+      "title": "영끌족 이자부담 어쩌나…가계대출 금리 5% 넘었다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001273895"
     },
     {
-      "title": "금감원 '모험자본 플랫폼' 1호 출자 나와…KB증권, 지역벤처에 투자",
-      "url": "https://n.news.naver.com/mnews/article/003/0014344175"
+      "title": "권대영 “통신비 등 직장인 생활비 절감 과제 추가 발굴”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003490125"
     },
     {
-      "title": "현대모비스, 램프 매각 주총 넘었다…남은 변수는 '2300억 매수청구'",
-      "url": "https://n.news.naver.com/mnews/article/092/0002446746"
+      "title": "중장년·예비 신혼부부도 임대보증금 무이자 지원…서울 장기안심주택 7000가구 모집",
+      "url": "https://n.news.naver.com/mnews/article/032/0003485232"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4732.1,
-      "change": -273.93,
-      "change_pct": -5.47
+      "value": 4727.42,
+      "change": 29.91,
+      "change_pct": 0.64
     },
     "kosdaq": {
-      "value": 652.52,
-      "change": -13.36,
-      "change_pct": -2.01
+      "value": 658.89,
+      "change": 8.25,
+      "change_pct": 1.27
     },
     "nasdaq": {
-      "value": 23733.54,
-      "change": -356.03,
-      "change_pct": -1.48
+      "value": 23585.8,
+      "change": -147.74,
+      "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1343.18,
-      "change": 2.16,
-      "change_pct": 0.16
+      "value": 1343.76,
+      "change": 1.11,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 3550.8,
-    "price_krw": 4769363,
-    "change": -100.6,
-    "change_pct": -2.76
+    "price_usd": 3609.5,
+    "price_krw": 4850301,
+    "change": 47.6,
+    "change_pct": 1.34
   },
-  "updated": "2026-11-25 12:57",
+  "updated": "2026-11-26 12:22",
   "error": null
 }
