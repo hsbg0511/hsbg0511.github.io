@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "홈플러스 \"인수의향서 접수됐다\"…노조, 진위 확인 요구",
-      "url": "https://n.news.naver.com/mnews/article/586/0000143067"
+      "title": "양자대결 ‘역대 최대’ ESS 수주전…출혈 경쟁 줄고, 삼성SDI 웃었다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003568471"
     },
     {
-      "title": "CJ올리브영마저 뚫렸다…790명 개인정보 줄줄이 유출",
-      "url": "https://n.news.naver.com/mnews/article/016/0002729161"
+      "title": "우리금융, 카드·증권 등 7개 자회사 CEO 1년 유임…4개사 신규 선임",
+      "url": "https://n.news.naver.com/mnews/article/003/0014349820"
     },
     {
-      "title": "보험사 대출 연체율 1.27%…중기대출 연체율 1년 새 두 배",
-      "url": "https://n.news.naver.com/mnews/article/008/0005447204"
+      "title": "국민연금 적립금 석달만에 202조원↓…3분기 수익률 13%",
+      "url": "https://n.news.naver.com/mnews/article/001/0016468409"
     },
     {
-      "title": "생방송 중 차트 보다가 ‘울컥’한 주식 전문가…개미들 “나도 계좌 보면 눈물 나” [이슈, 풀어주리]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004686545"
+      "title": "롤러코스터 장세에 시장점검 나선 정부 \"공매도 특이동향 없어\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000968143"
     },
     {
-      "title": "“월급날 은행이 다 털어갑니다”…기준금리 인상 폭탄맞은 영끌족들",
-      "url": "https://n.news.naver.com/mnews/article/009/0005769724"
+      "title": "하이닉스로 100억 번 95년생…폭락 전 털어낸 '기막힌 타이밍' [머니팁]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005358964"
     },
     {
-      "title": "김정관, 체코 원전사업 점검…내달 체코 부총리 방한 대비",
-      "url": "https://n.news.naver.com/mnews/article/014/0005610244"
+      "title": "JBL이 '정상'에 오르기까지…2억5800만원 스피커에 담긴 7년",
+      "url": "https://n.news.naver.com/mnews/article/138/0002250207"
     },
     {
-      "title": "케이뱅크, 네이버페이와 손잡고 '사장님 신용대출' 출시",
-      "url": "https://n.news.naver.com/mnews/article/277/0005848787"
+      "title": "홍지선 장관 \"부전∼마산 복선전철, 내년 4월 부분개통 차질 없게\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005610913"
     },
     {
-      "title": "은행 1~3분기 이자이익 48조 ‘역대 최대’… 당기순익도 2.1%↑",
-      "url": "https://n.news.naver.com/mnews/article/366/0001207658"
+      "title": "iM금융 회장 최종 후보군 3명 선정…현 황병우 회장·외부 후보 2명",
+      "url": "https://n.news.naver.com/mnews/article/079/0004214744"
     },
     {
-      "title": "연무장길서 서울숲까지 영토확장…'무탠다드' 800평 승부수[르포]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005848435"
+      "title": "“배당금은 70만원, 수익률은 -30%”…삼전 개미들 웃픈 현실",
+      "url": "https://n.news.naver.com/mnews/article/018/0006416613"
     },
     {
-      "title": "'대륙의 취향' 제대로 저격했다…현대차 '머큐리 콘셉트' 공개",
-      "url": "https://n.news.naver.com/mnews/article/018/0006416519"
+      "title": "연기금투자풀 25년 만에 '50배'…위탁운용 1.9조→98조 원",
+      "url": "https://n.news.naver.com/mnews/article/448/0000653850"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4848.03,
-      "change": 136.82,
-      "change_pct": 2.9
+      "value": 4915.68,
+      "change": 204.47,
+      "change_pct": 4.34
     },
     "kosdaq": {
-      "value": 694.56,
-      "change": 38.85,
-      "change_pct": 5.92
+      "value": 708.99,
+      "change": 53.28,
+      "change_pct": 8.13
     },
     "nasdaq": {
-      "value": 23585.8,
-      "change": -147.74,
-      "change_pct": -0.62
+      "value": 24129.5,
+      "change": 543.7,
+      "change_pct": 2.31
     },
     "usdkrw": {
-      "value": 1340.98,
-      "change": -1.99,
-      "change_pct": -0.15
+      "value": 1343.53,
+      "change": 0.56,
+      "change_pct": 0.04
     }
   },
   "gold": {
-    "price_usd": 3660.4,
-    "price_krw": 4908523,
-    "change": 124.6,
-    "change_pct": 3.52
+    "price_usd": 3668.5,
+    "price_krw": 4928739,
+    "change": 132.7,
+    "change_pct": 3.75
   },
-  "updated": "2026-11-27 12:29",
+  "updated": "2026-11-28 12:05",
   "error": null
 }
